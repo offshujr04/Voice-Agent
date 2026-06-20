@@ -60,10 +60,7 @@ function navigateTo(rawUrl: string): void {
 
   // Remap to the current origin using just the path/query/hash so a host/port
   // mismatch between the crawl and the live site can't break navigation.
-  const target = new URL(
-    parsed.pathname + parsed.search + parsed.hash,
-    window.location.origin
-  );
+  const target = new URL(parsed.pathname + parsed.search + parsed.hash, window.location.origin);
 
   // Already here — nothing to do.
   if (target.href === window.location.href) {

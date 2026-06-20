@@ -4,16 +4,12 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { type RemoteParticipant, Room, RoomEvent } from 'livekit-client';
 import { motion } from 'motion/react';
 import { RoomAudioRenderer, RoomContext, StartAudio } from '@livekit/components-react';
+import type { ConnectionDetails } from '@/app/api/connection-details/route';
 import { ErrorMessage } from '@/components/embed-popup/error-message';
 import { PopupView } from '@/components/embed-popup/popup-view';
 import { Trigger } from '@/components/embed-popup/trigger';
 import useConnectionDetails from '@/hooks/use-connection-details';
-import type { ConnectionDetails } from '@/app/api/connection-details/route';
-import {
-  isNavigatingAction,
-  saveResumeSession,
-  takeResumeSession,
-} from '@/lib/session-resume';
+import { isNavigatingAction, saveResumeSession, takeResumeSession } from '@/lib/session-resume';
 import { type AppConfig, EmbedErrorDetails } from '@/lib/types';
 import { UI_ACTION_TOPIC, handleUiAction, parseUiAction } from '@/lib/ui-actions';
 import { cn } from '@/lib/utils';

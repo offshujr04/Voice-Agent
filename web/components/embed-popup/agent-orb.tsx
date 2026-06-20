@@ -33,9 +33,10 @@ export function AgentOrb({ state }: AgentOrbProps) {
       {/* faint glow so the mesh sits on a soft halo (kept subtle, not blurry) */}
       <div
         aria-hidden
-        className="absolute inset-0 rounded-full blur-[2px] opacity-50"
+        className="absolute inset-0 rounded-full opacity-50 blur-[2px]"
         style={{
-          background: 'radial-gradient(circle at 50% 50%, var(--agent-green-soft) 0%, transparent 70%)',
+          background:
+            'radial-gradient(circle at 50% 50%, var(--agent-green-soft) 0%, transparent 70%)',
         }}
       />
       {loops.map((l, i) => (

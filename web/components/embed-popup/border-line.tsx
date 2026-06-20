@@ -62,9 +62,15 @@ export function BorderLine() {
           and bright in the middle (the straight top/bottom edges). */}
       <defs>
         <linearGradient id={gradId} x1="0" y1="0" x2="1" y2="0">
-          <stop offset="0%" style={{ stopColor: BORDER_LINE.color, stopOpacity: BORDER_LINE.cornerFade }} />
+          <stop
+            offset="0%"
+            style={{ stopColor: BORDER_LINE.color, stopOpacity: BORDER_LINE.cornerFade }}
+          />
           <stop offset="50%" style={{ stopColor: BORDER_LINE.color, stopOpacity: 1 }} />
-          <stop offset="100%" style={{ stopColor: BORDER_LINE.color, stopOpacity: BORDER_LINE.cornerFade }} />
+          <stop
+            offset="100%"
+            style={{ stopColor: BORDER_LINE.color, stopOpacity: BORDER_LINE.cornerFade }}
+          />
         </linearGradient>
       </defs>
       {/* soft glow underlay */}
