@@ -23,6 +23,12 @@ const eslintConfig = [
     // passed as a rule option (it ignores it from .prettierrc).
     rules: {
       'prettier/prettier': ['error', { endOfLine: 'auto' }],
+      // Allow underscore-prefixed identifiers as intentional throwaways
+      // (e.g. `const { match: _match, ...rest } = entry`).
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },
+      ],
     },
   },
 ];
