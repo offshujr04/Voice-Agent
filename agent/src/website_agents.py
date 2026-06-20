@@ -331,7 +331,7 @@ def submit_website_form(form_action: str, form_data: dict) -> dict:
 # told to avoid markdown — same rule as the text widget.
 lead_agent = Agent(
     name="Lead Capture",
-    model="gpt-4o",
+    model="gpt-4o-mini",
     handoff_description="Use this if the visitor explicitly wants to fill out the contact form, submit details, or send an inquiry directly in the chat instead of visiting the contact page.",
     instructions=(
         "Collect the visitor's name, email, and what they're interested in. "
@@ -345,7 +345,7 @@ lead_agent = Agent(
 
 booking_agent = Agent(
     name="Booking",
-    model="gpt-4o",
+    model="gpt-4o-mini",
     handoff_description="Use this if the visitor explicitly wants to book a demo, schedule a meeting, or get a booking link directly in the chat instead of visiting the contact page.",
     instructions=(
         "Book the demo/onboarding call as fast as possible. As soon as you have a "
@@ -367,7 +367,7 @@ booking_agent = Agent(
 def make_triage_agent(template: str | None = None) -> Agent:
     return Agent(
         name="Website Assistant",
-        model="gpt-4o",
+        model="gpt-4o-mini",
         instructions=get_site_instructions(template),
         tools=[
             search_site_content,
