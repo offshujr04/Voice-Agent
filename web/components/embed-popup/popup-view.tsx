@@ -48,7 +48,11 @@ export const PopupView = ({
   const { microphoneToggle, handleDisconnect } = useAgentControlBar();
   const micEnabled = microphoneToggle.enabled;
 
-  // If the agent hasn't connected after an interval, show an error.
+  // If the agent hasn't connected after an interval, show an error. The window is
+  // generous because the agent worker can cold-start (container spin-up + model
+  // load) on the first session, which routinely takes longer than 10s — too short
+  // a timeout surfaces a false "did not complete initializing" error that clears
+  // itself on a retry against the now-warm worker.
   useEffect(() => {
     if (!sessionStarted) {
       return;
@@ -66,7 +70,7 @@ export const PopupView = ({
           description: <p className="w-full">{reason}</p>,
         });
       }
-    }, 10_000);
+    }, 30_000);
 
     return () => clearTimeout(timeout);
   }, [agentState, sessionStarted, onEmbedError]);
