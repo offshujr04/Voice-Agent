@@ -57,9 +57,7 @@ if (scriptTag?.src) {
  * enable/disable a site and tweak branding without a redeploy. Returns null on
  * any failure so the widget falls back to its built-in registry.
  */
-async function fetchSiteConfig(): Promise<
-  { enabled: boolean; config: Partial<AppConfig> } | null
-> {
+async function fetchSiteConfig(): Promise<{ enabled: boolean; config: Partial<AppConfig> } | null> {
   try {
     const base =
       (window as Window & { __lkApiBase?: string }).__lkApiBase || window.location.origin;
