@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { Room, RoomEvent } from 'livekit-client';
+import { type RemoteParticipant, Room, RoomEvent } from 'livekit-client';
 import { motion } from 'motion/react';
 import { RoomAudioRenderer, RoomContext, StartAudio } from '@livekit/components-react';
 import { ErrorMessage } from '@/components/embed-popup/error-message';
@@ -9,6 +9,7 @@ import { PopupView } from '@/components/embed-popup/popup-view';
 import { Trigger } from '@/components/embed-popup/trigger';
 import useConnectionDetails from '@/hooks/use-connection-details';
 import { type AppConfig, EmbedErrorDetails } from '@/lib/types';
+import { UI_ACTION_TOPIC, handleUiAction, parseUiAction } from '@/lib/ui-actions';
 import { cn } from '@/lib/utils';
 
 const PopupViewMotion = motion.create(PopupView);
@@ -57,11 +58,29 @@ function AgentClient({ appConfig }: EmbedFixedAgentClientProps) {
         description: `${error.name}: ${error.message}`,
       });
     };
+    // UI actions pushed by the voice agent (redirect/history/schedule) over the
+    // data channel — navigate the host page in real time.
+    const onDataReceived = (
+      payload: Uint8Array,
+      _participant?: RemoteParticipant,
+      _kind?: unknown,
+      topic?: string
+    ) => {
+      if (topic && topic !== UI_ACTION_TOPIC) {
+        return;
+      }
+      const action = parseUiAction(payload);
+      if (action) {
+        handleUiAction(action);
+      }
+    };
     room.on(RoomEvent.MediaDevicesError, onMediaDevicesError);
     room.on(RoomEvent.Disconnected, onDisconnected);
+    room.on(RoomEvent.DataReceived, onDataReceived);
     return () => {
       room.off(RoomEvent.Disconnected, onDisconnected);
       room.off(RoomEvent.MediaDevicesError, onMediaDevicesError);
+      room.off(RoomEvent.DataReceived, onDataReceived);
     };
   }, [room, refreshConnectionDetails]);
 
