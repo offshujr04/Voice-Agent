@@ -6,13 +6,14 @@
  * payload is a JSON object with an `action` discriminator. This module decodes
  * a payload and performs the corresponding navigation on the host page.
  *
- * IMPORTANT: navigation must NEVER tear down the widget or drop the live call.
- * The widget is injected into the host page, so a full page reload would destroy
- * it. For same-origin redirects we therefore use client-side (History API)
- * navigation, which lets a single-page-app host swap page content while the
- * injected widget — and the ongoing voice session — stay alive. Cross-origin
- * targets open in a new tab. Everything is wrapped so a malformed action can
- * never throw and crash the React tree.
+ * Navigation works together with session-resume (see session-resume.ts): before
+ * a navigating action fires, agent-client stashes the live connection, and the
+ * next page reconnects to the same room — so the call survives the reload. Here
+ * we just perform the navigation:
+ *   - same-origin redirect → real navigation (the host's own routes load, and
+ *     the widget re-injects + resumes on the new page)
+ *   - cross-origin (e.g. Calendly) → new tab, leaving the current call untouched
+ * Everything is wrapped so a malformed action can never throw and crash React.
  */
 
 export const UI_ACTION_TOPIC = 'lk.ui.action';
@@ -39,15 +40,15 @@ export function parseUiAction(payload: Uint8Array): UiAction | null {
 }
 
 /**
- * Navigate the host page to `rawUrl` without reloading when possible.
+ * Navigate the host page to `rawUrl`.
  *
- * - Same-origin → History API push + popstate so SPA routers (Next.js App
- *   Router, React Router, etc.) render the new route while the widget survives.
- *   A non-existent route renders the host's own 404/not-found view; the widget
- *   and call keep running.
- * - Cross-origin → open in a new tab so the current page (and call) is untouched.
+ * - Same-origin → real navigation. The host's own routing loads the page, the
+ *   widget re-injects, and the stashed session resumes (see session-resume.ts),
+ *   so the call continues. A non-existent route shows the host's 404; the widget
+ *   reappears there only if that page also loads the embed (it should site-wide).
+ * - Cross-origin → open in a new tab so the current page and call are untouched.
  */
-function softNavigate(rawUrl: string): void {
+function navigateTo(rawUrl: string): void {
   let target: URL;
   try {
     target = new URL(rawUrl, window.location.href);
@@ -66,15 +67,7 @@ function softNavigate(rawUrl: string): void {
     return;
   }
 
-  try {
-    window.history.pushState({}, '', target.href);
-    // Nudge SPA routers that listen for history changes.
-    window.dispatchEvent(new PopStateEvent('popstate'));
-  } catch {
-    // Last resort: a normal navigation. The embed loader re-injects the widget
-    // on the next page; only used if the History API is unavailable.
-    window.location.assign(target.href);
-  }
+  window.location.assign(target.href);
 }
 
 /** Perform a UI action on the host page. Never throws. */
@@ -83,7 +76,7 @@ export function handleUiAction(action: UiAction): void {
     switch (action.action) {
       case 'redirect': {
         const url = (action as { url?: string }).url;
-        if (url) softNavigate(url);
+        if (url) navigateTo(url);
         break;
       }
       case 'history': {

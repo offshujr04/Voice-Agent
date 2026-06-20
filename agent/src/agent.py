@@ -179,6 +179,12 @@ async def entrypoint(ctx: JobContext):
         agent=DefaultAgent(),
         room=ctx.room,
         room_options=room_io.RoomOptions(
+            # Keep the agent session alive when the visitor briefly disconnects
+            # (e.g. while the host page navigates on a redirect). The widget
+            # reconnects to the same room on the new page and the conversation —
+            # including its memory — continues. LiveKit reaps the room if the
+            # visitor never comes back (empty-room timeout).
+            close_on_disconnect=False,
             audio_input=room_io.AudioInputOptions(
                 noise_cancellation=ai_coustics.audio_enhancement(
                     model=ai_coustics.EnhancerModel.QUAIL_VF_S,
