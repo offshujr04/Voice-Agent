@@ -1,0 +1,996 @@
+{
+  "seed": "https://www.salesforce.com/in/",
+  "page_count": 15,
+  "pages": [
+    {
+      "url": "https://www.salesforce.com/in",
+      "title": "Salesforce: The #1 AI CRM | Salesforce IN",
+      "page_type": "home",
+      "summary": "Salesforce India homepage — the #1 AI CRM. Entry point to all products, pricing, customer stories and contact.",
+      "content": "Product needs? Pricing questions? Ask away. Something went wrong. Please wait a moment and try again. Get started with the #1 Agentic CRM. Automate better sales, service, and marketing with humans and AI agents working together on one trusted, agentic CRM platform. See value from day one with quick and easy setup and pre-built agents. Start for free Watch demo Where humans and agents drive customer success together. Welcome to the Agentic Enterprise. Humans and agents work inside the systems that run your business. The result? Faster decisions, stronger customer relationships, and nonstop growth, all delivered via Slackbot, your personal AI agent. Slack Where people, data, apps, and agents work together. Learn more Agentforce Delivers always-on agents for customers and employees. Learn more Customer 360 Helps teams sell, serve, and operate at scale. Learn more Data 360 Gives everyone real-time context. Learn more See Agentforce in action Meet Slackbot See why companies trust us to help them grow. Built-in AI for every part of your business. Put AI to work across sales, service, and marketing with Starter Suite — a CRM that knows your business and can automate the kind of customer experiences you’ll actually be proud of. Start simply with quick and easy setup and prebuilt agents. Start for free Start demo 3M+ conversations handled by Agentforce and counting. Everyone talks the AI talk. We’re walking the walk. With 66% autonomous case resolution, 15% more marketing pipeline, and 1.8x higher lead conversion, Agentforce delivers real conversational Al across service, sales, and marketing workflows. See how we did it – and how you can, too. See our stories Experience Salesforce Help Group CIO, Ambuja Neotia Group Kripadyuti Sarkar Salesforce gave us the agility and ease of use to quickly build the transparent and service-oriented journeys that define our customer philosophy. This is key to serving our real estate customers with the empathy they deserve. See the Ambuja Neotia story VP, Strategy & Transformation, PepsiCo Tracy Matis See PepsiCo story Business Owner of Salesforce ONE.CRM & Customer Care, Volkswagen Group Stephanie Paetow Agentforce will enable us to have personalization across those customer journey pre-sales sales and after sales. Every touch point, at the right time with the right message, based on a 360° view. See the Volkswagen Group story Marketing & Digital Director, Heathrow Peter Burns We want each and every one of our passengers to have a brilliant experience, a personalized experience, a relevant experience. But we don’t have 80 million staff to be able to scale it, and the only way to do that is to innovate. In our case it’s innovating through the use of Salesforce. See the Heathrow story CEO, reMarkable Phil Hess It’s like this collaboration that we’re seeing between agents and humans. It’s not us versus them; it’s we. Suddenly, it’s this way of working that lets teams move at their natural tempo. This is the perfect tool for",
+      "key_links": [
+        {
+          "label": "Start for free",
+          "url": "https://www.salesforce.com/in/small-business/free-trial/starter-suite-v2/?d=pb"
+        },
+        {
+          "label": "Watch demo",
+          "url": "https://www.salesforce.com/in/small-business/demos/smb-overview/?d=pb"
+        },
+        {
+          "label": "agents",
+          "url": "https://www.salesforce.com/in/agentforce/ai-agents"
+        },
+        {
+          "label": "Slack",
+          "url": "https://www.salesforce.com/in/slack"
+        },
+        {
+          "label": "Agentforce",
+          "url": "https://www.salesforce.com/in/agentforce"
+        },
+        {
+          "label": "Customer 360",
+          "url": "https://www.salesforce.com/in/products"
+        },
+        {
+          "label": "Data 360",
+          "url": "https://www.salesforce.com/in/data"
+        },
+        {
+          "label": "See Agentforce in action",
+          "url": "https://www.salesforce.com/in/agentforce/demos/overview/?d=pb"
+        },
+        {
+          "label": "Meet Slackbot",
+          "url": "https://www.salesforce.com/in/form/demo/demo-slackbot/?d=pb"
+        },
+        {
+          "label": "Starter Suite",
+          "url": "https://www.salesforce.com/in/small-business/starter"
+        },
+        {
+          "label": "See our stories",
+          "url": "https://www.salesforce.com/in/salesforce-on-salesforce"
+        },
+        {
+          "label": "See the Ambuja Neotia story",
+          "url": "https://www.salesforce.com/in/customer-stories/ambuja-neotia"
+        },
+        {
+          "label": "See PepsiCo story",
+          "url": "https://www.salesforce.com/in/customer-stories/pepsico"
+        },
+        {
+          "label": "See the Volkswagen Group story",
+          "url": "https://www.salesforce.com/in/customer-stories/volkswagen-group"
+        },
+        {
+          "label": "See the Heathrow story",
+          "url": "https://www.salesforce.com/in/customer-stories/heathrow-airport"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/products",
+      "title": "Complete Salesforce Products & Software Suite | Salesforce IN",
+      "page_type": "product",
+      "summary": "Products overview: the full Salesforce product line — Agentforce, Sales, Service, Marketing, Commerce, Data Cloud, Slack, Tableau and the Platform — unified on one AI CRM.",
+      "content": "The only AI platform built on 25+ years of customer success Every agent you deploy on Salesforce runs on your data, your workflows, and your customer history — not standalone AI. Bring together humans, agents, apps, and data on one platform, so agents don’t sit on top of your business. They work alongside your people. Take guided tour Jump to products Salesforce delivers value fast for companies of all sizes Emerging Businesses Enterprise Businesses Explore success stories from market pioneers. Explore all stories See how we help leading enterprises succeed. Explore all stories Meet Agentforce 360. A single, open platform for the Agentic Enterprise. System of Engagement Give employees one place to coordinate with agents Slack is where humans ask questions and agents take action. And with Slackbot, everyone gets a personal AI assistant that knows your company’s data, policies, and history. Dive into Slack Watch demo System of Agency Build, deploy, and govern enterprise-grade agents with confidence Create agents your way — with clicks, code, or both. Then deploy with confidence: Agentforce gives IT the security controls, monitoring, and management tools to scale AI across your entire organisation. Build with Agentforce Watch demo System of Work Where teams work, agents work too — closing deals, resolving cases, driving revenue Customer 360 apps help agents and humans drive end-to-end value for every line of business — front office and back — from sales, service, and marketing to supply chain, finance, and operations. Discover Customer 360 Take guided tour System of Context Turn fragmented data into trusted context for humans and agents With Data 360 and Informatica , data from across systems is unified with Zero Copy integration — eliminating data silos and ensuring every decision is grounded in real-time context. Explore Data 360 Watch demo All Salesforce products. One deeply unified platform. Watch product demos Agentforce Data 360 Agentforce 360 Platform Agentforce Sales Agentforce Revenue Operations Agentforce Service Agentforce Field Service Agentforce Marketing Agentforce Commerce Tableau MuleSoft Slack Net Zero Cloud Small Business Partners Customer Success Heroku Voted #1 Best Software Company on G2 Thank you for ranking us the #1 Grid® leader in 211 categories, with 93,075 reviews and an average 4.4-star rating. Find out more Get started with an all-in-one CRM Connect marketing, sales, service, and commerce on one platform and boost collaboration in Slack with an easy-to-use suite that adapts to your needs. Start for free Get started with the all-in-one CRM for small businesses. Grow faster with the #1 AI CRM designed for small businesses in any industry. Connect marketing, sales, service, and commerce on one platform and boost collaboration in Slack with an easy-to-use suite that adapts to your needs. Try Starter Suite for free Frequently asked questions What is digital labour? Digital labour refers to technologies (such as AI automation ",
+      "key_links": [
+        {
+          "label": "Take guided tour",
+          "url": "https://www.salesforce.com/in/products/demos/interactive-portfolio/?d=pb"
+        },
+        {
+          "label": "Explore all stories",
+          "url": "https://www.salesforce.com/in/customer-stories"
+        },
+        {
+          "label": "Dive into Slack",
+          "url": "https://www.salesforce.com/in/Slack"
+        },
+        {
+          "label": "Watch demo",
+          "url": "https://www.salesforce.com/in/form/demo/slack/?d=pb"
+        },
+        {
+          "label": "Build with Agentforce",
+          "url": "https://www.salesforce.com/in/agentforce"
+        },
+        {
+          "label": "Discover Customer 360",
+          "url": "https://www.salesforce.com/in/products/what-is-customer-360"
+        },
+        {
+          "label": "Informatica",
+          "url": "https://www.salesforce.com/in/informatica"
+        },
+        {
+          "label": "Explore Data 360",
+          "url": "https://www.salesforce.com/in/data"
+        },
+        {
+          "label": "Watch demo",
+          "url": "https://www.salesforce.com/in/form/data/data-cloud-explainer/?d=pb"
+        },
+        {
+          "label": "Watch product demos",
+          "url": "https://www.salesforce.com/in/products/demos"
+        },
+        {
+          "label": "Agentforce 360 Platform",
+          "url": "https://www.salesforce.com/in/platform"
+        },
+        {
+          "label": "Agentforce Sales",
+          "url": "https://www.salesforce.com/in/sales"
+        },
+        {
+          "label": "Agentforce Revenue Operations",
+          "url": "https://www.salesforce.com/in/sales/revenue-lifecycle-management"
+        },
+        {
+          "label": "Agentforce Service",
+          "url": "https://www.salesforce.com/in/service"
+        },
+        {
+          "label": "Agentforce Field Service",
+          "url": "https://www.salesforce.com/in/service/field-service-management"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/pricing",
+      "title": "Salesforce Pricing: See Pricing Plans for All Salesforce Products | Salesforce IN",
+      "page_type": "pricing",
+      "summary": "Pricing overview: editions and per-user-per-month plans across each cloud (commonly Starter, Pro/Professional, Enterprise and Unlimited).",
+      "content": "Close more deals, faster—start your 30-day free Sales Cloud trial today. Know more Salesforce Product Pricing Explore the full range of Salesforce solution pricing tailored to fit businesses of all sizes and industries. Whether you're evaluating a Salesforce solution based on your role or industry, you can find out more about all of our editions and pricing below. Click the solution you’d like to explore. Try for free Explore products by role. Agentforce Build and customise autonomous AI agents to support your employees and customers 24/7. See all Agentforce pricing Small Business Help small businesses sell smarter and support faster in a single app. See all Small Business pricing Sales Cloud Connect teams, close more deals and streamline your entire sales process. See all Sales Cloud pricing Service Cloud Manage customer support cases faster across every channel. See all Service Cloud pricing Marketing Cloud Easily build, optimise and personalise campaigns and journeys. See all Marketing Cloud pricing Commerce Cloud Engage buyers online and in-store with B2C and B2B commerce. See all Commerce Cloud pricing CRM Attract more prospects, close more deals and strengthen customer relationships with the #1 AI CRM. See all CRM pricing Einstein AI Create customisable, predictive and generative AI experiences to fit all your business needs safely. Contact Sales Data 360 Unlock trapped data with the only data platform native to the world’s #1 AI CRM. See all Data 360 pricing Salesforce Einstein Unify your data, AI, CRM, development and security into a single, comprehensive platform. Contact Sales Slack Power productivity, automate work and connect with customers. See all Slack pricing Analytics Get powerful insights from any data, any time, anywhere. See all Analytics pricing MuleSoft Connect any app, data or device — in the cloud or on-premises. See all MuleSoft pricing Net Zero Go net zero now with the #1 sustainability management platform. See all Net Zero pricing Customer Success Choose the right level of support and expert guidance for your business. See all Customer Success pricing Heroku Build scalable apps on a cloud-native platform made for developers. See all Heroku pricing Sell smarter with Salesforce's free CRM Get started quickly with built-in tools to capture leads, track deals, and close more deals, faster—all in one place. Learn more Start for free Explore products by industry. Automotive Drive unified customer, vehicle and retail experiences. See all Automotive pricing Communications Power simple, omni-channel B2B, B2C and Wholesale experiences. See all Communications pricing Construction & Real Estate Achieve operational excellence. Contact Sales Consumer Goods Accelerate growth from planning to execution. See all Consumer Goods pricing Education Elevate the education experience. See all Education pricing Energy & Utilities Reimagine energy and utility sales and service. See all Energy & Utilities pricing Financial Services Unlock the mos",
+      "key_links": [
+        {
+          "label": "Know more",
+          "url": "https://www.salesforce.com/in/form/signup/sales-ee/?d=pb&noskip=true"
+        },
+        {
+          "label": "Try for free",
+          "url": "https://www.salesforce.com/in/form/signup/freetrial-salesforce-starter/?d=sh"
+        },
+        {
+          "label": "Agentforce",
+          "url": "https://www.salesforce.com/in/agentforce/pricing"
+        },
+        {
+          "label": "Small Business",
+          "url": "https://www.salesforce.com/in/small-business/pricing"
+        },
+        {
+          "label": "Sales Cloud",
+          "url": "https://www.salesforce.com/in/sales/pricing"
+        },
+        {
+          "label": "Service Cloud",
+          "url": "https://www.salesforce.com/in/service/pricing"
+        },
+        {
+          "label": "Marketing Cloud",
+          "url": "https://www.salesforce.com/in/marketing/pricing"
+        },
+        {
+          "label": "Commerce Cloud",
+          "url": "https://www.salesforce.com/in/commerce/pricing"
+        },
+        {
+          "label": "CRM",
+          "url": "https://www.salesforce.com/in/crm/pricing"
+        },
+        {
+          "label": "Einstein AI",
+          "url": "https://www.salesforce.com/in/form/einstein-gpt/contact-us/?d=pb"
+        },
+        {
+          "label": "Data 360",
+          "url": "https://www.salesforce.com/in/data/pricing"
+        },
+        {
+          "label": "Salesforce Einstein",
+          "url": "https://www.salesforce.com/in/company/contact-us/?d=pb"
+        },
+        {
+          "label": "Slack",
+          "url": "https://www.salesforce.com/in/slack/pricing"
+        },
+        {
+          "label": "Analytics",
+          "url": "https://www.salesforce.com/in/analytics/pricing"
+        },
+        {
+          "label": "MuleSoft",
+          "url": "https://www.salesforce.com/in/mulesoft/pricing"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/blog",
+      "title": "Homepage - Salesforce",
+      "page_type": "blog",
+      "summary": "The Salesforce blog — articles, guides and product news on CRM, AI, sales, service and marketing.",
+      "content": "Homepage - Salesforce Skip to Content CRM What Does Salesforce Do? Jody Farrar Let’s explore what Salesforce does, the ways it helps strengthen customer relationships, and how the world’s #1 AI CRM helps businesses become agentic enterprises. Sales Cloud The State of Sales in India 2026: 5 Trends Every Sales Leader Must Act On Salesforce India India’s sales landscape is at an inflection point. The pressure on sales teams to do more with less has never been higher, companies are reinventing revenue models, and AI agents are moving from… Financial Services 5 hidden risks slowing down digital lenders in India Salesforce India Speed has become the baseline in digital lending. Discover why Indian lenders must now design for reliability across decisions, compliance, and borrower experience. Retail Why retail distribution shortcuts are eroding loyalty in India Salesforce India Explore how shortcuts in retail distribution create inconsistency at scale, and why redesigning execution is critical for customer loyalty in India. Customer Relationships How India’s High-tech Services Firms Are Shaping the Next Phase of Enterprise Transformation Salesforce India Discover how five industry Trailblazers from India are boosting sales, scaling up innovation, and delighting customers How to Turn India into a Global Leader in Pharma and Healthcare (With Real-life Examples) Salesforce India How India’s Healthcare Trailblazers Are Transforming Patient Outcomes Why India’s Educational Sector Needs a New Playbook Built around Student Experiences Salesforce India Discover how leading educational institutions in India are exceeding enrolment goals, optimising student engagement, and driving successful outcomes Manufacturing Beyond Production: The Next Phase of India’s Manufacturing Leadership Salesforce India Lessons from Industry Trailblazers in India Automotive How India’s Automotive Trailblazers Are Redefining Customer Experiences (And What We Can Learn from Them) Salesforce India Learn how India’s automotive leaders are deepening customer loyalty, boosting sales, and improving business productivity Data From Cash to Care: How Unified Data Is Solving India’s Biggest Decision Gaps Salesforce India Every decision matters. Whether approving loans, targeting motorcycle enthusiasts, or delivering personalised retail experiences — India’s businesses face one challenge: making the right decision with the right data at the right moment. The… Field Service Field execution at scale: 4 ways pharma leaders can improve impact Salesforce India Learn how pharma leaders in India can redesign field execution to make every interaction more relevant, focused, and effective at scale View All Recent Stories The Latest Business as a Platform For Change What Is Sales Enablement? A Complete Guide November 14, 2023 Paul Bookstaber DigitALL: 5 Ways Technology Could Help Indian Businesses Foster Gender Equality May 4, 2023 Salesforce India Commerce 7 BigCommerce Alternatives For Small Business May",
+      "key_links": [
+        {
+          "label": "CRM",
+          "url": "https://www.salesforce.com/in/blog/category/crm"
+        },
+        {
+          "label": "What Does Salesforce Do?",
+          "url": "https://www.salesforce.com/in/blog/what-does-salesforce-do"
+        },
+        {
+          "label": "Jody  Farrar",
+          "url": "https://www.salesforce.com/in/blog/author/jody-farrar"
+        },
+        {
+          "label": "Sales Cloud",
+          "url": "https://www.salesforce.com/in/blog/category/sales-cloud"
+        },
+        {
+          "label": "The State of Sales in India 2026: 5 Trends Every Sales Leade",
+          "url": "https://www.salesforce.com/in/blog/top-sales-trends-in-india"
+        },
+        {
+          "label": "Salesforce  India",
+          "url": "https://www.salesforce.com/in/blog/author/salesforce"
+        },
+        {
+          "label": "Financial Services",
+          "url": "https://www.salesforce.com/in/blog/category/financial-services"
+        },
+        {
+          "label": "5 hidden risks slowing down digital lenders in India",
+          "url": "https://www.salesforce.com/in/blog/digital-lending-risks-in-india"
+        },
+        {
+          "label": "Retail",
+          "url": "https://www.salesforce.com/in/blog/category/retail"
+        },
+        {
+          "label": "Why retail distribution shortcuts are eroding loyalty in Ind",
+          "url": "https://www.salesforce.com/in/blog/retail-distribution-shortcuts-in-india"
+        },
+        {
+          "label": "Customer Relationships",
+          "url": "https://www.salesforce.com/in/blog/category/customer-relationships"
+        },
+        {
+          "label": "How India’s High-tech Services Firms Are Shaping the Next Ph",
+          "url": "https://www.salesforce.com/in/blog/high-tech-trailblazers-india"
+        },
+        {
+          "label": "How to Turn India into a Global Leader in Pharma and Healthc",
+          "url": "https://www.salesforce.com/in/blog/healthcare-pharma-trailblazers-india"
+        },
+        {
+          "label": "Why India’s Educational Sector Needs a New Playbook Built ar",
+          "url": "https://www.salesforce.com/in/blog/education-trailblazers-india"
+        },
+        {
+          "label": "Manufacturing",
+          "url": "https://www.salesforce.com/in/blog/category/manufacturing"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/company/our-story",
+      "title": "Salesforce develops the technology, the partnerships, and the communities that help companies connect with customers. | Salesforce IN",
+      "page_type": "about",
+      "summary": "About Salesforce — the company story, values, and mission as the world's #1 AI CRM.",
+      "content": "We’re Salesforce, the #1 AI CRM. Since we opened our doors in 1999, we’ve had a singular focus — helping our customers improve their customer relationships. We’ve been leaders in AI for over 10 years, fuelling productivity for our customers so they can deliver exceptional experiences to their own. It’s no surprise, then, that over 150,000 companies worldwide now trust Salesforce to drive growth. We're innovating our way into customers' hearts. Meet Agentforce. What AI was meant to be. Businesses succeed when they create meaningful connection. Agentforce fuels connection, multiplying your workforce with autonomous agents that can serve customers round the clock and help your employees work better and faster. With specialised, customisable AI agents working together with humans across sales, service, marketing, commerce and IT, it's easy to deliver amazing experiences that customers love. Explore Agentforce A history of firsts that put customers first. 1999 Salesforce opens its doors, pioneering software as a Service (SaaS) by bringing Customer Relationship Management software ( CRM ) to the cloud. 2009 Service Cloud transforms customer service with unified customer information and automation. 2012 Gartner ranks Salesforce #1 in CRM. 2016 Einstein is born, ushering in the AI CRM era with predictive insights and personalised recommendations. 2024 Agentforce defines a new era of customer engagement with autonomous agents that work 24/7, take action and seamlessly hand off to humans. Learn about our products Helping customers succeed. It's a Salesforce thing. Wiley OpenTable Saks FedEx \"Agentforce outperforms our old chatbot by over 40%.” Kevin Quigley Senior Manager, CT Technology & Solutions, Wiley See the Wiley story Explore all stories \"Service Cloud and Agentforce help us to deliver effortless experiences that diners and restaurants love.\" George Pokorny Senior Vice President of Global Customer Success, OpenTable See the OpenTable story Explore all stories \"Agentforce will free up our people to work in a different way with our clients. It isn't going to replace, it's going to augment.\" Mark Metrick CEO, Saks Global See the Saks story Explore all stories FedEx grows delivering revenue with unified B2B data in one view. Data 360 brings web, delivery and account data together for more effective sales follow-up. See the FedEx story Explore all stories Every product we offer plays a part in building the connections that drive success — and that success can be harnessed to create positive change. We are Trailblazers. We’re not a typical company. And that’s by design. We call our community of Salesforce employees, customers and partners \"Trailblazers.\" Trailblazers around the world reach across roles, companies and industries to help one another learn, grow and succeed. Explore Trailblazer Community Driven by our values. Our core values guide everything we do as a company and as people. Our mission is to bring out the best in one another, deliver succes",
+      "key_links": [
+        {
+          "label": "Explore Agentforce",
+          "url": "https://www.salesforce.com/in/agentforce"
+        },
+        {
+          "label": "CRM",
+          "url": "https://www.salesforce.com/in/crm/what-is-crm"
+        },
+        {
+          "label": "Learn about our products",
+          "url": "https://www.salesforce.com/in/products"
+        },
+        {
+          "label": "See the Wiley story",
+          "url": "https://www.salesforce.com/in/customer-stories/wiley"
+        },
+        {
+          "label": "Explore all stories",
+          "url": "https://www.salesforce.com/in/customer-stories"
+        },
+        {
+          "label": "See the OpenTable story",
+          "url": "https://www.salesforce.com/in/customer-stories/opentable"
+        },
+        {
+          "label": "See the Saks story",
+          "url": "https://www.salesforce.com/in/customer-stories/saks"
+        },
+        {
+          "label": "See the FedEx story",
+          "url": "https://www.salesforce.com/in/customer-stories/fedex"
+        },
+        {
+          "label": "See latest innovations",
+          "url": "https://www.salesforce.com/in/products/innovation/winter-25-release"
+        },
+        {
+          "label": "Follow our journey",
+          "url": "https://www.salesforce.com/in/company/equality"
+        },
+        {
+          "label": "Go net zero now",
+          "url": "https://www.salesforce.com/in/company/sustainability"
+        },
+        {
+          "label": "See our values in action",
+          "url": "https://www.salesforce.com/in/company/esg-and-impact"
+        },
+        {
+          "label": "Take the Pledge",
+          "url": "https://www.salesforce.com/in/company/pledge"
+        },
+        {
+          "label": "See all awards",
+          "url": "https://www.salesforce.com/in/news/topics/awards-and-recognition"
+        },
+        {
+          "label": "Contact us",
+          "url": "https://www.salesforce.com/in/form/contact/contact-me-work-com/?d=pb"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/company/contact-us",
+      "title": "Salesforce Customer Service – Phone Numbers & Live Chat | Salesforce IN",
+      "page_type": "contact",
+      "summary": "Contact Salesforce — talk to sales, request a demo, or find phone numbers and support options.",
+      "content": "Oops, something went wrong. Please try again later. More ways to contact. Find a Global Office. Not in the U.S? Find a Global Office near you. See our Global Offices Manage accounts. Users with permissions can self-manage licences and renewals. Learn about Your Account App",
+      "key_links": [
+        {
+          "label": "See our Global Offices",
+          "url": "https://www.salesforce.com/in/company/locations"
+        },
+        {
+          "label": "Learn about Your Account App",
+          "url": "https://www.salesforce.com/in/your-account"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/agentforce",
+      "title": "Agentforce: The AI Agent Platform | Salesforce IN",
+      "page_type": "product",
+      "summary": "Agentforce — build and deploy autonomous AI agents that work alongside humans across sales, service and more.",
+      "content": "Learn how to create AI agents from real-world builders Watch the Demo Day replay Build, deploy, and manage AI agents at scale. Agentforce is the only enterprise agentic AI solution that elevates every experience by bringing together humans, applications, AI agents, and data. Now any company can safely deploy agents that work for their customers, suppliers, and employees 24/7. Teams can manage the complete agent development lifecycle with a robust set of tools to build, test, deploy, manage, and orchestrate AI agents at scale. Let humans do what they do best, and let Agentforce do the rest. Watch demos Join thousands of other companies who are unleashing digital labour with Agentforce. Agentforce Labs Explore experimental features, test new ideas, and build the future alongside Agentforce Product and Engineering teams. Learn more Real Agents. Real Brands. Real Results. Explore interactive demos of the AI agents driving live results for global brands, and see how they were configured in Agentforce. See the demos Take a Tour of the Agentforce 360 Platform Click through an interactive tour of all the latest Agentforce features using relevant AI Agent use cases. Take the Tour Agentforce Builder The all-new Agentforce Builder unifies drafting, testing, and deployment into a single conversational workspace, collapsing the traditional build-and-test loop. Teams can start by building with AI guidance, then refine in a document-like editor with autocomplete, low-code canvas, or pro-code script view — all in one modern experience. Learn more Agent Script Agent Script brings a new way to control Agentforce to pair deterministic workflows with flexible LLM reasoning. This gives enterprises hybrid reasoning agents that are both precise and adaptable. Required business logic always runs in sequence, while LLM reasoning handles nuance, ensuring predictable outcomes with natural, conversational experiences. Learn more Agentforce Voice Agentforce Voice brings AI-powered voice capabilities to all channels, enabling fast and natural conversations across phone, web, and mobile. Customise agents to match your brand's unique voice, ensuring consistent and trusted support for your customers. Learn more Intelligent Context Intelligent Context extracts and structures information from complex, unstructured sources so agents can deliver responses that are accurate and relevant to the job to be done. This includes a new low-code pipeline for unstructured, multimodal data processing, drastically reducing configuration time. Learn more Agentforce can transform any team and workflow with AI agents. The most complete enterprise agentic platform. Agentforce is a complete, extensible, and open platform, letting you build and deploy digital labour for your customers and employees leveraging the existing workflows, data, and integrations that power your business today. Agentforce can take action across every channel and be integrated into any system, making it easy to add agentic au",
+      "key_links": [
+        {
+          "label": "Watch the Demo Day replay",
+          "url": "https://www.salesforce.com/in/agentforce/demo-day"
+        },
+        {
+          "label": "Watch demos",
+          "url": "https://www.salesforce.com/in/agentforce/demos/overview/?d=pbv0"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/labs"
+        },
+        {
+          "label": "See the demos",
+          "url": "https://www.salesforce.com/in/agentforce/demos/interactive?d=pb"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/agent-builder"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/script"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/voice"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/why"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/dev-tools"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/agentforce/how-it-works"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/events/webinars/key-creating-agentforce-can-trust/?d=pb"
+        },
+        {
+          "label": "Explore pre-built use cases",
+          "url": "https://www.salesforce.com/in/agentforce/pre-built-use-cases"
+        },
+        {
+          "label": "Explore all use cases",
+          "url": "https://www.salesforce.com/in/agentforce/use-cases"
+        },
+        {
+          "label": "How Agentforce Helps Employees",
+          "url": "https://www.salesforce.com/in/agentforce/agentforce-for-employees"
+        },
+        {
+          "label": "\"Early-stage sales is all about volume and persistence – and",
+          "url": "https://www.salesforce.com/in/customer-stories/tasc-outsourcing"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/sales",
+      "title": "Sales Software & Solutions Powered by AI | Salesforce IN",
+      "page_type": "product",
+      "summary": "Sales Cloud — boost pipeline, win rates and revenue with sales automation, AI and CPQ.",
+      "content": "Join our live virtual event: Scale Revenue Fast with Agentforce Sales Register for free Agentforce Sales (formerly Sales Cloud) Sellers focus on winning. Agents handle the grind. Turn on agents across every stage of the deal cycle — from prospecting to close. An Agentic Enterprise with a digital workforce built on your proven sales workflows drives 30% more revenue while giving sellers back 25 hours a week for the relationships that actually win. Watch demos Try for free See how sales teams of every size and every industry grow with Salesforce. VP, Data Analytics & CPO Sales Enablement, Prudential Financial Sandeep Ajith Watch the Prudential story Salesforce's sellers close more deals in less time with Agentforce. From onboarding to quoting, digital labour accelerates every stage of the deal cycle. Full story Domain Architect, FedEx Carlos Gonzalez Watch the FedEx story The RealReal gives every consignor a VIP experience with Agentforce. AI agents help reps bring more luxury goods into the circular economy. Full story Director, Supply Strategy, Grubhub Maegan Rolando Watch the GrubHub story Zota's investment in digital labour pays off with 30% YoY growth. Agentforce is expected to increase the sales pipeline and resolve 180,000 cases annually. Full story Transform your sales cycle with Agentforce Sales. Accelerate selling with AI agents that work hand in hand with your team. Turn unified data into real-time intelligence that moves deals forward, delivers moments that matter, and scales success across every rep. Learn more Watch now Drive revenue growth with Sales Cloud — the #1 agentic platform for sales. Sales Cloud powers your entire sales process, bringing AI agents and human reps together at every step to unlock your team's full potential. With AI-powered automation eliminating manual work and freeing up valuable time, reps are free to focus on higher-value relationships and deals, driving greater productivity and revenue. Learn more Multiply your impact with AI agents. Deploy AI agents 24/7 to autonomously handle repetitive tasks, expand your pipeline, and boost revenue without adding headcount. Give human sellers the ultimate winning edge. Equip reps with real-time data and AI-powered insights so they can cut through the noise, deliver better buying experiences, and close more deals, faster. Drive operational efficiency on a single platform. Automate, optimise, and unify your sales cycle from pipeline to paycheque—improving visibility and reducing operational costs. \"Salesforce has become integral to our sales operations and lead management. By centralising customer data for rapid retrieval, and automating routine tasks, we have significantly enhanced our efficiency and our ability to drive the adoption of solar energy across India.\" Shivram Bikkina Chief - Solar Rooftop & EV Charging Business, Tata Power Renewable Energy Ltd. Know more Start and scale with Sales Cloud, the #1 AI CRM for sales. Get complete visibility into your pipeline. Su",
+      "key_links": [
+        {
+          "label": "Register for free",
+          "url": "https://www.salesforce.com/plus/experience/end_manual_selling_-_scale_revenue_fast_with_agentforce_sales"
+        },
+        {
+          "label": "Watch demos",
+          "url": "https://www.salesforce.com/in/sales/demos/overview/?d=pb"
+        },
+        {
+          "label": "Try for free",
+          "url": "https://www.salesforce.com/in/form/signup/sales-ee/?d=pb"
+        },
+        {
+          "label": "Watch the Prudential story",
+          "url": "https://www.salesforce.com/in/customer-stories/prudential"
+        },
+        {
+          "label": "Full story",
+          "url": "https://www.salesforce.com/in/customer-stories/agentforce-for-sales"
+        },
+        {
+          "label": "Watch the FedEx story",
+          "url": "https://www.salesforce.com/in/customer-stories/fedex"
+        },
+        {
+          "label": "Full story",
+          "url": "https://www.salesforce.com/in/customer-stories/the-realreal"
+        },
+        {
+          "label": "Watch the GrubHub story",
+          "url": "https://www.salesforce.com/in/customer-stories/grubhub-sales-automation"
+        },
+        {
+          "label": "Full story",
+          "url": "https://www.salesforce.com/in/customer-stories/zota"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/sales/ai-sales-agent"
+        },
+        {
+          "label": "Watch now",
+          "url": "https://www.salesforce.com/in/form/sales/agentforce-for-sales-demos/?d=pb"
+        },
+        {
+          "label": "\"Salesforce has become integral to our sales operations and ",
+          "url": "https://www.salesforce.com/in/customer-stories/tata-power-solaroof"
+        },
+        {
+          "label": "Learn More",
+          "url": "https://www.salesforce.com/in/sales/cloud"
+        },
+        {
+          "label": "Try for free",
+          "url": "https://www.salesforce.com/in/form/signup/sales/?d=pb"
+        },
+        {
+          "label": "Sales Engagement",
+          "url": "https://www.salesforce.com/in/sales/engagement-platform"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/service",
+      "title": "Best Customer Service Software Powered by AI | Salesforce IN",
+      "page_type": "product",
+      "summary": "Service Cloud — AI-powered customer service across contact centre, field service, self-service and digital channels.",
+      "content": "Limitless Service: A New Operating Model for Growth in the Agentic Era. Find out more Agentforce Service (formerly Service Cloud) Deliver Limitless Service with Agentforce. Bring AI agents, human expertise, and trusted data together in one platform. Automate routine tasks, equip your team with real-time insights, and deliver seamless support across every touchpoint, from the contact centre to the field. Watch Demo Try for free #1 Best Customer Service Software | 2026 Service teams in every industry scale with Agentforce. Bring all your service together on a unified suite with Agentforce Service solutions. Customer service Contact Centre Field Service Employee Service Customer service Turn every customer interaction into an agentic service experience. Provide customers with instant resolutions Equip service reps with AI-powered insights Detect issues early to drive proactive support Find out more Contact Centre Unify every conversation and CRM context across any channel to deliver seamless support. Drive service efficiency across all experiences, from voice to digital Provide 24/7 service with human and AI agents on one platform Understand and act on customer sentiment to boost CSAT Find out more Field Service Equip your mobile workforce to deliver critical services faster, smarter, and at scale. Delight customers with seamless scheduling and proactive service Elevate skilled workers with AI to augment operations Tap into connected assets and customer insights to generate revenue Find out more Employee Service Deliver agentic IT and HR resolutions conversationally, 24/7. Boost IT and HR team productivity by automating end-to-end processes Deliver instant resolutions conversationally with AI agents right inside Slack or Teams for common employee enquiries Delight every employee with seamless, secure experiences across the employee lifecycle Find out more \"Our collaboration with Salesforce and the implementation of ‘Ather Dealer Central’ – our new dealer management system, reimagines how EV dealerships operate and it represents our ambitious technological leap. Ather Dealer Central is a unified, intelligent platform that seamlessly connects every aspect of the dealer ecosystem, which will provide our dealer partners with unprecedented insights, mobility, and efficiency empowering them to deliver exceptional customer service.\" Ravneet S. Phokela Chief Business Officer, Ather Energy Know more Service teams across every industry scale with Agentforce Service. PepsiCo ensures every shelf is consistently stocked using Agentforce Service. From the smallest shop to the largest retailer, everyone gets the best of PepsiCo. Watch now. Heathrow resolves 90% of chats with Agentforce Service. Discover how Heathrow will use AI to personalise experiences for 83 million passengers per year. Read the story Simplyhealth serves 2x as many members with Agentforce Service. See how Simplyhealth has transformed service by creating a digital doorway that's always open for ",
+      "key_links": [
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/blog/limitless-service"
+        },
+        {
+          "label": "Watch Demo",
+          "url": "https://www.salesforce.com/in/service/demos/crm-overview/?d=pb"
+        },
+        {
+          "label": "Try for free",
+          "url": "https://www.salesforce.com/in/form/signup/freetrial-service-ee/?d=pb"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/service/customer-service-solutions"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/service/contact-center"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/service/field-service-management"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/service/employee-service-management"
+        },
+        {
+          "label": "\"Our collaboration with Salesforce and the implementation of",
+          "url": "https://www.salesforce.com/in/customer-stories/ather-energy"
+        },
+        {
+          "label": "Heathrow resolves 90% of chats with Agentforce Service.",
+          "url": "https://www.salesforce.com/in/customer-stories/heathrow-airport"
+        },
+        {
+          "label": "Self-Service",
+          "url": "https://www.salesforce.com/in/service/customer-self-service"
+        },
+        {
+          "label": "Customer Service Manager",
+          "url": "https://www.salesforce.com/in/service/cloud"
+        },
+        {
+          "label": "CCaaS Integrations",
+          "url": "https://www.salesforce.com/in/service/call-center-integration"
+        },
+        {
+          "label": "Digital Channels",
+          "url": "https://www.salesforce.com/in/service/digital-customer-engagement-platform"
+        },
+        {
+          "label": "Asset Service Lifecycle Management",
+          "url": "https://www.salesforce.com/in/service/field-service-management/asset-management"
+        },
+        {
+          "label": "Visual Remote Assistant",
+          "url": "https://www.salesforce.com/in/service/visual-remote-assistant"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/marketing",
+      "title": "Marketing Software by Agentforce Marketing (formerly Salesforce Marketing Cloud) | Salesforce IN",
+      "page_type": "product",
+      "summary": "Marketing Cloud — email, mobile, personalisation, B2B automation, analytics and a customer data platform.",
+      "content": "CNX News: The AI agents that will multiply your marketers. Click to learn more Agentforce Marketing (formerly Marketing Cloud) Adapt every customer experience. Drive measurable growth. Every campaign is a conversation. Every conversation a chance to grow. Marketing Cloud turns one-way broadcasts into two-way relationships with the #1 CDP and AI agents that personalise, respond, and connect every interaction across your Agentic Enterprise. Watch Demo Take a tour Leading marketing teams of every size and industry drive growth with Agentforce Marketing. What is Agentforce Marketing? Agentforce Marketing is Salesforce’s marketing solution for the Agentic Enterprise. AI agents help marketers plan, create campaigns and content, optimise, and orchestrate adaptive customer experiences across every channel and interaction. Built on the world’s #1 CDP, Agentforce Marketing connects data, AI, automation, and engagement into one deeply unified platform for B2B and B2C marketing. How can Agentforce Marketing help your business? Power agents and insights with unified data Unify customer, campaign, and revenue signals. Agents identify audiences, optimise spend, and act in real time. Turn one-way channels into two-way conversations Break channel and org silos. Agents carry context across every interaction to respond, route, and adapt instantly. Shift from finite personalisation to infinite scale Go beyond segments. Agents create, adapt, and optimise content for every customer and channel, at scale. Replace capacity constraints with an agency of agents Extend your team’s capacity. Agents plan, execute, and optimise work from campaign setup to analysis and engagement. Your entire martech stack built into an Agentic Enterprise Architecture. Only Salesforce brings together customer data, business applications, trusted AI agents, and a conversational interface into one deeply unified platform for marketing. Agentforce Marketing helps teams orchestrate adaptive customer experiences with AI agents that work securely across every customer interaction, workflow, and channel. Take a tour Explore more Here’s what sets Agentforce Marketing apart. 32 % increase in overall marketing ROI 34 % increase in customer lifetime value 32 % increase in customer engagement 27 % decrease in cost to acquire new customers *Salesforce Customer Success Metrics “With Marketing Cloud, we’ve elevated our digital marketing effectiveness by enabling real-time, personalised engagement across every stage. Instead of sending out static, one-size-fits-all messaging, we’re now building dynamic and data-driven communication journeys that adapt to individual investor behaviours and intent.” Vinay Lakhotia Group President and Chief Financial Officer, UTI AMC Know more Meet Piper, the #1 AI SDR Agent For decades, marketers have juggled clunky systems and limited SDR bandwidth to convert inbound buyers—leaving too much pipeline on the table. Now, in the era of agentic marketing, you have an AI SDR agent w",
+      "key_links": [
+        {
+          "label": "Click to learn more",
+          "url": "https://www.salesforce.com/news/stories/agentic-marketing-teams-announcement"
+        },
+        {
+          "label": "Watch Demo",
+          "url": "https://www.salesforce.com/in/marketing/demos/crm-overview/?d=pb"
+        },
+        {
+          "label": "Take a tour",
+          "url": "https://www.salesforce.com/in/marketing/demos/10-click-demo-agentforce-marketing/?d=pb"
+        },
+        {
+          "label": "Take a tour",
+          "url": "https://www.salesforce.com/marketing/demos/10-click-demo-agentforce-marketing"
+        },
+        {
+          "label": "Explore more",
+          "url": "https://www.salesforce.com/marketing/agentic-marketing"
+        },
+        {
+          "label": "“With Marketing Cloud, we’ve elevated our digital marketing ",
+          "url": "https://www.salesforce.com/in/customer-stories/uti-amc"
+        },
+        {
+          "label": "Marketing Cloud Next",
+          "url": "https://www.salesforce.com/in/marketing/agentic-marketing"
+        },
+        {
+          "label": "B2C Agentic Marketing Platform",
+          "url": "https://www.salesforce.com/marketing/engagement"
+        },
+        {
+          "label": "B2B Agentic Marketing Platform",
+          "url": "https://www.salesforce.com/in/marketing/b2b-automation"
+        },
+        {
+          "label": "Small Business Marketing",
+          "url": "https://www.salesforce.com/in/small-business/marketing"
+        },
+        {
+          "label": "Customer Data Platform",
+          "url": "https://www.salesforce.com/in/marketing/data"
+        },
+        {
+          "label": "Personalisation at Scale",
+          "url": "https://www.salesforce.com/in/marketing/personalization"
+        },
+        {
+          "label": "Marketing Analytics",
+          "url": "https://www.salesforce.com/in/marketing/analytics"
+        },
+        {
+          "label": "Loyalty Management",
+          "url": "https://www.salesforce.com/in/marketing/loyalty-management"
+        },
+        {
+          "label": "Conversational Experiences",
+          "url": "https://www.salesforce.com/in/marketing/conversational-marketing"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/commerce",
+      "title": "Agentforce Commerce (formerly Commerce Cloud) | Salesforce IN",
+      "page_type": "product",
+      "summary": "Commerce Cloud — B2C and B2B ecommerce, order management, payments and commerce AI.",
+      "content": "Quickly launch a high-converting, AI-first storefront with Storefront Next. Read the blog Agentforce Commerce (formerly Commerce Cloud) Turn every conversation into a conversion. Agentforce Commerce connects your entire business on one unified platform — from ecommerce and POS to order management. It's all powered by Agentforce, our trusted AI that proactively helps your teams with merchandising and your customers with guided shopping. This is how the world's leading brands get faster time to value, increase conversion and lower TCO. Watch Demo See what's new These leaders trust Salesforce to power their ecommerce success. Boost conversions by 13% with AI-native search. AI-native search that understands shopper intent. Seamlessly connect shoppers with what they want. Using real and simulated shopper data, Cimulate's AI-driven model understands intent to deliver relevant search results that have proven to drive a 13% increase in conversion and a 17% jump in add-to-cart rates Find out more Here’s what sets Commerce Cloud apart. 99.99 % historic uptime Salesforce powers commerce for over two billion shoppers with 99.99% historical uptime.* 29 % revenue increase Salesforce customers saw a 29% increase in digital revenue by shifting from legacy channels.** 5 X growth Salesforce 2022 Cyber Week digital sales grew 11% compared to the industry average of 2%.*** 27 % faster Salesforce helped merchandisers, developers and admins automate processes 27% faster. **** * Salesforce Commerce Platform Metrics; ** Salesforce Commerce Platform Metrics; *** Salesforce 2022 Cyber Week Metrics; **** Salesforce Customer Success Metrics 2022 Grow more. Worry less. Connect your business with Commerce Cloud. Unified Commerce connected B2B Lower TCO Connect in-store and online with Unified Commerce. B2C Commerce From discovery to checkout, B2C Commerce is where customer expectations meet AI-powered business growth. See more revenue, productivity, and trusted success at scale. Find out more Order Management Process orders seamlessly, wherever customers transact. Agent actions, real-time omni-channel inventory, and automated order routing reduce costs and increase revenue. Find out more Modern Point of Sale Bring customer, order, and inventory data to your shop floor with a flexible, mobile-first POS. Move faster with built-in Salesforce integrations and no-code CMS. Find out more Scale, simplify, and grow with connected B2B. B2B Commerce Make buying more personal and selling more efficient with AI tools. Connect your business on a unified platform that helps you build trust and meet complex needs. Find out more Order Management for B2B Split large-volume orders into multiple shipments and speeds. Work smarter and simplify cross-channel order management with a single code-base and AI-first experience. Find out more Revenue Lifecycle Management Automate revenue operations while delivering seamless buying and selling experiences anywhere customers transact. Close deals fast wi",
+      "key_links": [
+        {
+          "label": "Read the blog",
+          "url": "https://www.salesforce.com/in/blog/storefront-next"
+        },
+        {
+          "label": "Watch Demo",
+          "url": "https://www.salesforce.com/in/form/commerce/commerce-cloud-overview-demo/?d=pb"
+        },
+        {
+          "label": "See what's new",
+          "url": "https://www.salesforce.com/in/commerce/innovations"
+        },
+        {
+          "label": "B2C Commerce",
+          "url": "https://www.salesforce.com/in/commerce/b2c-ecommerce"
+        },
+        {
+          "label": "Order Management",
+          "url": "https://www.salesforce.com/in/commerce/order-management"
+        },
+        {
+          "label": "Modern Point of Sale",
+          "url": "https://www.salesforce.com/in/commerce/point-of-sale"
+        },
+        {
+          "label": "B2B Commerce",
+          "url": "https://www.salesforce.com/in/commerce/b2b-ecommerce"
+        },
+        {
+          "label": "Revenue Lifecycle Management",
+          "url": "https://www.salesforce.com/in/sales/revenue-lifecycle-management"
+        },
+        {
+          "label": "Composable Commerce",
+          "url": "https://www.salesforce.com/in/commerce/composable"
+        },
+        {
+          "label": "Payments",
+          "url": "https://www.salesforce.com/in/commerce/online-payment-solution"
+        },
+        {
+          "label": "Agentforce Guided Shopping",
+          "url": "https://www.salesforce.com/in/commerce/ai"
+        },
+        {
+          "label": "Forrester TEI B2C Commerce  & OMS",
+          "url": "https://www.salesforce.com/in/commerce/resources/forrester-tei-b2c-commerce-oms/?d=pb"
+        },
+        {
+          "label": "2025 Gartner® Magic Quadrant™ for Digital Commerce",
+          "url": "https://www.salesforce.com/in/commerce/resources/gartner-digital-commerce-mq?d=pb"
+        },
+        {
+          "label": "IDC MarketScape for Enterprise B2C Digital Commerce Platform",
+          "url": "https://www.salesforce.com/in/form/commerce/idc-marketscape-enterprise-b2c-commerce/?d=pb"
+        },
+        {
+          "label": "SPARK Matrix™: B2C Digital Commerce Platform, 2024 by Quadra",
+          "url": "https://www.salesforce.com/in/form/commerce/quadrant-solutions-spark-matrix-b2c-commerce/?d=pb"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/data",
+      "title": "Data 360 (Formerly Data Cloud) | Salesforce IN",
+      "page_type": "product",
+      "summary": "Data Cloud — unify and activate all your customer data in real time to power AI and agents.",
+      "content": "Proven advice from Datablazers that will help you fix your messy data, power AI, and drive ROI fast. Get the Playbook Data 360 Activate Trusted Data Everywhere Introducing Data 360 — the next evolution of Data Cloud. Make all your enterprise data ready for action without moving it. Data 360 transforms fragmented data scattered across your enterprise into one, complete view of your business to fuel real-time workflows, better decision making, and more intelligent agents. Talk to Sales Watch the demo Powering the world's most data-driven companies See all stories Discover the latest from Data 360 Explore our latest stories, content, and announcements to understand how you can start activating trusted data across your business today. Resource The Fast-Start Playbook to Data 360 ROI Download the guide to ditch 18-month rebuilds and turn the data you already have into fuel for your top AI use cases. Get the Playbook Keynote Highlight The World's #1 CDP for Marketers Learn how Data 360 transforms marketing by helping teams deliver real-time personalised experiences everywhere. Watch now Announcement Deliver privacy safe collaboration with Clean Rooms. Expand your audience reach by collaborating safely with partners using shared, secured data. Watch the demo Keynote Highlight Snowflake and Data 360: Unlock Your Existing Data Learn about the impact of Zero Copy partnership through our interview with EVP of Product at Snowflake, Christian Kleinerman. Watch now Customer Story How FedEx captured +2,000% ROI with Data 360 Read the full customer story to discover how FedEx paired real-time data with AI to reactivate dormant accounts and recover lost opportunities. Read now Announcement Unlock all your unstructured data with Intelligent Context. Extract insights from images, tables, and documents with AI-assisted prompts that tailor results based on your business context. Watch the demo Announcement Move faster with agentic setup & data management for Data 360. Use natural language to accelerate every part of the Data 360 lifecycle from connecting data to activating insights. Watch the demo How Data 360 Activates Trusted Data Everywhere Read more Drive personalised, real-time experiences. Segment and activate your customers with the world's #1 CDP. Turn unified customer data into targeted, actionable audiences across every channel. Learn about Salesforce CDP Contact Us Bring context-rich data to Agentforce Power smarter, more trusted agents. Give Agentforce the context and data it needs to act with accuracy and confidence. Find out more Contact Us Activate fully connected customer journeys Act on unified data and insights shared across your Customer 360. Every team, from sales to service, powered by the same comprehensive, real-time view of your customer Explore Use Cases Contact Us Make all your enterprise data ready for action, without moving it Enterprise data holds massive potential, but it's often hard to activate. With Zero-Copy integrations, Data 360 co",
+      "key_links": [
+        {
+          "label": "Get the Playbook",
+          "url": "https://www.salesforce.com/in/data/fast-start-playbook"
+        },
+        {
+          "label": "Talk to Sales",
+          "url": "https://www.salesforce.com/in/data/free-trial/contact-data-360"
+        },
+        {
+          "label": "See all stories",
+          "url": "https://www.salesforce.com/in/customer-stories/?page=1&filters=cec01b75-03d2-4a53-9550-f3694cddf1f6"
+        },
+        {
+          "label": "How FedEx captured +2,000% ROI with Data 360",
+          "url": "https://www.salesforce.com/in/customer-stories/fedex"
+        },
+        {
+          "label": "Learn about Salesforce CDP",
+          "url": "https://www.salesforce.com/in/marketing/data"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/form/data/data360-explainer/?d=pb"
+        },
+        {
+          "label": "Explore Use Cases",
+          "url": "https://www.salesforce.com/in/data/use-cases"
+        },
+        {
+          "label": "Use Zero-Copy to activate Snowflake data in Data 360.",
+          "url": "https://www.salesforce.com/in/data/partners/snowflake"
+        },
+        {
+          "label": "Activate your Databricks Data via Zero-Copy Delta Sharing.",
+          "url": "https://www.salesforce.com/in/data/partners/databricks"
+        },
+        {
+          "label": "Connect Data 360 to your Google BigQuery warehouse via Zero-",
+          "url": "https://www.salesforce.com/in/data/partners/google-bigquery"
+        },
+        {
+          "label": "Activate diverse data from AWS (S3, Redshift) via Zero-Copy ",
+          "url": "https://www.salesforce.com/in/data/partners/aws"
+        },
+        {
+          "label": "Activate your IBM data in Salesforce Data 360",
+          "url": "https://www.salesforce.com/in/data/partners/ibm"
+        },
+        {
+          "label": "Read the report",
+          "url": "https://www.salesforce.com/in/data/resources/gartner-magic-quadrant-cdp-2026/?d=pb"
+        },
+        {
+          "label": "Join now",
+          "url": "https://www.salesforce.com/in/blog/data"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/in/data/next-steps"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/analytics",
+      "title": "Tableau: Visual Analytics from Salesforce | Salesforce IN",
+      "page_type": "product",
+      "summary": "Analytics — Tableau, Tableau Next and CRM Analytics for self-service business intelligence.",
+      "content": "Salesforce Analytics Turn data into action. Make every decision count. Empower every team across sales, service, and marketing, and every industry with agentic analytics to take action at the point of insights — right in the flow of work. Watch Demo Learn more See how companies understand data with Tableau and CRM Analytics. Accelerate data to insights to action with Tableau and CRM Analytics . Deliver high-quality data more efficiently. Explore insights and anticipate needs faster. Fuel growth with intelligent actions. Deliver high-quality data more efficiently. Unified Data Make confident, data-driven decisions with business analytics software. With Tableau, humans and agents can act on trusted data powered by Data 360, which unifies data through a zero-copy architecture. Find out more Trusted Context Get accurate, context-aware insights with AI-powered semantics that unify business definitions. Find out more Explore insights and anticipate needs faster. Conversational Analytics Ask questions in natural language and get clear answers with business analytics software. Explore summary insights and best-in-class visualisations together, so you can easily see, understand, and act quicker. Find out more Data Monitoring Proactively monitor business performance metrics with agents keeping you informed of trends and anomalies. Find out more Native Analytics Explore contextual insights and intelligent predictions directly in Salesforce CRM with purpose-built business analytics software from CRM Analytics. Find out more Fuel growth with intelligent actions. Data Collaboration Bring real-time metrics and actionable insights to wherever you work, whether it's Salesforce, Slack, or your favourite third-party apps. Find out more Automated Workflows Take action at the point of insight across the Customer 360 with an integrated workflow engine. Find out more “With real-time risk visualisation, our fraud detection time has improved. Tableau turned our risk signals into a system. That’s a leap in both trust and protection.” Prerit Khandelwal Director - Analytics, Razorpay Know more Trusted insights that accelerate business outcomes. 37 % increase in teams analysing data 39 % faster delivery of business-driving reports/analytics 33 % decrease in time required to analyse information Source: FY26 Salesforce Success Metrics Tableau Highlights. Data is aggregated from 706 customers across nine countries. 13 years strong — Tableau is a Leader in the Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms. Read the report Tableau Next has simplified tracking our key metrics, customer satisfaction and how effectively our internal teams are servicing customers. Having a unified view of all our agents is wildly impactful. Joshua Stern Director GTM Systems, Engine Read the story Stay ahead of the curve with the State of Data and Analytics Report. Find out how global executives are managing and activating their data and analytics for the Agentic Enterpris",
+      "key_links": [
+        {
+          "label": "Watch Demo",
+          "url": "https://www.salesforce.com/in/analytics/demos/tableau-next-overview/?d=pb"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/analytics/tableau-next"
+        },
+        {
+          "label": "Trusted Context",
+          "url": "https://www.salesforce.com/in/analytics/tableau-semantics"
+        },
+        {
+          "label": "Native Analytics",
+          "url": "https://www.salesforce.com/in/analytics/crm"
+        },
+        {
+          "label": "“With real-time risk visualisation, our fraud detection time",
+          "url": "https://www.salesforce.com/in/customer-stories/razorpay-india-tableau"
+        },
+        {
+          "label": "Get the report",
+          "url": "https://www.salesforce.com/in/resources/research-reports/state-of-data-analytics"
+        },
+        {
+          "label": "The Agentic Enterprise Starts With What You Already Have",
+          "url": "https://www.salesforce.com/in/blog/agentic-enterprise-starts-with-what-you-already-have"
+        },
+        {
+          "label": "Unlock Insights Across Salesforce with Purpose-Built Analyti",
+          "url": "https://www.salesforce.com/form/events/webinars/form-rss/5030871/?d=pb"
+        },
+        {
+          "label": "See all resources",
+          "url": "https://www.salesforce.com/in/resources/data"
+        },
+        {
+          "label": "Find out more",
+          "url": "https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/fact-sheets/salesforce-ctos.pdf"
+        },
+        {
+          "label": "Try for free",
+          "url": "https://www.salesforce.com/in/form/signup/freetrial-crm-analytics/?d=pb"
+        },
+        {
+          "label": "Contact us",
+          "url": "https://www.salesforce.com/in/form/contact/analytics_contactme/?d=pb"
+        },
+        {
+          "label": "Customer 360",
+          "url": "https://www.salesforce.com/in/products"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/slack",
+      "title": "Salesforce Slack Integration to Maximise Sales | Salesforce IN",
+      "page_type": "product",
+      "summary": "Slack — the AI-powered productivity platform and conversational work OS, integrated with Salesforce.",
+      "content": "Slack is where the Agentic Enterprise works. Slack is where work happens. It brings together your people, data, apps, and agents so work moves faster. Slackbot is how your employees get work done in a single conversation. Watch demo Try for free Meet Slackbot Most AI agents only know what you tell them. Slackbot understands how your business works. Built into Slack with full context, it doesn’t just answer questions. It takes action across apps and agents. No switching tools. Just say what needs to happen. Watch demo Learn more More Intelligence. More Action. Slackbot brings deep, contextual intelligence to every request, reasoning through what needs to happen and executing it automatically from start to finish. Turn conversations into customer records. Slackbot captures what happens in your work and automatically updates your CRM, keeping records accurate, actions moving, and your business always up to date. Every App. Every Agent. One Conversation. Slackbot coordinates every app and agent behind the scenes, so you can simply say what you need and it gets done, no switching, no searching, no knowing which tool to use. The world's most innovative, fastest-growing companies run on Slack. Real work happens in Slack. 5.2B messages sent weekly Slack makes connecting with teammates easier than ever. Easily communicate with text, audio and visual messages. 6.4M Salesforce records sent in Slack Users are searching, acting and collaborating around the most up to date customer data, right from Slack. 38K AI apps launched in Slack No need for context switching, easily bring every app needed for business, right where your people work. 148M AI workflows in Slack are used each month Millions of people are speeding up routine processes with automation in Slack. Source: Slack Internal Customer Tracking Survey “Given that we’re a hybrid workplace with teams spread across India, it’s important that we stay connected and aligned. Slack is our preferred way of communicating.” Jyotiswarup Raiturkar Group Chief Architect and CTO, Angel One Ltd. Know more Slack is now your front door to Salesforce. Slack connects your people, your Salesforce apps, and Slackbot in one place — so every team has what they need to accelerate incident resolution, close deals faster, and deliver better customer experiences. Learn more Maximise impact with agentic productivity. Work smarter with AI infused into Slack right where teams already work. Keep people aligned, reduce context switching and move work forward with enterprise search, native AI tools like automatic note-taking, summarisation and translations, and the new Slackbot - your personal AI agent for work. Learn more Personalised intelligence is here with Slackbot. Slackbot isn't just another chatbot — it's centred on your work conversations and Salesforce data, and understands your team's unique context. Slackbot delivers personalised assistance powered by your enterprise knowledge, and gets smarter with every interaction. Learn",
+      "key_links": [
+        {
+          "label": "Watch demo",
+          "url": "https://www.salesforce.com/in/form/demo/slack/?d=pb"
+        },
+        {
+          "label": "Watch demo",
+          "url": "https://www.salesforce.com/in/slack/demos/demo-slackbot/?d=pb&noskip=true"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/slackbot"
+        },
+        {
+          "label": "“Given that we’re a hybrid workplace with teams spread acros",
+          "url": "https://www.salesforce.com/in/customer-stories/angel-one"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/crm"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/conversational-work-os"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/salesforce-channels"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/agentforce"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/work-orchestration"
+        },
+        {
+          "label": "Learn more",
+          "url": "https://www.salesforce.com/in/slack/native-ai"
+        },
+        {
+          "label": "Sales, service, marketing, finance, IT, and HR teams use Sla",
+          "url": "https://www.salesforce.com/in/slack/departments"
+        },
+        {
+          "label": "Bring agentic productivity to your industry.",
+          "url": "https://www.salesforce.com/in/slack/industries"
+        },
+        {
+          "label": "Interested in receiving implementation support?",
+          "url": "https://www.salesforce.com/in/form/contact/slack/?d=pb"
+        },
+        {
+          "label": "Request a call",
+          "url": "https://www.salesforce.com/in/form/contact/slack-contact-us/?d=pb"
+        },
+        {
+          "label": "find and share relevant data and knowledge",
+          "url": "https://www.salesforce.com/in/slack/powered-by-crm-data"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "url": "https://www.salesforce.com/in/customer-stories",
+      "title": "Customer Success Stories India | Salesforce IN",
+      "page_type": "blog",
+      "summary": "Customer stories — case studies showing how companies grow with Salesforce.",
+      "content": "Salesforce delivers Customer Success. With Salesforce, the world’s best-loved companies empower humans to do more with AI, acting on all their data to find deeper insights, drive automation and create greater customer success. See how. Customer Success with Agentforce Customer Story TASC Outsourcing increases email response rates by 6x with Agentforce Manual prospecting can slow down sales momentum. But with Agentforce doing the heavy-lifting, TASC’s sales reps are poised to reach new heights of productivity. Learn more Customer Story Ambuja Neotia enriches experiences with Agentforce and a 360 customer view Digital labour and a 360-degree customer view boost rep efficiency, enhance customer interactions, and drive round-the-clock support. Learn more Customer Story Hero FinCorp trims loan approval time from 2 days to 30 minutes. Agentforce reduces handoffs, eliminates backlogs and improves customer experiences. Learn more Customer Success with Data 360 Customer Story Air India delivers effortless, world-class service with Einstein. Learn how the airline connects data to enhance generative AI and improve agent productivity. Learn more Customer Story Royal Enfield builds a loyal biker community through AI-driven marketing Learn how the motorcycle brand cements its cult status with connected, bespoke communication. Learn More Customer Story Sai Silks Kalamandir unifies customer data to power personalised marketing at scale Discover how Sai Silks Kalamandir uses data and insights to strengthen connections with every customer. Learn more Customer Story UTI AMC unifies 20M+ investor profiles to power hyper-personalised campaigns By harnessing a unified customer view and orchestrating personalised, automated journeys, UTI AMC is reimagining engagement — not just to market better, but to connect deeper and build lasting trust. Learn more Customer Story Genpact builds an advanced tech ecosystem powered by AI + data + automation Learn how the company is reimagining organisation-wide processes and customer experiences. Learn more Explore all our customer stories. Filter by Clear Products Agentforce Agentforce 360 Platform Agentforce Automotive Agentforce Commerce Agentforce Consumer Goods Agentforce Education Agentforce Field Service Agentforce Marketing Agentforce MuleSoft Agentforce Sales Agentforce Service CRM Analytics Data 360 Experience Cloud Professional Services Slack Tableau No items found Show more Show less Industries Communications and Media Education Energy and Utilities Engineering, Construction, and Real Estate Financial Services Healthcare and Life Sciences High Tech Manufacturing and Automotive Retail and Consumer Goods Travel, Transportation, and Hospitality No items found Show more Show less Business Sizes Enterprises Midmarkets Small-Midsize Businesses Small Businesses Close filters Show results 61 Results Filter No items found Clear filters Customer Story M3M India builds personalised, connected real estate journeys with a unified custo",
+      "key_links": [
+        {
+          "label": "TASC Outsourcing increases email response rates by 6x with A",
+          "url": "https://www.salesforce.com/in/customer-stories/tasc-outsourcing"
+        },
+        {
+          "label": "Ambuja Neotia enriches experiences with Agentforce and a 360",
+          "url": "https://www.salesforce.com/in/customer-stories/ambuja-neotia"
+        },
+        {
+          "label": "Hero FinCorp trims loan approval time from 2 days to 30 minu",
+          "url": "https://www.salesforce.com/in/customer-stories/hero-fincorp"
+        },
+        {
+          "label": "Air India delivers effortless, world-class service with Eins",
+          "url": "https://www.salesforce.com/in/customer-stories/air-india-delivers-world-class-service-data-ai"
+        },
+        {
+          "label": "Royal Enfield builds a loyal biker community through AI-driv",
+          "url": "https://www.salesforce.com/in/resources/customer-stories/royal-enfield"
+        },
+        {
+          "label": "Sai Silks Kalamandir unifies customer data to power personal",
+          "url": "https://www.salesforce.com/in/customer-stories/Sai-Silks-Kalamandir"
+        },
+        {
+          "label": "UTI AMC unifies 20M+ investor profiles to power hyper-person",
+          "url": "https://www.salesforce.com/in/customer-stories/uti-amc"
+        },
+        {
+          "label": "Genpact builds an advanced tech ecosystem powered by AI + da",
+          "url": "https://www.salesforce.com/in/customer-stories/genpact"
+        },
+        {
+          "label": "M3M India builds personalised, connected real estate journey",
+          "url": "https://www.salesforce.com/in/customer-stories/m3m-india"
+        },
+        {
+          "label": "Tata Realty and Infrastructure Limited drives 10% higher con",
+          "url": "https://www.salesforce.com/in/customer-stories/tata-realty-and-infrastructure-limited"
+        },
+        {
+          "label": "JK Cement replaces 12+ apps with one platform for seamless o",
+          "url": "https://www.salesforce.com/in/customer-stories/jk-cement"
+        },
+        {
+          "label": "Ather Energy builds a dealer-centric solution to streamline ",
+          "url": "https://www.salesforce.com/in/customer-stories/ather-energy"
+        },
+        {
+          "label": "Razorpay turns high-velocity payments data into faster, smar",
+          "url": "https://www.salesforce.com/in/customer-stories/razorpay-india-tableau"
+        },
+        {
+          "label": "Dr. Reddy’s Laboratories supercharges HCP engagement with un",
+          "url": "https://www.salesforce.com/in/customer-stories/dr-reddys-laboratories"
+        },
+        {
+          "label": "Tata Motors powers personalised engagement by unifying 60M u",
+          "url": "https://www.salesforce.com/in/customer-stories/tata-motors"
+        }
+      ],
+      "forms": []
+    }
+  ]
+}
