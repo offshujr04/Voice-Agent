@@ -2,11 +2,39 @@ import * as React from 'react';
 import ReactDOM from 'react-dom/client';
 import { getAppConfig } from '@/lib/env';
 import { getShadowStyles } from '@/lib/styles';
+import type { AppConfig } from '@/lib/types';
 import globalCss from '@/styles/globals.css';
 import EmbedFixedAgentClient from './agent-client';
 
 const scriptTag = document.querySelector<HTMLScriptElement>('script[data-lk-sandbox-id]');
 const sandboxIdAttribute = scriptTag?.dataset.lkSandboxId;
+
+/**
+ * Per-client config read from the embed <script> tag's data- attributes, so a
+ * single bundle serves many sites via Google Tag Manager. Each client pastes a
+ * GTM Custom HTML tag with their own values, e.g.:
+ *
+ *   <script src="https://<app>.vercel.app/embed.js"
+ *     data-lk-sandbox-id="acme.com"
+ *     data-lk-template="acme"
+ *     data-lk-agent-name="assistant-2473"
+ *     data-lk-accent="#0176D3"
+ *     data-lk-start-text="Ask Acme" async></script>
+ *
+ * These override the defaults / remote app config.
+ */
+function overridesFromDataset(ds?: DOMStringMap): Partial<AppConfig> {
+  if (!ds) return {};
+  const o: Partial<AppConfig> = {};
+  if (ds.lkTemplate) o.template = ds.lkTemplate;
+  if (ds.lkAgentName) o.agentName = ds.lkAgentName;
+  if (ds.lkAccent) o.accent = ds.lkAccent;
+  if (ds.lkAccentDark) o.accentDark = ds.lkAccentDark;
+  if (ds.lkBg) o.widgetBackground = ds.lkBg;
+  if (ds.lkBgDark) o.widgetBackgroundDark = ds.lkBgDark;
+  if (ds.lkStartText) o.startButtonText = ds.lkStartText;
+  return o;
+}
 
 // The widget may be embedded cross-origin (host site on one origin, this bundle +
 // the token API served from the LiveKit app on another). Token requests must go
@@ -48,7 +76,11 @@ if (sandboxIdAttribute) {
   shadowRoot.appendChild(reactRoot);
 
   getAppConfig(window.location.origin, sandboxIdAttribute)
-    .then((appConfig) => {
+    .then((resolved) => {
+      // Per-client data- attributes win over the resolved/remote config so each
+      // GTM tag fully controls its site's template, agent, and branding.
+      const appConfig: AppConfig = { ...resolved, ...overridesFromDataset(scriptTag?.dataset) };
+
       // Inject dynamic accent color overrides into the shadow root
       const dynamicStyles = getShadowStyles(appConfig);
       if (dynamicStyles) {
