@@ -13,6 +13,7 @@ Needs OPENAI_API_KEY in agent/.env.local (already there for the worker).
 
 Type a question and press enter. Ctrl-C or 'exit' to quit.
 """
+
 import asyncio
 import io
 import os
@@ -40,7 +41,9 @@ async def main():
     agent = wa.make_triage_agent(template)
     wa.current_site_pages.set(pages)
 
-    print(f"template={template or 'default'}  site_id={site_id or 'default'}  pages={len(pages)}")
+    print(
+        f"template={template or 'default'}  site_id={site_id or 'default'}  pages={len(pages)}"
+    )
     print("Type a message (or 'exit'):\n")
 
     history: list = []
@@ -59,8 +62,12 @@ async def main():
         for it in result.new_items:
             out = getattr(it, "output", None)
             if isinstance(out, dict) and out.get("action") not in (None, "none"):
-                print(f"  [action: {out.get('action')} -> {out.get('url', out.get('direction', ''))}]")
-        print("bot>", str(result.final_output).encode("ascii", "replace").decode(), "\n")
+                print(
+                    f"  [action: {out.get('action')} -> {out.get('url', out.get('direction', ''))}]"
+                )
+        print(
+            "bot>", str(result.final_output).encode("ascii", "replace").decode(), "\n"
+        )
 
 
 if __name__ == "__main__":

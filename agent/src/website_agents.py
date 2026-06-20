@@ -21,6 +21,7 @@ This mirrors the root-level `app_agents.py` (which serves the FastAPI text
 widget) but is bundled inside `agent/` so it ships to LiveKit Cloud with the
 worker. Keep the two in sync when changing tool/agent behavior.
 """
+
 import contextvars
 import json
 import os
@@ -72,17 +73,45 @@ def _pages() -> list[dict]:
 
 # Map common synonyms to the exact page_type values produced by the crawler.
 INTENT_MAPPING = {
-    "cost": "pricing", "plans": "pricing", "price": "pricing",
-    "prices": "pricing", "pricing": "pricing",
-    "features": "product", "feature": "product", "integrations": "product",
-    "integration": "product", "product": "product", "workflow": "product",
+    "cost": "pricing",
+    "plans": "pricing",
+    "price": "pricing",
+    "prices": "pricing",
+    "pricing": "pricing",
+    "features": "product",
+    "feature": "product",
+    "integrations": "product",
+    "integration": "product",
+    "product": "product",
+    "workflow": "product",
     "workflows": "product",
-    "about": "about", "team": "about", "values": "about", "founders": "about",
-    "blog": "blog", "post": "blog", "posts": "blog", "article": "blog",
+    "about": "about",
+    "team": "about",
+    "values": "about",
+    "founders": "about",
+    "founder": "about",
+    "leadership": "about",
+    "ceo": "about",
+    "company": "about",
+    "mission": "about",
+    "vision": "about",
+    "story": "about",
+    "careers": "about",
+    "jobs": "about",
+    "hiring": "about",
+    "blog": "blog",
+    "post": "blog",
+    "posts": "blog",
+    "article": "blog",
     "articles": "blog",
-    "contact": "contact", "demo": "contact", "book": "contact",
-    "meeting": "contact", "email": "contact",
-    "home": "home", "homepage": "home", "start": "home",
+    "contact": "contact",
+    "demo": "contact",
+    "book": "contact",
+    "meeting": "contact",
+    "email": "contact",
+    "home": "home",
+    "homepage": "home",
+    "start": "home",
 }
 
 
@@ -120,7 +149,9 @@ def resolve_redirect(intent: str, pages: list[dict]) -> dict:
 
     page = next((p for p in pages if p["page_type"] == normalized_intent), None)
     if not page:
-        page = next((p for p in pages if normalized_intent in p["page_type"].lower()), None)
+        page = next(
+            (p for p in pages if normalized_intent in p["page_type"].lower()), None
+        )
     if not page:
         page = next((p for p in pages if normalized_intent in p["title"].lower()), None)
     if not page:
@@ -213,10 +244,15 @@ def book_calendar_meeting(name: str, email: str) -> dict:
         try:
             r = httpx.post(
                 "https://api.calendly.com/scheduling_links",
-                headers={"Authorization": f"Bearer {token}",
-                         "Content-Type": "application/json"},
-                json={"max_event_count": 1, "owner": event_type,
-                      "owner_type": "EventType"},
+                headers={
+                    "Authorization": f"Bearer {token}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "max_event_count": 1,
+                    "owner": event_type,
+                    "owner_type": "EventType",
+                },
                 timeout=15,
             )
             r.raise_for_status()
@@ -282,6 +318,7 @@ booking_agent = Agent(
     tools=[book_calendar_meeting],
 )
 
+
 # Instructions come from a swappable per-site template (see site_prompts.py).
 # A worker can serve multiple client sites, so build the triage agent per session
 # with the template the widget requested (passed via agent dispatch metadata).
@@ -290,7 +327,12 @@ def make_triage_agent(template: str | None = None) -> Agent:
         name="Website Assistant",
         model="gpt-4o-mini",
         instructions=get_site_instructions(template),
-        tools=[search_site_content, get_redirect_url, navigate_history, submit_website_form],
+        tools=[
+            search_site_content,
+            get_redirect_url,
+            navigate_history,
+            submit_website_form,
+        ],
         handoffs=[lead_agent, booking_agent],
     )
 

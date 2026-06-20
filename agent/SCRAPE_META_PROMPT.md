@@ -46,12 +46,20 @@ a tool call.
 > URL **`<SEED_URL>`**, produce TWO artifacts. Ground everything in pages you
 > actually fetch — never invent prices, features, pages, or URLs.
 >
-> ### Step 1 — Crawl
-> Start at the seed. Fetch the home page and follow its primary nav/footer links to
-> reach, at minimum: **home, the product/features hub, pricing, blog, about,
-> contact/demo**. Then fetch the top individual product/feature pages (one per
-> distinct offering) so detailed questions are answerable. Aim for 12–20 pages.
-> Stay on the site's own domain(s). De-duplicate URLs.
+> ### Step 1 — Crawl (sitemap-first)
+> **Always start from the sitemap** — it is the authoritative, complete URL list and
+> reveals exact slugs so you never 404 guessing nav links. Fetch `<seed>/sitemap.xml`
+> (also try `m.<host>/sitemap.xml` and any `sitemap_index.xml`), collect every `<loc>`,
+> then FILTER to the real marketing/product pages and DROP the long tail:
+> localized copies (`/pt/`, `/es/`, `/hi/`, …), per-item template/blog-post pages,
+> legal/`/tos`/`/privacy`, and `/testing`-style junk. Bucket the survivors by first
+> path segment (`/features/*`, `/industries/*`, `/integrations/*`, `/products/*`,
+> comparison/`*-vs-*`/`*-alternative`, case studies) so you cover every dropdown
+> destination, not just the top nav. Ensure you keep at minimum: **home, the
+> product/features hub, pricing, blog, about, contact/demo**. Then fetch each kept
+> URL. If there is no sitemap, fall back to crawling the home page's nav/footer links.
+> A real site nav has dropdowns — every dropdown item is a page a visitor may ask for,
+> so coverage (not just 12–20 pages) is what makes navigation feel complete.
 >
 > ### Step 2 — Clean each page (this is the critical step)
 > For each page extract human-readable text, then **remove boilerplate**: the top
