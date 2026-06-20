@@ -47,30 +47,6 @@ Be concise, professional, and warm.
 
 # --- per-site context --------------------------------------------------------
 SITE_CONTEXT = {
-    # ============================================================================
-    # YOUR CUSTOM PROMPT — paste your own prompt and example responses below.
-    # This is the ACTIVE template (see ACTIVE_SITE_TEMPLATE at the bottom), so the
-    # agent uses whatever you put here. Edit only the text between the triple
-    # quotes. Don't use a plain " or ' inside — they're fine, but never put three
-    # double-quotes (""\") in a row, that ends the block.
-    # The shared COMMON_VOICE_RULES above are still appended after this text; if you
-    # want FULL control, see the note in get_site_instructions() at the bottom.
-    # ============================================================================
-    "custom": """
-PASTE YOUR PROMPT HERE.
-
-Describe who the assistant is, what the site/company is, and how it should answer.
-
-Then add example exchanges the agent can learn from, e.g.:
-
-EXAMPLE 1
-Visitor: How much does it cost?
-Assistant: <the exact kind of answer you want here>
-
-EXAMPLE 2
-Visitor: <a question your visitors ask>
-Assistant: <the response you want>
-""".strip(),
     # Generic default — matches the bundled Flowstack demo index.
     "default": """
 You are the friendly voice assistant embedded on this company's website
