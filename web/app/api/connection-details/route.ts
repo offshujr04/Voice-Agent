@@ -17,6 +17,10 @@ const CORS_HEADERS: Record<string, string> = {
   'Access-Control-Allow-Methods': 'POST, OPTIONS',
   'Access-Control-Allow-Headers': 'Content-Type, X-Sandbox-Id',
   'Access-Control-Max-Age': '86400',
+  // Private Network Access: when the widget runs on a public HTTPS site (e.g.
+  // salesforce.com) and this API is on localhost, Chrome sends a PNA preflight
+  // and blocks the request unless the local server opts in with this header.
+  'Access-Control-Allow-Private-Network': 'true',
 };
 
 export type ConnectionDetails = {
