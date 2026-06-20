@@ -50,25 +50,34 @@ SUPABASE_SERVICE_ROLE_KEY = os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
 
 
 async def record_session(record: dict) -> None:
-    """Insert a session row into Supabase via PostgREST. Best-effort."""
+    """Insert a session row into Supabase, and auto-register the site so a brand-new
+    domain shows up in the dashboard/admin. Best-effort — never breaks the agent."""
     if not (SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY):
         logger.info("analytics skipped (Supabase not configured): %s", record.get("room_name"))
         return
+    headers = {
+        "apikey": SUPABASE_SERVICE_ROLE_KEY,
+        "Authorization": f"Bearer {SUPABASE_SERVICE_ROLE_KEY}",
+        "Content-Type": "application/json",
+    }
+    host = record.get("site_hostname")
     try:
         async with httpx.AsyncClient(timeout=10) as client:
+            # Auto-register the site (no-op if it already exists, preserving any
+            # existing config/enabled state) so new domains appear automatically.
+            if host and host != "unknown":
+                await client.post(
+                    f"{SUPABASE_URL}/rest/v1/sites?on_conflict=hostname",
+                    headers={**headers, "Prefer": "resolution=ignore-duplicates,return=minimal"},
+                    json={"hostname": host, "label": host},
+                )
             r = await client.post(
                 f"{SUPABASE_URL}/rest/v1/sessions",
-                headers={
-                    "apikey": SUPABASE_SERVICE_ROLE_KEY,
-                    "Authorization": f"Bearer {SUPABASE_SERVICE_ROLE_KEY}",
-                    "Content-Type": "application/json",
-                    "Prefer": "return=minimal",
-                },
+                headers={**headers, "Prefer": "return=minimal"},
                 json=record,
             )
             r.raise_for_status()
-            logger.info("recorded session for %s (%ss)", record.get("site_hostname"),
-                        record.get("duration_seconds"))
+            logger.info("recorded session for %s (%ss)", host, record.get("duration_seconds"))
     except Exception as e:
         logger.warning("failed to record session: %s", e)
 

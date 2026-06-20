@@ -86,8 +86,11 @@ if (sandboxIdAttribute) {
 
       // Layer per-site config: defaults < generic tag data- attrs < built-in
       // hostname registry < live DB config (the admin-controlled source of truth).
+      // Default the site id to the actual hostname so analytics track every domain
+      // distinctly — a brand-new site reports itself even before it's configured.
       const appConfig: AppConfig = {
         ...resolved,
+        sandboxId: window.location.hostname,
         ...overridesFromDataset(scriptTag?.dataset),
         ...findSiteConfig(window.location.hostname),
         ...(db?.config ?? {}),

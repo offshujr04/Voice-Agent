@@ -5,11 +5,13 @@ export interface SiteStat {
   hostname: string;
   label: string | null;
   enabled: boolean;
+  accent: string | null;
   conversations: number;
   minutes: number;
   unique_users: number;
   avg_seconds: number;
-  last_conversation_at: string | null;
+  /** False when the domain only appears in session data (not yet in `sites`). */
+  registered: boolean;
 }
 
 export interface Totals {
@@ -24,14 +26,54 @@ export interface DailyPoint {
   minutes: number;
 }
 
-/** Per-site rollup from the site_stats view. */
+/**
+ * Per-site rollup. Driven by BOTH the configured `sites` and the actual
+ * `sessions` data, so a brand-new domain that starts sending conversations shows
+ * up automatically (flagged `registered: false`) even before it's configured.
+ */
 export async function getSiteStats(): Promise<SiteStat[]> {
-  const { data, error } = await getSupabase()
-    .from('site_stats')
-    .select('*')
-    .order('conversations', { ascending: false });
-  if (error) throw error;
-  return (data ?? []) as SiteStat[];
+  const supabase = getSupabase();
+  const [{ data: sites, error: e1 }, { data: sessions, error: e2 }] = await Promise.all([
+    supabase.from('sites').select('hostname, label, enabled, accent'),
+    supabase.from('sessions').select('site_hostname, visitor_id, duration_seconds'),
+  ]);
+  if (e1) throw e1;
+  if (e2) throw e2;
+
+  type Agg = { conversations: number; seconds: number; visitors: Set<string> };
+  const agg = new Map<string, Agg>();
+  for (const s of sessions ?? []) {
+    const host = (s.site_hostname as string) || 'unknown';
+    const a = agg.get(host) ?? { conversations: 0, seconds: 0, visitors: new Set() };
+    a.conversations += 1;
+    a.seconds += s.duration_seconds ?? 0;
+    if (s.visitor_id) a.visitors.add(s.visitor_id as string);
+    agg.set(host, a);
+  }
+
+  const siteByHost = new Map((sites ?? []).map((s) => [s.hostname as string, s]));
+  const hosts = new Set<string>([...siteByHost.keys(), ...agg.keys()]);
+
+  const rows: SiteStat[] = [...hosts].map((hostname) => {
+    const site = siteByHost.get(hostname);
+    const a = agg.get(hostname);
+    const conversations = a?.conversations ?? 0;
+    const seconds = a?.seconds ?? 0;
+    return {
+      hostname,
+      label: (site?.label as string) ?? null,
+      enabled: site ? site.enabled !== false : true,
+      accent: (site?.accent as string) ?? null,
+      conversations,
+      minutes: Math.round((seconds / 60) * 10) / 10,
+      unique_users: a?.visitors.size ?? 0,
+      avg_seconds: conversations ? Math.round(seconds / conversations) : 0,
+      registered: Boolean(site),
+    };
+  });
+
+  rows.sort((a, b) => b.conversations - a.conversations || a.hostname.localeCompare(b.hostname));
+  return rows;
 }
 
 /** Overall totals across every site. Unique users counted globally by visitor_id. */

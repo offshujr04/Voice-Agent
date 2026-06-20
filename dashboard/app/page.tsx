@@ -12,7 +12,7 @@ export default async function StatsPage() {
         <div className="notice">
           Supabase isn’t configured yet. Set <code>SUPABASE_URL</code> and{' '}
           <code>SUPABASE_SERVICE_ROLE_KEY</code> in <code>.env.local</code>, run{' '}
-          <code>supabase/schema.sql</code> in your Supabase project, then reload.
+          <code>supabase/schema.sql</code>, then reload.
         </div>
       </>
     );
@@ -28,87 +28,148 @@ export default async function StatsPage() {
         <p className="sub">Usage across all sites running the voice assistant.</p>
         <div className="notice">
           Connected to Supabase, but the tables aren’t there yet. Run{' '}
-          <code>dashboard/supabase/schema.sql</code> in the Supabase SQL editor, then reload.
+          <code>dashboard/supabase/schema.sql</code>, then reload.
         </div>
       </>
     );
   }
 
   const maxConv = Math.max(1, ...trend.map((d) => d.conversations));
+  const liveCount = sites.filter((s) => s.enabled && s.registered).length;
+  const discovered = sites.filter((s) => !s.registered);
 
   return (
     <>
-      <h1>Stats</h1>
-      <p className="sub">Usage across all sites running the voice assistant.</p>
-
-      <div className="kpis">
-        <Kpi label="Conversations" value={totals.conversations.toLocaleString()} />
-        <Kpi label="Total minutes" value={totals.minutes.toLocaleString()} unit="min" />
-        <Kpi label="Unique users" value={totals.unique_users.toLocaleString()} />
-        <Kpi label="Active sites" value={sites.filter((s) => s.enabled).length.toString()} />
+      <div className="page-head">
+        <div>
+          <h1>Overview</h1>
+          <p className="sub">Voice assistant usage across every site.</p>
+        </div>
+        <div className="live-pill">
+          <span className="dot on" /> {liveCount} live
+        </div>
       </div>
 
-      <h2>Conversations — last 30 days</h2>
-      {trend.length ? (
-        <div className="bars" title="conversations per day">
-          {trend.map((d) => (
-            <div
-              key={d.day}
-              className="bar"
-              style={{ height: `${(d.conversations / maxConv) * 100}%` }}
-              title={`${d.day}: ${d.conversations} conversations, ${d.minutes} min`}
-            />
-          ))}
-        </div>
-      ) : (
-        <div className="notice">No conversations recorded yet.</div>
-      )}
+      {/* KPI bento */}
+      <section className="bento">
+        <Kpi
+          className="span2 feature"
+          label="Conversations"
+          value={totals.conversations}
+          accent="#22c55e"
+        />
+        <Kpi label="Total minutes" value={totals.minutes} unit="min" accent="#38bdf8" />
+        <Kpi label="Unique users" value={totals.unique_users} accent="#a78bfa" />
+        <Kpi label="Sites tracked" value={sites.length} accent="#f59e0b" />
 
-      <h2>By website</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Website</th>
-            <th className="num">Conversations</th>
-            <th className="num">Minutes</th>
-            <th className="num">Unique users</th>
-            <th className="num">Avg call</th>
-          </tr>
-        </thead>
-        <tbody>
-          {sites.map((s) => (
-            <tr key={s.hostname}>
-              <td>
-                <span className={`dot ${s.enabled ? 'on' : 'off'}`} />
-                {s.label || s.hostname}
-                <div style={{ color: 'var(--muted)', fontSize: 12 }}>{s.hostname}</div>
-              </td>
-              <td className="num">{s.conversations.toLocaleString()}</td>
-              <td className="num">{Number(s.minutes).toLocaleString()}</td>
-              <td className="num">{s.unique_users.toLocaleString()}</td>
-              <td className="num">{formatDuration(s.avg_seconds)}</td>
-            </tr>
-          ))}
-          {!sites.length && (
-            <tr>
-              <td colSpan={5} style={{ color: 'var(--muted)' }}>
-                No sites configured yet.
-              </td>
-            </tr>
+        {/* Trend */}
+        <div className="card span4 trend-card">
+          <div className="card-head">
+            <span>Conversations · last 30 days</span>
+          </div>
+          {trend.length ? (
+            <div className="bars">
+              {trend.map((d) => (
+                <div
+                  key={d.day}
+                  className="bar"
+                  style={{ height: `${Math.max(4, (d.conversations / maxConv) * 100)}%` }}
+                  title={`${d.day}: ${d.conversations} conversations · ${d.minutes} min`}
+                />
+              ))}
+            </div>
+          ) : (
+            <div className="empty">No conversations yet.</div>
           )}
-        </tbody>
-      </table>
+        </div>
+      </section>
+
+      {/* Per-site bento */}
+      <div className="section-head">
+        <h2>By website</h2>
+        {discovered.length > 0 && (
+          <span className="hint">
+            {discovered.length} new domain{discovered.length > 1 ? 's' : ''} discovered — configure
+            in Admin
+          </span>
+        )}
+      </div>
+
+      <section className="site-grid">
+        {sites.map((s) => {
+          const status = !s.registered ? 'new' : s.enabled ? 'live' : 'off';
+          return (
+            <div
+              key={s.hostname}
+              className="site-card"
+              style={{ ['--c' as string]: s.accent || '#22c55e' }}
+            >
+              <span className="accent-strip" />
+              <div className="site-top">
+                <div className="site-name">
+                  {s.label || s.hostname}
+                  <div className="site-host">{s.hostname}</div>
+                </div>
+                <span className={`status ${status}`}>
+                  {status === 'live' ? 'Live' : status === 'off' ? 'Disabled' : 'New'}
+                </span>
+              </div>
+
+              <div className="metrics">
+                <Metric value={s.conversations} label="convos" />
+                <Metric value={s.minutes} label="min" />
+                <Metric value={s.unique_users} label="users" />
+                <Metric value={formatDuration(s.avg_seconds)} label="avg" />
+              </div>
+
+              {s.enabled && (
+                <a
+                  className="visit"
+                  href={`https://${s.hostname}`}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Visit site ↗
+                </a>
+              )}
+            </div>
+          );
+        })}
+        {!sites.length && <div className="notice">No sites or conversations yet.</div>}
+      </section>
     </>
   );
 }
 
-function Kpi({ label, value, unit }: { label: string; value: string; unit?: string }) {
+function Kpi({
+  label,
+  value,
+  unit,
+  accent,
+  className = '',
+}: {
+  label: string;
+  value: number | string;
+  unit?: string;
+  accent: string;
+  className?: string;
+}) {
   return (
-    <div className="kpi">
-      <div className="label">{label}</div>
-      <div className="value">
-        {value} {unit && <span className="unit">{unit}</span>}
+    <div className={`card kpi ${className}`} style={{ ['--c' as string]: accent }}>
+      <div className="kpi-label">{label}</div>
+      <div className="kpi-value">
+        {typeof value === 'number' ? value.toLocaleString() : value}
+        {unit && <span className="kpi-unit">{unit}</span>}
       </div>
+    </div>
+  );
+}
+
+function Metric({ value, label }: { value: number | string; label: string }) {
+  return (
+    <div className="metric">
+      <div className="m-value">{typeof value === 'number' ? value.toLocaleString() : value}</div>
+      <div className="m-label">{label}</div>
     </div>
   );
 }
@@ -116,5 +177,5 @@ function Kpi({ label, value, unit }: { label: string; value: string; unit?: stri
 function formatDuration(seconds: number): string {
   const s = Math.round(seconds);
   if (s < 60) return `${s}s`;
-  return `${Math.floor(s / 60)}m ${s % 60}s`;
+  return `${Math.floor(s / 60)}m${s % 60 ? ` ${s % 60}s` : ''}`;
 }
