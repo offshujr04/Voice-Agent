@@ -1,0 +1,52 @@
+:root {
+  --bg: #0b0f17;
+  --panel: #121826;
+  --fg: #e6e9ef;
+  --muted: #9aa4b2;
+  --accent: #16a34a;
+  --accent2: #22c55e;
+  --border: #1f2937;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  min-height: 100vh;
+}
+a { color: var(--accent2); text-decoration: none; }
+header {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; align-items: center; gap: 24px;
+  padding: 14px 28px;
+  background: rgba(11,15,23,.85); backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+.brand { font-weight: 800; letter-spacing: -.02em; font-size: 18px; color: var(--fg); }
+.brand span { color: var(--accent2); }
+nav { display: flex; gap: 18px; margin-left: auto; flex-wrap: wrap; }
+nav a { color: var(--muted); font-weight: 500; }
+nav a:hover, nav a.active { color: var(--fg); }
+main { max-width: 920px; margin: 0 auto; padding: 56px 24px 120px; }
+h1 { font-size: 40px; line-height: 1.1; letter-spacing: -.03em; margin: 0 0 16px; }
+h2 { font-size: 26px; letter-spacing: -.02em; margin: 40px 0 12px; }
+p.lead { font-size: 19px; color: var(--muted); max-width: 640px; }
+.pill { display: inline-block; padding: 6px 12px; border: 1px solid var(--border);
+  border-radius: 999px; color: var(--accent2); font-size: 13px; font-weight: 600; margin-bottom: 20px; }
+.grid { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin-top: 28px; }
+.card { background: var(--panel); border: 1px solid var(--border); border-radius: 16px; padding: 22px; }
+.card h3 { margin: 0 0 6px; font-size: 18px; }
+.card .price { font-size: 30px; font-weight: 800; margin: 8px 0; }
+.card .price small { font-size: 14px; color: var(--muted); font-weight: 500; }
+.card ul { margin: 12px 0 0; padding-left: 18px; color: var(--muted); }
+.btn { display: inline-block; background: var(--accent); color: #fff; font-weight: 700;
+  padding: 12px 22px; border-radius: 12px; margin-top: 28px; }
+.btn:hover { background: var(--accent2); }
+.muted { color: var(--muted); }
+.post { border-bottom: 1px solid var(--border); padding: 18px 0; }
+form { display: grid; gap: 14px; max-width: 460px; margin-top: 24px; }
+label { font-size: 14px; color: var(--muted); }
+input, textarea { width: 100%; background: var(--panel); border: 1px solid var(--border);
+  color: var(--fg); border-radius: 10px; padding: 12px; font: inherit; }
+footer { border-top: 1px solid var(--border); color: var(--muted); padding: 24px; text-align: center; font-size: 14px; }

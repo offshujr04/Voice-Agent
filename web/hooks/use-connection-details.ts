@@ -19,9 +19,16 @@ export default function useConnectionDetails(appConfig: AppConfig) {
 
   const fetchConnectionDetails = useCallback(async () => {
     setConnectionDetails(null);
+    // For cross-origin embeds, the standalone bundle records the origin it was
+    // served from (the LiveKit app) so token requests reach the API rather than
+    // the host site. Falls back to the current origin for same-origin usage.
+    const apiBase =
+      (typeof window !== 'undefined' &&
+        (window as Window & { __lkApiBase?: string }).__lkApiBase) ||
+      window.location.origin;
     const url = new URL(
       process.env.NEXT_PUBLIC_CONN_DETAILS_ENDPOINT ?? '/api/connection-details',
-      window.location.origin
+      apiBase
     );
 
     let data: ConnectionDetails;

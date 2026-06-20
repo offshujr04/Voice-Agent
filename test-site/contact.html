@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact — Flowstack</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">Flow<span>stack</span></div>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/product">Product</a>
+      <a href="/pricing">Pricing</a>
+      <a href="/blog">Blog</a>
+      <a href="/about">About</a>
+      <a href="/contact" class="active">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <span class="pill">Contact</span>
+    <h1>Talk to us</h1>
+    <p class="lead">Book a demo or send us a note. Email <a href="mailto:hello@flowstack.test">hello@flowstack.test</a>.</p>
+    <form onsubmit="event.preventDefault(); this.reset(); alert('Thanks! (demo form)');">
+      <div><label>Name</label><input name="name" required /></div>
+      <div><label>Email</label><input name="email" type="email" required /></div>
+      <div><label>Message</label><textarea name="message" rows="4"></textarea></div>
+      <button class="btn" type="submit">Send</button>
+    </form>
+  </main>
+  <footer>© Flowstack — demo site for the LiveKit voice widget.</footer>
+  <script src="http://localhost:3000/embed-popup.js" data-lk-sandbox-id="assistant-2473" async></script>
+</body>
+</html>

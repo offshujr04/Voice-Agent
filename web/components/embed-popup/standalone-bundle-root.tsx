@@ -8,6 +8,21 @@ import EmbedFixedAgentClient from './agent-client';
 const scriptTag = document.querySelector<HTMLScriptElement>('script[data-lk-sandbox-id]');
 const sandboxIdAttribute = scriptTag?.dataset.lkSandboxId;
 
+// The widget may be embedded cross-origin (host site on one origin, this bundle +
+// the token API served from the LiveKit app on another). Token requests must go
+// to the origin this bundle was LOADED from, not the host page's origin. Capture
+// it from the script's own src so use-connection-details can target it.
+if (scriptTag?.src) {
+  try {
+    (window as Window & { __lkApiBase?: string }).__lkApiBase = new URL(
+      scriptTag.src,
+      window.location.href
+    ).origin;
+  } catch {
+    // leave unset — falls back to the host page origin (same-origin embeds)
+  }
+}
+
 if (sandboxIdAttribute) {
   const wrapper = document.createElement('div');
   wrapper.setAttribute('id', 'lk-embed-wrapper');

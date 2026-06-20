@@ -42,25 +42,28 @@ export function parseUiAction(payload: Uint8Array): UiAction | null {
 /**
  * Navigate the host page to `rawUrl`.
  *
- * - Same-origin → real navigation. The host's own routing loads the page, the
- *   widget re-injects, and the stashed session resumes (see session-resume.ts),
- *   so the call continues. A non-existent route shows the host's 404; the widget
- *   reappears there only if that page also loads the embed (it should site-wide).
- * - Cross-origin → open in a new tab so the current page and call are untouched.
+ * A redirect always targets a page on the SITE the widget is running on. The
+ * site index may have been crawled on a different host/port (e.g. staging, or a
+ * different dev port) than where the widget is deployed, so we ignore the index
+ * URL's origin and apply only its PATH to the current origin. The host's own
+ * routing loads the page, the widget re-injects, and the stashed session resumes
+ * (see session-resume.ts) so the call continues.
  */
 function navigateTo(rawUrl: string): void {
-  let target: URL;
+  let parsed: URL;
   try {
-    target = new URL(rawUrl, window.location.href);
+    parsed = new URL(rawUrl, window.location.href);
   } catch {
     // Bad/relative-only URL we can't resolve — do nothing rather than break.
     return;
   }
 
-  if (target.origin !== window.location.origin) {
-    window.open(target.href, '_blank', 'noopener,noreferrer');
-    return;
-  }
+  // Remap to the current origin using just the path/query/hash so a host/port
+  // mismatch between the crawl and the live site can't break navigation.
+  const target = new URL(
+    parsed.pathname + parsed.search + parsed.hash,
+    window.location.origin
+  );
 
   // Already here — nothing to do.
   if (target.href === window.location.href) {
