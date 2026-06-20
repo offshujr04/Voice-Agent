@@ -1,1265 +1,257 @@
 {
-  "seed": "https://aisensy.com/",
-  "page_count": 18,
+  "seed": "https://aisensy.com",
+  "page_count": 28,
   "pages": [
     {
       "url": "https://aisensy.com",
-      "title": "AiSensy - Smartest WhatsApp Marketing Platform",
+      "title": "AiSensy - Smartest WhatsApp Marketing & Engagement Platform",
       "page_type": "home",
-      "summary": "AiSensy homepage — the smartest WhatsApp Marketing & Engagement platform built on the official WhatsApp Business API. Send broadcasts, build chatbots and AI agents, run click-to-WhatsApp ads, and sell on WhatsApp.",
-      "content": "AiSensy - Smartest WhatsApp Marketing Platform New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Español हिन्दी, हिंदी Start for FREE Login Eng Português Español हिन्दी, हिंदी Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEng",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "AiSensy is the official WhatsApp Business API platform trusted by 100,000+ businesses for broadcasts, chatbots, AI agents, click-to-WhatsApp ads, payments and shared team inbox.",
+      "content": "🏆 — \"CTX Growth Champion Year 2025\" awarded by WhatsApp\n5X Your Revenue\nwith the Power of WhatsApp\nBroadcast, Automate, Engage, Sell - do everything with the AI-powered\nWhatsApp Marketing & Engagement Platform. Powered by Official WhatsApp APIs⚡\nStart 14-Day FREE Trial Join Live Demo\n🏆 — \"CTX Growth Champion Year 2025\" awarded by WhatsApp\n5X Your Revenue\nwith WhatsApp\nBroadcast, Automate, Engage, Grow with AiSensy - the AI-powered\nWhatsApp Marketing & Engagement Platform .\nPowered by Official WhatsApp APIs⚡\nStart 14-Day FREE Trial Join Live Demo\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nBroadcast Marketing Messages on WhatsApp (Officially)\nEnjoy a Limitless Broadcasting experience on WhatsApp\n8+ Powerful Messaging Categories Send Promotions, Offers, Coupon codes, Carousels and More- Risk-Free!\nAdd CTAs. Drive 3x Conversions Turn conversations into conversions with eye-catching CTA and Quick Reply buttons\nSchedule your WhatsApp messages Streamline your work, Schedule Broadcasts 2 months ahead of time Start for FREE\nGet Started with Forms, Payments & Click to WhatsApp Ads\nAiSensy launches latest WhatsApp API and AI Features at Blazing fast speed⚡\nRun AI powered Ads that Click to WhatsApp\nRun Ads on Facebook & Instagram that land on WhatsApp. 5X Your lead generations & 2-3X Conversions Instantly!\nRun Ads from AiSensy, get quality leads with AI & conversions API, smartly segregate your leads and build Chatbot Flows to automate everything!\nExplore\nBuild WhatsApp Forms\nCapture Leads & collect useful information Directly in WhatsApp Chats with WhatsApp Forms.\nFrom feedback to gathering user insights, collect it all on WhatsApp. Explore\nCollect Payments on WhatsApp\nCollect Payments now on WhatsApp seamlessly with WhatsApp Pay and other modes of payment (Razorpay, Payu etc) and grow your revenue. Explore\nWhy WhatsApp?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support!\n98 % Open Rates\n45- 60 % Click Rates\n2.6 Bn+ Active Users\n7 % Engagement Rate\nAdvanced Features that drive Conversions\n3X Your revenues using AiSensy Marketing Platform\nMultiple Human Live Chat\nHave multiple team members to drive Live Chat Support on the Same WhatsApp Business Number.\nFilter Chats according to tags, campaigns and attributes for Smart Agent Chat Routing.\nReal-Time Analytics\nTrack your campaign results in real-time.\nMonitor Read, Replied & Clicked rates for each campaign and retarget smartly for higher conversions!\nBuild no-code Chatbot in minutes\nBuild your Own Chatbot Flows your Way! Easy-to-use Chatbot & Catalog Flow builder to build your conversational journeys\nImport & Broadcast Instantly\nSimply Import all your Contacts and Broadcast approved messages Instantly.\nSee real-time analytics on the AiSensy Platform for delivered, read rates and more\nFree Green Tick Verification\nFree WhatsApp Business API\nFree Onboarding\nZero Setup fee\nFree Website Widget\nFree QR & Link\nFree Green Tick Verification\nFree WhatsApp Business API\nFree Onboarding\nZero Setup fee\nFree Website Widget\nFree QR & Link\nFree Green Tick Verification\nFree WhatsApp Business API\nFree Onboarding\nZero Setup fee\nFree Website Widget\nFree QR & Link\nCustomers love us!\nPriyal Ostwal Marketing Manager, PhysicsWallah AiSensy team has shown exceptional professionalism, reliability and a true commitment to customer satisfaction.\nAkash Jain Business Executive, Cosco AiSensy helped us increase our customer engagement. Our customer eng",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/features",
-      "title": "AiSensy Platform Features | Whatsapp Business API",
+      "title": "AiSensy Platform Features (WhatsApp Business API)",
       "page_type": "product",
-      "summary": "Features overview — all of AiSensy's WhatsApp tools: broadcasting, chatbot & flow builder, AI agents, click-to-WhatsApp ads, payments, catalog, forms, webviews and click tracking.",
-      "content": "AiSensy Platform Features | Whatsapp Business API New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs ",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "All AiSensy features: WhatsApp broadcasting & retargeting, no-code chatbot flow builder, AI WhatsApp chatbots & AI agents, Click-to-WhatsApp Ads Manager, payments, catalogs, forms and multi-agent live chat.",
+      "content": "Powerful Features that you Need\nAiSensy Platform covers all aspects of Marketing, CRM & Customer Support in one Place\nSmooth Chatbot to Human Transfer Monitor Chatbot Conversations and Take over the Conversation smoothly. Get Notified when for Bot to Human Transfers\nSmart Audience Segmentation No Need to Upload Excel Each time you wish to broadcast! Segregate Audiences using Filters and Broadcast Accordingly.\nDrag & Drop Chatbots Build dynamic drag & drop WhatsApp Chatbots easily in just 10 minutes Book a Demo Now\nAiSensy - One Platform for Everything WhatsApp\n3X your revenues using AiSensy Marketing Platform\nExtensive User Profile & CRM\nBe available for your customers on their favourite WhatsApp channel 24/7 using NLP based Chatbot and Live Chat. 🤖\nFilter Chats according to tags, campaigns and attributes for Smart Agent Chat Routing.\nTrack Clicks on WhatsApp Broadcasts\nTrack the number of users who are clicking your WhatsApp Broadcast & drive 3x more conversions by Retargeting!\nBuild no-code Chatbot in minutes\nBuild your Own Chatbot Flows your Way! Easy-to-use Chatbot & Catalog Flow builder to build your conversational journeys\nSend Automated CTA Based Notifications",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/pricing",
-      "title": "WhatsApp Business API Pricing in India (2026) - AiSensy",
+      "title": "WhatsApp Business API Pricing in India - AiSensy",
       "page_type": "pricing",
-      "summary": "Pricing — AiSensy's plans (commonly Basic, Pro and Enterprise) on top of WhatsApp's per-conversation charges; includes a free trial and add-ons.",
-      "content": "WhatsApp Business API Pricing in India (2026) - AiSensy New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook",
-      "key_links": [
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "AiSensy plans: Free Forever, Basic ₹1,500/mo, Pro ₹3,200/mo, Premium ₹9,100/mo, Unlimited ₹45,000/mo, Enterprise custom. No setup fee; Meta template-message charges billed separately.",
+      "content": "AiSensy WhatsApp Business API pricing (India). Plans are billed monthly, quarterly (save 5%) or yearly (save 10%), all with Unlimited Users (no per-user fee). Tiers: Free Forever (free); Basic ₹1,500/month; Pro ₹3,200/month (most popular); Premium ₹9,100/month; Unlimited ₹45,000/month; Enterprise (custom-priced). Pro adds over Basic: campaign scheduler, campaign click tracking, campaign budget & analytics, project APIs, custom agent rules, CSV campaign scheduler and automatic failed-message retry, plus more tags (100 vs 10) and custom attributes (20 vs 5). Premium and above add priority support, number masking, downloadable reports, webhooks and faster 250/sec messaging. Broadcasting & retargeting, multi-agent live chat, unlimited contacts and the Click-to-WhatsApp Ads Manager are included on every paid plan. There is NO setup fee and AiSensy does not charge to procure the WhatsApp Business API; billing is pre-paid. WhatsApp/Meta charges are separate and billed per template message (India): Marketing ₹1.09 per message; Utility ₹0.145; Authentication ₹0.145; Service (user-initiated) messages are FREE within the 24-hour customer service window. Chatbots & AI Agents are add-ons charged on top of any plan (Basic keyword chatbots ₹2,500/month; Pro + AI agents ₹3,500/month). \n✨ — WhatsApp Business API Pricing Plans\nAiSensy Pricing Plans - WhatsApp API Pricing\nMonthly / Quarterly/ Yearly Subscription | Unlimited Users Plan\nMonthly Quarterly SAVE 5% Yearly SAVE 10% Compare Plans\nAll billing is pre-paid. WhatsApp Conversation Credits are recharged & managed separately (Marketing ₹1.09, Utility & Authentication ₹0.145 per message for Indian users; Service conversations are always free).\nNeed help choosing? Talk to our team →\nCompare Plans Plans + Chatbot & AI add-ons ✕\nAdd-ons · Chatbots & AI Agents, charged separately on top of any plan\nFree Forever plan is shown in the cards. \"Unlimited\" limits follow AiSensy's fair-use policy (Agents up to 200, Tags up to 500, Attributes up to 100). Enterprise limits are tailored to your scale.\nFor Business outside India\nExplore International Pricing (Dollar)\nExplore International Pricing\nCountrywise WhatsApp Conversation Pricing\nMessaging costs vary by your user's country. Check the exact per-message charges for sending WhatsApp messages to users in different regions.\nExplore Pricing\nCountrywise per WhatsApp message Pricing\nMessaging costs vary by your user's country. Check the exact per-message charges for sending WhatsApp messages to users in different regions.\nExplore Pricing\nAdd-Ons (Charged separately)\nGet Started with Virtual Number & Drag & Drop Flow Builder\n₹2000\n+ GST Per Year Buy Now\n₹299 Quarterly (For 3 months) Buy Now\nIndian Virtual Number\nBuy Indian Virtual Number for WhatsApp Business API (Requires GST/ MSME for KYC)\nIndian Number (Eg. +9186XXXX1234, +9186XXXX7891)\nNo Need to maintain SIM Card\nUse this Number to get WhatsApp Business API via AiSensy\nFree Onboarding Call\nIntroducing WhatsApp AI Agents to AiSensy\nBuild no-code Chatbots & WhatsApp AI Agents easily\nStart with keyword based WhatsApp chatbots, upgrade to AI when you're ready. Top-up AI messages anytime based on volume.\nBasic\nKeyword Chatbots\nSolid for structured, predictable use cases.\n₹2,500 / Month\n5 keyword-based chatbots\nDrag-and-drop flow builder\nWhatsApp Cart Management\nShare Catalogs & Products on WhatsApp\nIntegrated with Shopify Chatbot\nGenerate Chatbot with AI (3 FREE Generations included) Build Basic Chatbot Flows\nBill Mont",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://m.aisensy.com/blog",
-      "title": "The WhatsApp Marketing Blog | AiSensy",
+      "title": "The WhatsApp Marketing Blog - AiSensy",
       "page_type": "blog",
-      "summary": "The AiSensy blog — guides, updates and tips on WhatsApp marketing, the WhatsApp Business API, chatbots and AI agents.",
-      "content": "The WhatsApp Marketing Blog | AiSensy Pricing Resources Learning Hub Blog Whatsapp Business API WhatsApp Marketing Learn Chatbot Development API Docs Chatbot Templates Platform Tutorials Template Message Library Product Features Use-Cases Case Studies Integrations WhatsApp Link Whatsapp Button App Marketplace 🌐 English Português Login Start 14-Day Free Trial Pricing Resources Learning Hub Blog Whatsapp Business API WhatsApp Marketing Learn Chatbot Development API Docs Chatbot Templates Platform Tutorials Template Message Library Product Features Use-Cases Case Studies Integrations WhatsApp Link Whatsapp Button App Marketplace 🌐 English Português Login Start 14-Day Free Trial The WhatsApp Marketing Blog by AiSensy Show all Get 500 FREE AD Credits Connect Your Facebook Ad Account with AiSensy today Get Started Now Smartest WhatsApp Engagement Platform Made with ❤️️ in INDIA Platform Features Use Cases Pricing Blog Contact Us Request A Demo Become a Partner Refund Policy Resources Learning Hub WhatsApp Business API Experience Notifications Create WhatsApp Link WhatsApp Button AiSensy vs Wati AiSensy vs Interakt Connect Apply for the API Login support@aisensy.com Privacy Policy Terms of Service Copyright © AISENSY COMMUNICATIONS PRIVATE LIMITED. All Rights Reserved. Your payment was processed successfully. Congratulations! You have cancelled the payment process. This popup does not exist. I'm sorry.",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://m.aisensy.com/pricing"
-        },
-        {
-          "label": "Learning Hub",
-          "url": "https://help.aisensy.com"
-        },
-        {
-          "label": "Whatsapp Business API",
-          "url": "https://m.aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing",
-          "url": "https://m.aisensy.com/whatsapp-marketing"
-        },
-        {
-          "label": "Learn Chatbot Development",
-          "url": "https://help.aisensy.com/en/collections/3014791-dialogflow-chatbot-tutorial"
-        },
-        {
-          "label": "API Docs",
-          "url": "https://help.aisensy.com/en/articles/5358962-api-reference-docs"
-        },
-        {
-          "label": "Chatbot Templates",
-          "url": "https://m.aisensy.com/templates"
-        },
-        {
-          "label": "Platform Tutorials",
-          "url": "https://m.aisensy.com/tutorials"
-        },
-        {
-          "label": "Template Message Library",
-          "url": "https://m.aisensy.com/whatsapp-template-message-library"
-        },
-        {
-          "label": "Features",
-          "url": "https://m.aisensy.com/features"
-        },
-        {
-          "label": "Use-Cases",
-          "url": "https://m.aisensy.com/use-cases"
-        },
-        {
-          "label": "Case Studies",
-          "url": "https://m.aisensy.com/case-studies"
-        },
-        {
-          "label": "WhatsApp Link",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "Whatsapp Button",
-          "url": "https://create.aisensy.com/generate-whatsapp-button"
-        },
-        {
-          "label": "App Marketplace",
-          "url": "https://m.aisensy.com/integrations"
-        }
-      ],
+      "summary": "AiSensy blog: guides on WhatsApp marketing, broadcasting, chatbots, AI agents and the WhatsApp Business API.",
+      "content": "Pricing\nResources\nLearning Hub\nBlog\nWhatsapp Business API\nWhatsApp Marketing\nLearn Chatbot Development\nAPI Docs\nChatbot Templates\nPlatform Tutorials\nTemplate Message Library\nProduct\nFeatures\nUse-Cases\nCase Studies\nIntegrations\nWhatsApp Link\nWhatsapp Button\nApp Marketplace\n🌐\nEnglish\nPortuguês\nLogin\nStart 14-Day Free Trial\nPricing\nResources\nLearning Hub\nBlog\nWhatsapp Business API\nWhatsApp Marketing\nLearn Chatbot Development\nAPI Docs\nChatbot Templates\nPlatform Tutorials\nTemplate Message Library\nProduct\nFeatures\nUse-Cases\nCase Studies\nIntegrations\nWhatsApp Link\nWhatsapp Button\nApp Marketplace\n🌐\nEnglish\nPortuguês\nLogin\nStart 14-Day Free Trial\nThe WhatsApp Marketing Blog by AiSensy\nShow all\nGet 500 FREE AD Credits\nConnect Your Facebook Ad Account with AiSensy today\nGet Started Now\nSmartest WhatsApp Engagement Platform\nMade with ❤️️ in INDIA\nPlatform\nFeatures\nUse Cases\nPricing\nBlog\nContact Us\nRequest A Demo\nBecome a Partner\nRefund Policy\nResources\nLearning Hub\nWhatsApp Business API\nExperience Notifications\nCreate WhatsApp Link\nWhatsApp Button\nAiSensy vs Wati\nAiSensy vs Interakt\nConnect\nApply for the API\nLogin\nsupport@aisensy.com",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/about-us",
-      "title": "AiSensy | About Us",
+      "title": "About AiSensy",
       "page_type": "about",
-      "summary": "About AiSensy — the company, mission and team behind the WhatsApp engagement platform trusted by 100,000+ businesses.",
-      "content": "AiSensy | About Us New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner Start for FREE Login Ab",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "About AiSensy — a Meta Business Partner and WhatsApp Business API platform used by 100,000+ businesses across 100+ countries.",
+      "content": "Vision & Mission Statements\nVision\nTo Empower businesses to grow their revenues via seamless communication with their users.\nMission\nBecoming Market leaders by empowering 5 Million+ Businesses via AiSensy. Let’s build the most amazing, mission driven and loved brands in history!\nWish to Join our team?\nWe're hiring across multiple roles\nApply Now\n© 2026 AiSensy Communications Private Limited\nMade with ♥️ in India\nPlatform\nFeatures\nIndustries\nPricing\nBook a Demo\nBecome a Partner\nWhatsApp Marketing\nWhatsApp Business API\nResources\nHelp Center\nBlog\nAbout AiSensy\nCareers\nFREE Tools\nWhatsApp Button\nGenerate WhatsApp Link\nDownload Android app\nDownload iOS app\nLegal",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/contact-us",
-      "title": "Contact Us | AiSensy",
+      "title": "Contact AiSensy / Book a Demo",
       "page_type": "contact",
-      "summary": "Contact AiSensy — reach the team for sales, demos and support, or book a WhatsApp API demo.",
-      "content": "Contact Us | AiSensy New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Start for FREE Login Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner Start for FREE Login Let's Get in Touch We'd love",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "Contact the AiSensy team or book a demo to get started with the WhatsApp Business API.",
+      "content": "© 2026 AiSensy Communications Private Limited\nMade with ♥️ in India\nPlatform\nFeatures\nIndustries\nPricing\nBook a Demo\nBecome a Partner\nWhatsApp Marketing\nWhatsApp Business API\nResources\nHelp Center\nBlog\nAbout AiSensy\nCareers\nFREE Tools\nWhatsApp Button\nGenerate WhatsApp Link\nDownload Android app\nDownload iOS app\nLegal",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://www.app.aisensy.com/signup",
+      "title": "Sign Up / Get Started Free with AiSensy",
+      "page_type": "signup",
+      "summary": "Create a free AiSensy account and get the WhatsApp Business API. Prerequisites: a business, an unused phone number and a Facebook Business Manager.",
+      "content": "",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/whatsapp-business-api",
-      "title": "Get WhatsApp Business API for FREE",
+      "title": "Get the WhatsApp Business API for FREE (with Green Tick)",
       "page_type": "product",
-      "summary": "WhatsApp Business API — get the official API for free and start sending notifications, OTPs and marketing at scale.",
-      "content": "Get WhatsApp Business API for FREE New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner Start f",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Apply for the official WhatsApp Business API through AiSensy for free, including help getting the WhatsApp Green Tick verified badge.",
+      "content": "Get Official WhatsApp Business API FREE with AiSensy\nBuilt on Official WhatsApp Business API - Launch WhatsApp Broadcast Campaigns, automate notifications, build AI Agents, and Customer Support at scale with AiSensy.\nGet Free WhatsApp Business API Access – No Hidden Fees with AiSensy.\nGet FREE WhatsApp API Book a Demo\nFounders & Marketers Love us\nAiSensy is an Official WhatsApp Business API Provider trudted by 210,000+ businesses across 68+ countries\nWhat is WhatsApp Business API?\nWhatsApp Business API (officially WhatsApp Business Platform) is a powerful medium for businesses to reach customers at scale, allowing businesses access to two-way communication, CRM integrations, bulk WhatsApp broadcasting, AI chatbots & more.\nWith AiSensy, you can apply & get WhatsApp Business API for FREE .\nAiSensy's Official WhatsApp API enables:\nAutomated messaging Save time and resources by automating responses to frequently asked questions, order updates, and more.\nBulk WhatsApp Broadcasting Send timely updates, promotions, and alerts to thousands of customers with just a few clicks.\nSeamless customer support on WhatsApp Provide instant, 24/7 support with automated chatbots and/or human agents.\nIntegration with CRM and other tools\nConnect WhatsApp with your existing CRM, analytics tools, and workflows for a unified business ecosystem.\nGet FREE WhatsApp Business API\nWhy WhatsApp in 2026?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support.\n98 % Open Rates\n45- 60 % Click Rates\n2.6 Bn+ Active Users\n7 % Engagement Rate\nWhatsApp Business Vs WhatsApp Business API\nSee how WhatsApp Business API compares to WhatsApp and WhatsApp Business app\nWhatsApp Business API WhatsApp Business App\nWhatsApp Business API\nSuited for Growing Businesses & Enterprises\n$150\nper seat\nper year Apply For FREE\nWhatsApp Business App\nFor Small Businesses\n$450\nper seat\nper year Get Started\nWhatsApp Broadcasting Limit\nUNLIMITED Users/ Day\nUp to 256 Contacts/ Day\nMulti-User Access\nUnlimited Users\nUp to 5 Devices\nWhatsApp Chatbots\nYes\nNo Chatbot Integration\nAutomated Messaging\nYes\nNot Possible\nBroadcast Reach\nAll Users\nOnly who have saved your number\nCoding Required\nYes, But Not Required if you use AiSensy\nNo, as app given by WhatsApp\nVerified Blue Tick\nYes\nNot Possible\nClickable Messages\nYes\nNo\nCampaign analytics\nYes\nNo\nIntegration with CRMs and other softwares\nYes\nNo\nRemarketing Campaigns\nYes\nNo\nBenefits of WhatsApp Business API for businesses\nHere's why businesses prefer WhatsApp API over traditional channels\nReach Customers Where They Are most active\nWith 2.8 billion+ active users, WhatsApp is where your customers are most active. Be there, engage, and convert.\nBuild a Strong Brand Identity\nEstablish a Strong Brand Identity by getting the esteemed WhatsApp Blue tick for free with AiSensy\nGrow your Revenue by 45-60%\nBuild an entire conversion focused funnel right on WhatsApp - from running ads, to collecting payments\nOffer Unmatched Customer Support\nResolve hundreds of queries in real-time via multi-agent live chat - scale your customer satisfaction (CSAT)\nHighly Cost-effective\nBusinesses have achieved up to 150X ROI doing WhatsApp Marketing with AiSensy. Not only is it cost-effective, it's like hitting the jackpot.\nSecure, Verified & Officially Approved by Meta\nWhatsApp Business API is created & approved by Meta for businesses, to grow businesses with the power of WhatsApp!\nGet WhatsApp Business API FREE for LIFE\nWatch how to get WhatsApp Busine",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/products/whatsapp-marketing",
-      "title": "Best WhatsApp Marketing Software in India",
+      "title": "WhatsApp Marketing Software - AiSensy",
       "page_type": "product",
-      "summary": "WhatsApp Marketing — broadcast promotional campaigns, automate journeys and grow revenue on WhatsApp.",
-      "content": "Best WhatsApp Marketing Software in India New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner ",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Run WhatsApp marketing campaigns: bulk broadcasts, automation, retargeting and analytics on the official API.",
+      "content": "Official — Meta Business Partner\nMeet India's Best\nWhatsApp Marketing Software\nAchieve up to 150X ROI with powerful WhatsApp Marketing. Launch WhatsApp\ncampaigns, automate with no-code chatbots & scale effortlessly.\n⚡️Powered by Official WhatsApp Business API  |  WhatsApp Business API Provider\nTry AiSensy FREE for 14 Days Book a Demo\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nSee how WhatsApp Marketing works with AiSensy, in minutes\nUnderstand how businesses use AiSensy's WhatsApp Marketing Solution to generate leads,\nautomate conversations, and drive sales.\nWhat is WhatsApp Marketing?\nWhatsApp Marketing is a direct communication strategy that leverages the Official WhatsApp Business API to send targeted campaigns, automated notifications, and personalized messages to millions of customers.\nWith 2.6+ billion active users and 98% message open rates , WhatsApp is the most effective marketing channel for businesses seeking higher engagement and conversions.\nLearn More\nWhy WhatsApp Marketing in 2026?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support!\n98 % Open Rates\n45- 60 % Click Rates\n2.6 Bn+ Active Users\n7 % Engagement Rate\nHow to do WhatsApp Marketing with AiSensy?\nUnderstand how businesses use AiSensy's WhatsApp Marketing Solution to generate leads,\nautomate conversations, and drive sales.\nImport & Broadcast WhatsApp messages Instantly\nSend WhatsApp Campaigns to all your contacts in seconds without getting blocked.\nCollect Payments On WhatsApp\nYes, collect payments seamlessly on WhatsApp via WhatsApp Pay, UPI, Net banking and cards.\nRun Click to WhatsApp Ads\nCreate ads that land directly to WhatsApp, capture leads instantly, and boost conversions.\nSee 3-5X more leads & slash your cost per lead.\nBuild No-code WhatsApp Chatbots in Minutes\nBuild no-code WhatsApp chatbots that drive sales, answer up to 85% queries effectively and qualify leads while you sleep.\nSend Automated CTA Based Notifications on WhatsApp\nTrigger automated WhatsApp messages for abandoned carts, order updates, or exclusive offers. Connect your CRM or eCommerce store like Shopify, WooCommerce, Hubspot & more\nGet the Official WhatsApp Blue Tick Verification\nBuild instant trust and credibility with the verified Blue Tick badge on your WhatsApp Business profile. Show customers you’re an authentic brand and increase message open rates and engagement.\nTrack Campaign Performance with Advanced Analytics\nMeasure WhatsApp message delivery, reads, clicks, conversions, and revenue from one dashboard to optimize every WhatsApp campaign with data-backed insights.\nIntegrates Seamlessly with Your Tech Stack\nConnect AiSensy with tools like Shopify, Zoho, HubSpot, and Google Sheets to keep your workflows unified and data in sync.\nAnswer customer queries with 1:1 Live Chat\nEnable Chatbot Flows or have multiple team members to provide seamless Live Chat support on a single WhatsApp Business number.\nWhatsApp Marketing Best Practices\nBuild Quality Opt-In Lists\nOnly message users who have explicitly opted in. This ensures compliance, higher engagement, and reduces block rates.\nSegment Your Audience\nDivide your contacts by interest, purchase history, or demographics. Send targeted messages for higher relevance and conversion rates.\nPersonalize Your Messages\nUse customer names, purchase history, and preferences in your messages. Personal touch increases engagement and trust.\nSend at Optimal Times\nTest different t",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/features/whatsapp-broadcasting",
-      "title": "Send Bulk WhatsApp Broadcasts to Lakhs in One Click",
+      "title": "WhatsApp Broadcast: send bulk messages safely (official API)",
       "page_type": "product",
-      "summary": "WhatsApp Broadcasting — send bulk, segmented broadcast campaigns to unlimited users with high deliverability.",
-      "content": "Send Bulk WhatsApp Broadcasts to Lakhs in One Click New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook API",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Send bulk WhatsApp broadcasts to unlimited contacts on the official API — no 256-contact cap and no ban risk, unlike manual broadcast lists.",
+      "content": "Why WhatsApp Marketing in 2026?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support!\n98 % Open Rates\n45- 60 % Click Rates\n2.6 Bn+ Active Users\n7 % Engagement Rate\nWhatsApp Broadcast: Key Features\nWith AiSensy's WhatsApp Broadcast, you achieve efficiency, engagement, and exceptional results for your campaigns.\nImport contacts & broadcast unlimited WhatsApp messages\nImport an unlimited number of contacts and broadcast pre-approved messages instantly.\nPre-Approved Message Templates\nCreate your own Template Message and submit for approval ou use one of our pre-approved Template Messages from our library. Ensure compliance and avoid number blocking.\nAdvanced Audience Segmentation\nFilter contacts by tags, attributes, user behavior, and campaigns, enabling highly targeted messages for specific audiences.\nMessage Personalization\nCreate personalized messages based on user attributes like name, location, or behavior to boost engagement.\nCarousel Cards and Interactive Button Messages\nSend visually appealing messages with up to 10 images or videos, including actionable buttons to drive 60% more clicks.\nCampaign Scheduling\nSchedule your broadcasts up to two months in advance, optimizing delivery across different time zones.\nReal-Time Analytics\nTrack key metrics such as delivery rates, read rates, clicks, and responses, enabling quick and informed adjustments.\nRetargeting Campaigns\nRe-engage users based on past interactions, such as read messages, replies, or clicks on CTA buttons.\nComplete Automation and Integration\nSeamlessly integrate with CRMs, eCommerce platforms, and tools like Zapier, Shopify, and HubSpot to automate workflows and maximize results.\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nHow to send WhatsApp Broadcast without getting your number blocked\nStep-by-step process of sending bulk WhatsApp messages using AiSensy without getting your number blocked\nHow to Broadcast Messages with AiSensy\nFollow these simple steps to send a WhatsApp Broadcast using AiSensy and maximize your reach:\nLog in to Your AiSensy Dashboard\nSign in to your AiSensy account and make sure your WhatsApp Business API is fully approved and active. Without an active API, broadcast messaging will not be enabled.\nHow to Apply for WhatsApp Business API\nGo to the \"Contacts\" Section and Import Your Contacts\n• Access the \"Contacts\" section in the AiSensy app.\n• Upload a list of opted-in contacts in CSV format or sync directly from your integrated tools.\n• Use tags and attributes to organize your audience for targeted broadcasts.\nCreate Your Campaign\n• Go to the \"Broadcast\" tab and click \"Create Campaign.\"\n• Select a pre-approved WhatsApp message template or create a new one for approval.\n• Personalize the message by adding variables like user names or custom fields to make it more engaging.\nLearn More\nSegment Your Audience\n• Filter your contacts by tags, attributes, or past interactions (e.g., read, replied, or clicked users).\n• Select the most relevant audience to receive your broadcast.\nSchedule or Send Your Broadcast\n• Choose between sending your broadcast immediately or scheduling it for a later time.\n• Leverage AiSensy’s scheduling feature to plan messages up to 2 months in advance for optimal timing.\nMonitor Performance\n• Go to the \"Campaigns\" page to track your broadcast’s performance in real time.\n• Analyze key metrics such as delivery rates, read rates, replies, and clicks.\n• Use this da",
+      "key_links": [],
       "forms": []
     },
     {
-      "url": "https://aisensy.com/features/chatbot-flow-builder",
-      "title": "Build no-code WhatsApp Chatbots Fast | Official API",
+      "url": "https://aisensy.com/features/whatsapp-chatbot-flow-builder",
+      "title": "No-code WhatsApp Chatbot Flow Builder",
       "page_type": "product",
-      "summary": "Chatbot Flow Builder — build no-code WhatsApp chatbots and automated conversation flows.",
-      "content": "Build no-code WhatsApp Chatbots Fast | Official API New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook API",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Build WhatsApp chatbots with a no-code drag-and-drop flow builder — no engineering needed.",
+      "content": "Why Build Smart WhatsApp Chatbots with AiSensy\nStop losing leads to slow response times. AiSensy's WhatsApp chatbot builder lets any team - not just developers - automate support, qualify leads, and drive sales around the clock.\nAutomate 80% of Support Instantly\nEffortlessly automate common users queries with WhatsApp chatbot.\nQualify Leads Without Lifting a Finger\nAutomate 3x sales on WhatsApp with Smart WhatsApp Chatbot.\nStay Active 24x7\nWhatsApp chatbot works 24/7, responds to user queries, and drives sales.\nAdd-on Feature\nUnlock our advanced drag-and-drop Flow Builder for just ₹2500/month and start automating support, lead qualification, and product guidance instantly.\nExplore Plans And Pricing\nTurn Leads into Customers Effortlessly\nLet your chatbot do the heavy lifting by qualifying leads easily, driving conversions without human intervention.\nA Chatbot Builder for Non-techies\nBuild multiple WhatsApp Chatbots easily, thanks to a drag-and-drop interface that requires zero coding expertise.\n24x7 Support & Sales Automation on WhatsApp\nAutomate Support & Sales processes with dynamic Chatbots answering your customer's common queries, helping them arrive at the sales decision 3x faster!\nSeamless Integration with Business Tools\nConnect your Chatbot with WhatsApp Catalogues & WhatsApp Pay to showcase your Catalogues & drive payments directly within WhatsApp.\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nHow It Works\nSimple Steps to Create Your First Chatbot with AiSensy\nUnlock the Flow Builder\nCreate your AiSensy account and subscribe to the add-on to access the Flow Builder.\nExplore Plans And Prices\nCreate a New Chatbot Flow\nClick “Create Flow” inside your dashboard and give your flow a name.\nDesign Your Chatbot\nDrag and drop elements from the Content block to design your chatbot.\nUse elements like Quick Replies , Lists , Product Cards , and API calls to build your flow.\nLearn More\nSet Triggers and Conditions\nAdd keywords , regex triggers , or connect the bot to template messages or Click-to-WhatsApp Ads.\nAbout Click-to-WhatsApp Ads\nSave and Enable Your Chatbot\nOnce your flow is complete, save your changes, and then enable the chatbot to make it go live. Your WhatsApp chatbot is now ready to engage with users!\nLearn More\nYes, it's that easy!\nUnlock the Flow Builder in the AiSensy app now and start selling your products on WhatsApp instantly.\nUnlock Flow Builder\nWhatsApp Chatbot Use Cases\nPopular Use Cases for WhatsApp Chatbots.\nE-commerce\nConnect your catalog with WhatsApp Chatbot & showcase products, capture orders, and send payment links.\nCustomer Support\nAnswer FAQs, check order status, or escalate to a live agent\nLead Qualification\nCollect customer details and segment them automatically.\nClick-to-WhatsApp Ads\nTrigger chatbots from your ad campaigns instantly.\nAppointment Booking\nLet users schedule meetings, consultations, or demo calls directly via WhatsApp, with calendar and reminder integration.\nOrder Tracking & Updates\nSend automated payment follow-ups and reminders to recover missed or pending transactions.\nNew — Powered by AI ⚡️\nAI Tools to Supercharge WhatsApp Marketing\nTake your chatbot performance and campaign automation to the next level with AiSensy’s AI suite:\nAI Ads Manager\nAutomatically optimize Click-to-WhatsApp ads for better lead quality.\nAI Ad Creative Generator (Beta)\nInstantly create campaign creatives from simple prompts.\nAI WhatsApp Template Generator\nWrite Meta-approved message ",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/features/ai-whatsapp-chatbot",
-      "title": "Smart AI WhatsApp Chatbot | Official API AiSensy",
+      "title": "AI WhatsApp Chatbot - AiSensy",
       "page_type": "product",
-      "summary": "AI WhatsApp Chatbot — automate support and sales with an AI-powered chatbot that understands customer intent.",
-      "content": "Smart AI WhatsApp Chatbot | Official API AiSensy New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs P",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Automate conversations with an AI WhatsApp chatbot that understands and replies to customers.",
+      "content": "New — Powered by AI ⚡️\nAI WhatsApp Chatbot: Supercharge Your Customer Experience\nSay goodbye to missed messages and repetitive queries. With AiSensy’s AI WhatsApp Chatbot, you can deliver human-like conversations 24/7 while your team focuses on what really matters: growth.\n⚡️Powered by Official WhatsApp Business API\nRequest Callback\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nWhat is an AI WhatsApp Chatbot?\nImagine an \" AI agent \" available 24/7 on WhatsApp, providing human-like customer support without the wait times.\nThat's the power of an AI WhatsApp Chatbot.\nUnlike basic chatbots with scripted responses, our AI Chatbot uses artificial intelligence and machine learning to understand your customers' needs, respond intelligently to their questions, and deliver personalized, engaging experiences.\nIt learns and improves with every engagement, becoming a valuable asset for your business.\nMulti-Language Support\nSupports text, voice, image & video\nIntegrates with payments, CRMs, and backend systems\nComparison Table\nAI WhatsApp Chatbot vs Human Agent vs Traditional Chatbot\nAI WhatsApp Chatbot\nHuman Agent\nTraditional Chatbot\nAI WhatsApp Chatbot\nHuman Agent\nTraditional Chatbot\nIntelligence\nLearns from interactions, understands context & intent using NLP\nHighest – full understanding, reasoning, empathy\nRule-based, keyword-triggered responses\nSpeed\nNear-instant replies (<1 sec)\nMinutes to hours (depends on availability)\nFast, but limited to predefined flows\nScalability\nHandles thousands of concurrent chats\n1–2 chats at a time\nScales well, but within rigid paths\nAvailability\n24/7, 365 days a year\nBusiness hours only (shift-based)\n24/7, but only for scripted queries\nEmotional Intelligence\nDetects sentiment, responds empathetically (basic)\nDeep empathy, active listening, emotional support\nNone – no understanding of tone or mood\nBest Use Case\nRoutine queries, multilingual support, order tracking, payments\nComplex issues, complaints, sales, emotional support\nSimple FAQs, menu-based navigation, static info delivery\nTypes of AI WhatsApp Chatbots You Can Deploy with AiSensy\nAiSensy supports all major AI-powered conversation formats:\nText to Text\nProvides AI-generated text responses to written queries\nText to Voice\nConverts text into human-like voice messages\nVoice to Text\nTranscribes voice notes and replies with text\nVoice to Voice\nFully voice-based conversations\nImage Response\nShares AI-generated images based on user queries\nVideo Response\nResponds with AI-generated video content for enhanced experience\nBuilt for Businesses That Want to Scale\nWhether you're in ecommerce, finance, healthcare, travel, or SaaS and any other business , our AI-powered chatbot is tailored to automate your most critical workflows.\nCustomer support for Any Business\nEnhance customer satisfaction with 24/7 personalized product recommendations,  frequently asked questions about orders, and secure payments.\nSmart Product Recommendations for E-commerce\nSend personalized suggestions based on user behavior, preferences and history of puchases. . Sugere produtos personalizados com base no comportamento, preferências e histórico do usuário.\nHelp users choose the most suitable plan or product by understanding their needs and preferences. Improve conversion rates by offering tailored recommendations that guide prospects toward the right solution.\nEffortless appointment for Real Estate Agents\nStreamline client bookings by collecting details and automat",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/features/ai-agents-on-whatsapp",
-      "title": "Build Smart WhatsApp AI Agents",
+      "title": "Build WhatsApp AI Agents that qualify & convert 24/7",
       "page_type": "product",
-      "summary": "WhatsApp AI Agents — build AI agents on WhatsApp that qualify and convert leads 24/7.",
-      "content": "Build Smart WhatsApp AI Agents New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner Start for F",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Build AI agents on WhatsApp that qualify leads and convert them around the clock with tool calling and API integrations.",
+      "content": "What is an AI Agent on WhatsApp ?\nImagine having an AI-powered chatbot available 24/7 on WhatsApp, providing human-like customer support without the wait times. That's the power of an AI Agent.\nUnlike basic chatbots with scripted responses, WhatsApp AI Agents use natural language processing (NLP) and machine learning to interpret user intent, respond intelligently, and deliver personalized support.\n24/7 replies\nAlways available\nContext-base response\nUnderstands contexts and replies according to user queries\nHuman handoff\nEscalates to humans when needed\nWatch How Ai Agents Work\nWatch this 2-min demo on WhatsApp AI Agent Builder\nAI Agent vs Basic Keyword Chatbot\nSee exactly how AiSensy AI Agent goes beyond basic chatbots to deliver real business results.\nFeature Basic Keyword Chatbot AiSensy AI Agent Recommended\nQuery Understanding\n✕ Works only on exact keyword matches\n✓ Understands natural customer intent\nCustomer Experience\n✕ Robotic and rigid conversations\n✓ Human-like conversational experience\nContext Awareness\n✕ Cannot understand conversation context\n✓ Understands context across conversations\nResponse Type\n✕ Sends predefined static replies\n✓ Generates dynamic AI-powered responses\nReal-Time Data Access\n✕ Cannot fetch live data\n✓ Fetches live data from APIs, CRMs, Shopify, etc.\nWorkflow Actions\n✕ Limited to predefined chatbot flows\n✓ Can trigger APIs and automate actions\nAI Routing\n✕ Cannot intelligently route conversations\n✓ Routes customers to the right AI agent based on intent and context\nLead Qualification\n✕ Requires manual rule-based flows\n✓ Qualifies leads intelligently using AI\nSales Assistance\n✕ Limited static recommendations\n✓ Recommends products and guides customers toward purchases\nAppointment Booking\n✕ Requires separate manual flows\n✓ Books and confirms appointments automatically\nSetup Time\n✕ Hours of manual flow building\n✓ Launch AI agents in minutes\nMulti-Language Support\n✕ Limited keyword dependency\n✓ Understands multiple languages naturally\nHOW IT WORKS\nBuild your first agent in 5 simple steps\nGet your AI Agent up and running in 5 simple steps — no developers needed\nSign up to AiSensy\nHead over to aisensy.com and create a free AiSensy account.\nSign Up\nGo to Flows & Click Create Flow\nNavigate to the Flows section in your AiSensy dashboard. Click on Create Flow to start building your AI Agent from scratch or use a template.\nUpload Your Help Docs or Add Website Link\nOpen the Knowledge Base tab. Add your website URL, upload PDFs, or create articles directly. AiSensy will auto-index your content for the AI to use.\nSet Instructions in AI Orchestrator\nTell your AI how to behave — define your business context, tone, workflow rules, and restrictions. The AI will follow these instructions in every conversation.\nYour AI Agent is Ready to Go\nThat's it! Your WhatsApp AI Agent is now live and ready to answer customer queries 24/7. Test it, refine it, and watch it handle conversations like a pro.\nBuilt for Businesses That Want to Scale\nWhether you're in ecommerce, finance, healthcare, travel, or SaaS and any other business , our AI-powered chatbot is tailored to automate your most critical workflows.\nCustomer support for Any Business\nEnhance customer satisfaction with 24/7 personalized product recommendations,  frequently asked questions about orders, and secure payments.\nSmart Product Recommendations for E-commerce\nSend personalized suggestions based on user behavior, preferences and history of puchases. . Sugere produtos personaliza",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/features/aisensy-meta-ads-manager",
-      "title": "AiSensy AI-Powered Meta Ads Manager",
+      "title": "Click-to-WhatsApp Ads Manager (Meta Ads) - AiSensy",
       "page_type": "product",
-      "summary": "AI Ads Manager — run and optimise click-to-WhatsApp (Meta) ads to 5X your leads.",
-      "content": "AiSensy AI-Powered Meta Ads Manager New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner Start ",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Run Click-to-WhatsApp (Meta) ads so leads land directly in WhatsApp instead of a landing page, with full ad-to-chat tracking and up to 5X more leads.",
+      "content": "New — Ai-Powered⚡\nFEATURE\nAiSensy Ai-Powered Ads Manager\nAll-in-one Meta Ads platform built for businesses. Run Click-to-WhatsApp Ads, Website Ads, and Lead Form Ads—all from one intuitive dashboard powered by the official WhatsApp Business API.\nStart Free | Get ₹500 Ad Credits Book a Demo\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nWhy Choose AiSensy Ads Manager?\nAiSensy is the only WhatsApp Marketing platform with a built-in Meta Ads Manager. Instead of juggling multiple tools, manage your entire ad strategy—from creation to performance tracking—in one dashboard.\n3 Ad Types to match any campaign objective\nNo coding required—intuitive, user-friendly interface\nAI Ad Creative Generator for instant professional creatives\nReal-time analytics & performance tracking\nDirect WhatsApp API integration for seamless follow-up\nThe 3 Ad Types in AiSensy Ads Manager\nChoose the ad type that matches your campaign objective:\nClick-to-WhatsApp Ads\nDrive conversations. CTA button opens a WhatsApp chat with your business. Perfect for engagement, lead nurturing, and customer support.\nLearn More\nWebsite Ads\nDrive traffic. CTA button opens external websites, landing pages, or product pages. Ideal for traffic generation and sales.\nLearn More\nLead Form Ads\nCapture leads. CTA button opens a form within Meta platforms. Zero friction, highest conversion rates. Best for B2B lead generation.\nLearn More\nManage Everything in One Single Dashboard\nUnified Campaign Management\nManage your entire marketing funnel from one platform. Use AiSensy Ads Manager to run Meta Ads, then use AiSensy's automation to nurture those visitors via WhatsApp.\nAdvanced Audience Targeting\nReach people by location, demographics, interests, behaviors, and lookalike audiences. Alternatively, upload your customer list or create website visitor audiences.\nManage & Buy More Ad Credits\nAll AiSensy users start with ₹500 in Meta Ads credits . Once you've used your credits, you can easily purchase more directly within the AiSensy platform without leaving the dashboard.\nReal-time analytics and performance tracking\nTrack key performance indicators, such as Impressions, Reach, Clicks, CTR, CPC, and Total Spend.\nHow It Works\nSimple Steps to run Meta Ads via AiSensy\nOpen AiSensy App\nOpen the AiSensy App. New users can create a free account without providing credit card information.\nThe free account includes permanent access to the Ads Manager + ₹ 500 Meta Ads credits + ₹50 Free WhatsApp Conversation Credits.\nOpen AiSensy App\nGo to Ads Manager & connect your Facebook Business Manager\nGo to \"Ads Manager\" in the left sidebar and connect your Facebook Business Manager. Select the Facebook page through which you want to run Website Ads.\nLearn More\nSelect Ad Type\nClick \"+ Create Ad\" and Choose Click-to-WhatsApp, Website, or Lead Form Ad based on your campaign objective (Traffic, Engagement, Sales, Leads).\nTarget Your Audience\nSelect geo-location, age, gender, interests, and behaviors. Choose platforms (Instagram & Facebook) and placements (Feed, Stories, Explore, Reels, Marketplace).\nSet Budget & Duration\nDefine your daily budget and campaign duration. Track ad credits in real-time.\nAdd Visuals & Copy\nFill in ad details and upload creative.\nOptionally, use AI Ad Creative Generator to create professional visuals in seconds.\nAI Ad Creative Generator\nSubmit & Monitor Performance\nClick \"Publish\" to submit your ad for approval. Facebook typically approves ads within 15-20 minutes. M",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/features/whatsapp-payments",
-      "title": "WhatsApp Payments for Faster Conversions",
+      "title": "WhatsApp Payments - collect payments in chat",
       "page_type": "product",
-      "summary": "WhatsApp Payments — collect payments directly inside WhatsApp chats.",
-      "content": "WhatsApp Payments for Faster Conversions New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner S",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        },
-        {
-          "label": "WhatsApp Catalog Sell Products on WhatsAp",
-          "url": "https://aisensy.com/whatsapp-catalogues"
-        }
-      ],
+      "summary": "Collect payments inside WhatsApp via UPI, cards and gateways like Razorpay and PayU for faster conversions.",
+      "content": "WhatsApp Payment Features (AiSensy Exclusive)\nWhatsApp Payments enables end-to-end shopping experience right on WhatsApp.\nSend Payment messages via Live Chat & Chatbot Flows\nNot only can you broadcast payment messages to all users, but you can also shoot payment messages to individual users directly from Live Chat & chatbot flows.\nTrack Payment Status & Retarget Effortlessly\nMonitor pending & successful payments in a campaign and further send retargeting campaigns to users who failed to complete the payment.\nVerify Payment status from User Profile\nYou can easily verify the payment status of customers individually from the payments section under the user profile of a customer.\nView All Payments Received in One Unified Dashboard\nEnsure a seamless transition from automated chatbot interactions to live human support, maintaining conversation flow and customer satisfaction.\nWorks Seamlessly with Razorpay, PayU and others PGs.\nConnect your Payment Gateway to AiSensy and start collecting payment on WhatsApp.\nWhy Use WhatsApp Payments?\nWhether you're running an eCommerce business or providing services, WhatsApp Payments offers a secure, easy-to-use solution that fits perfectly into the customer journey.\nConvenience Customers can complete transactions within their chat window, eliminating the need to switch platforms.\nSecurity Powered by WhatsApp’s encryption, ensuring every transaction is safe.\nEfficiency Reduce payment friction and boost conversion rates by streamlining the payment process.\nEverything You Need for Whatsapp Engagement\nAiSensy Platform covers all aspects of Marketing, CRM & Customer Support in one place.\nMultiple Human Live Chat Enable Multiple Human-Agent Live Chat Support on the same Whatsapp number.\nLearn More\nChatbot Flow Builder Build multiple WhatsApp Chatbots easily, thanks to a drag-and-drop interface that requires zero coding expertise.\nLearn More\nRetarget Users on WhatsApp AiSensy’s WhatsApp Retarget feature allows you to segregate your audience and Re-Broadcast for higher conversions.\nLearn More\nWhatsApp Scheduler Schedule Broadcasts up to 2 months ahead of time across varying timezones.\nLearn More\nImport, Broadcast & Track Track users clicking on your message's CTA buttons with this Pro Feature.\nLearn More\nAds that Click to WhatsApp Drive 5x More Leads with Ads that Click to WhatsApp.\nLearn More\nWhatsApp Webviews Load web pages directly within WhatsApp. No more losing customers to external browsers.\nLearn More\nWhatsApp Forms Create and send forms with this native integration. Capture leads, book appointments, collect feedback, and more.\nLearn More\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nHow Brands use AiSensy for WhatsApp Marketing\nSports Equipment Brand How Cosco, one of the most renowned Sporting equipment companies used AiSensy to drive 3x more conversions.\nExplore Case Study\nDonation Collection Platform Discover how Give, India's most trusted donations collection platform used WhatsApp to achieve a 90% Payment success rate & 15X ROI .\nExplore Case Study\nEdtech Platform Check out how PhysicsWallah, an Edtech giant used AiSensy to drive 3x more Leads through WhatsApp via AiSensy.\nExplore Case Study\nDrive 3x Revenue with AiSensy\nGet Started for FREE. No Credit Card needed.\n⚡️Powered by Official WhatsApp Business API\nStart for FREE Book a Demo\nFAQ\nFrequently asked questions answered\nIs WhatsApp Payments secure?\nYes, WhatsApp Payments uses end-to-end encryption to protect all t",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/whatsapp-catalogues",
-      "title": "WhatsApp Catalogs: Sell your products on WhatsApp Business",
+      "title": "WhatsApp Catalogs - sell products on WhatsApp",
       "page_type": "product",
-      "summary": "WhatsApp Catalog — showcase and sell your products inside WhatsApp.",
-      "content": "WhatsApp Catalogs: Sell your products on WhatsApp Business New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webh",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "Showcase and sell your products with WhatsApp catalogs and cart, integrated with Shopify.",
+      "content": "Founders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nWhat is a WhatsApp Catalog?\nWhatsApp Catalog allows businesses to create and share catalogs of their products and services directly through WhatsApp. Customers can browse your catalog, and even make purchases without ever leaving WhatsApp.\nProfessional storefront\nOrganize up to 500 products with high-resolution photos, detailed descriptions, and up-to-date pricing.\nFaster orders\nCustomers select items and send them directly in the chat. No calls, no back-and-forth. The buying process is up to 3x faster.\nAI automation\nWith AiSensy, an AI agent answers catalog questions 24/7, qualifies leads, and completes orders automatically.\nWhy Connect you WhatsApp Catalog to a WhatsApp Business API Account (WABA)?\nIf you’re running a larger operation or want more control and automation, the WhatsApp Business API is a better choice. Unlike the standard app, the API allows for:\nScalability\nShow more items and handle more complex queries without the app's restrictions.\nAutomation\nIntegrate with CRM systems and automate everything from order confirmations to inventory updates.\nAdvanced Analytics\nGet detailed insights into customer behavior, helping you make informed decisions.\nHow to Enable WhatsApp Catalog via AiSensy\nSteps enable WhatsApp Catalogs via WhatsApp Business API with AiSensy\nCreate a AiSensy Account and Apply for Free WhatsApp Business API\nSign up at AiSensy.com and complete your profile.\nIn your AiSensy dashboard apply for WhatsApp Business API and and submit your business details.\nCreate an Account\nUnlock Flow Builder\nAccess the Flow Builder in the AiSensy app under \"Flows.\" Purchase the add-on.\nPricing Page\nConnect Your Facebook Business Account\nIn \"Flows,\" navigate to \"Connect Catalog\" and link your Facebook Business account. Ensure your catalog is already created in Facebook.\nLearn More\nLink Your Catalog to WhatsApp\nGo to \"Manage Catalog\" in Flows and connect the Facebook catalog you wish to use.\nGo to Product & edit the listed products (Optional)\nNext, go to the Products section, which includes all the products listed in your Shopify account.\nIf you want, you can edit these products by clicking the pencil icon.\nClicking the pencil icon will take you to Shopify from where you'll be able to edit these products.\nCreate a New Flow\nNow, go to Flow Builder and click Create Flow to create the flow for your WhatsApp Catalog.\nSet Up Your Trigger — Keywords or AI\nOnce the Flow Builder opens, you need to define what triggers your Catalog flow.\nOption 1 — Keyword Trigger (standard): Add keywords like Shop, Products, Hi that customers commonly send. Whenever a user sends a matching keyword to your WhatsApp number, the catalog flow triggers automatically.\nOption 2 — AI Agent Trigger (recommended): With AiSensy's AI Agents , your catalog can be triggered by any customer message — no exact keyword match needed. The AI understands intent, so even a message like \"What do you sell?\" or \"Show me your collection\" will open your catalog automatically.\nSet up an AI Agent\nSave and Activate Your Flow\nOnce satisfied with your flow, click \"Save\" and enable it to make your catalog live on WhatsApp.\nFor a detailed guide, check our tutorial:\nLearn More\nNew — AI Agents on WhatsApp\nTake it Further with AI Agents\nConnect your WhatsApp Catalog to an AiSensy AI Agent and automate the entire shopping experience.\nUnlike keyword chatbots, AI Agents understand natural language. Customers can ty",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/integrations",
-      "title": "2000+ WhatsApp Business API Integrations | AiSensy",
+      "title": "2000+ WhatsApp Business API Integrations - AiSensy",
       "page_type": "product",
-      "summary": "Integrations — connect AiSensy with Shopify, Razorpay, WebEngage, LeadSquared, Zapier/Integrately and more.",
-      "content": "2000+ WhatsApp Business API Integrations | AiSensy New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "AiSensy integrates with 2000+ tools including Shopify, WooCommerce, Razorpay, Zapier/Integrately, WebEngage and LeadSquared.",
+      "content": "AiSensy Integrations: Automated Notifications on WhatsApp\nExplore 2000+ WhatsApp Business API integrations with multiple Ecommerce Portals, CRMs, Pabbly, Zapier & more.\nAPI Integration (FREE) Connect your APIs and Automate Notifications from any CRM/Portal.\nAPI Reference Docs\nPabbly Connect X AiSensy Connect Across Apps using Pabbly and Automate Notifications.\nLearn More\nRazorpay X AiSensy WhatsApp Integration Send Payment Links and Invoices on WhatsApp Instantly as you generate them on Razorpay.\nLearn More\nShopify WhatsApp Integration Automate Abandoned Carts, Order Confirmations & more.\nLearn More\nWooCommerce Drive 5x more sales. Automate Abandoned Cart, Order Confirmation & more Notifications.\nLearn More\nOpenCart Automate Abandoned Cart Notifications, Order Confirmation, Delivery, and a lot more.\nLearn More\nIntegrately Connect Across Apps using Integrately and Automate Notifications.\nLearn More\nWebEngage Connect WebEngage with AiSensy & send Broadcasts directly from WebEngage Dashboard.\nLearn More\nZapier Connect across Apps like Hubspot & Shopify using Zapier and Automate Notifications.\nLearn More\nPayU Send Payment Links and Invoices on WhatsApp Instantly as you generate them on PayU.\nLearn More\nCleverTap Connect CleverTap with AiSensy & send Broadcasts directly from CleverTap Dashboard.\nLearn More\nLeadSquared Connect LeadSquared with AiSensy & send Broadcasts directly from LeadSquared Dashboard.\nLearn more\nYuko X AiSensy WhatsApp Integration\nConnect Yuko Loyalty with AiSensy to automate WhatsApp notifications for loyalty points, rewards, and customer engagement on Shopify.\nLearn More\nTools that Drive Users to WhatsApp\nCreate Unlimited FREE WhatsApp Links and URL Personalised Button for Website\nWhatsapp Links\nCreate Unlimited WhatsApp Links that you can share via Social Media, Ads, Offline & more\nCreate Now\nWhatsapp Personalised Button\nCreate URL & UTM Personalised WhatsApp Button for your Website. 5 Mins Installation Process!\nCreate Now\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nGet Started with AiSensy Platform\nBroadcast & Automate Messages, Enable Multi-Human Live Chat Support, Install A.I. Chatbots & more.\nApply for WhatsApp Business API for FREE .\nStart for FREE\n© 2026 AiSensy Communications Private Limited\nMade with ♥️ in India\nPlatform\nFeatures\nIndustries\nPricing\nBook a Demo\nBecome a Partner\nWhatsApp Marketing\nWhatsApp Business API\nResources\nHelp Center\nBlog\nAbout AiSensy\nCareers\nFREE Tools\nWhatsApp Button\nGenerate WhatsApp Link\nDownload Android app\nDownload iOS app\nLegal",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/integrations/shopify",
+      "title": "Shopify WhatsApp Integration - AiSensy",
+      "page_type": "product",
+      "summary": "Native Shopify integration: abandoned-cart recovery, order and shipping updates and COD confirmation over WhatsApp.",
+      "content": "Use Cases: How Shopify + AiSensy Helps Your Ecommerce Business 🚀\nIntegrating your Shopify store with AiSensy doesn’t just automate messages; it unlocks real business workflows that drive sales, improve customer experience, and reduce manual support work:\nRecover Abandoned Carts\nAutomate personalized WhatsApp reminders to customers who left items in their cart to complete their purchase.\nOrder Confirmation & Updates\nProvide instant order confirmations, shipping updates, and delivery notifications via WhatsApp\nReduce RTO (Return to Origin)\nConfirm COD orders and cut down on returns with WhatsApp notifications.\nFeedback Collection & Reviews\nGather valuable insights to improve your products and services.\nTimely Reorder Reminders\nBoost repeat purchases by proactively reminding customers to restock their favorite products.\nPromotional Campaigns & Offers\nLaunch promotions, send offers, and drive engagement directly through WhatsApp.\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nConnecting Shopify with AiSensy\nStep-by-Step Guide\nCopy Your Shopify App Token\n• In your AiSensy app, go to Ecomm+ -> Shopify Store Setup.\n• Tap Copy Shopify App token (you'll need this in a bit).\n• Now tap Install app.\nHead to the Shopify App Store\n• Clicking the Install app button will take you straight to the AiSensy app in the Shopify App Store.\n• Tap the Install button there.\nConfirm the installation\nOn the next screen, tap Install again to confirm.\nPay a Small Setup Fee\nComplete the one-time payment of $1 to proceed.\n(If you prefer not to pay, check out the steps to connect manually at the link provided below) .\nPaste the token into AiSensy and Connect\nReturn to the AiSensy app, paste the Shopify token you copied and click Connect.\nIn AiSensy app, refresh your screen and voila! Magic Done!\nYour Shopify store is now connected to AiSensy in just a few simple steps.\nNote: If you don't wish to spend the $1 setup fee, follow the steps in the link below.\nHow to Manually Connect your Shopify Store\nMagic Done! 🎉\nYour Shopify Store is now successfully connected to AiSensy!\nSample WhatsApp Messages for Shopify Businesses\nWith the Shopify + AiSensy integration, you can automate personalized WhatsApp messages across the entire customer journey. Below are sample message templates businesses can use to get started:\nAbandoned Cart Reminder\nHi {{Customer Name}} 👋\nYou left something behind in your cart!\n🛍️ {{Product Name}}\n💰 {{Price}}\nComplete your purchase here before it goes out of stock:\n👉 {{Checkout Link}}\nOrder Confirmation\nHi {{Customer Name}} 🎉\nThank you for your order! We’ve successfully received your purchase.\n🧾 Order ID: {{Order ID}}\n📦 Items: {{Product Names}}\nWe’ll notify you as soon as your order is shipped.\nShipping Update\nGreat news, {{Customer Name}} 🚚\nYour order {{Order ID}} has been shipped!\n🔗 Track your order here: {{Tracking Link}}\nNeed help? Just reply to this message — we’re here for you!\nCOD Order Confirmation\nHi {{Customer Name}},\nPlease confirm your Cash on Delivery order for {{Product Name}} .\n👉 Reply YES to confirm\n👉 Reply NO to cancel\nThis helps us deliver your order faster 🚀\nPost-Delivery Feedback Request\nHi {{Customer Name}} 😊\nYour order has been delivered! We’d love to know how your experience was.\n⭐ Rate your purchase here: {{Review Link}}\nYour feedback helps us serve you better.\nReorder / Upsell Message\nHi {{Customer Name}} 👋\nRunning lowne low on {{Previously Purchased Product}} ?\nReorder in just one click:\n👉 {{Pro",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/integrations/razorpay",
+      "title": "Razorpay WhatsApp Integration - AiSensy",
+      "page_type": "product",
+      "summary": "Send Razorpay payment links and confirmations over WhatsApp automatically.",
+      "content": "Benefits of connecting Razorpay with AiSensy\nPayment Links & Invoices\nAutomate personalized WhatsApp reminders to customers who left items in their cart to complete their purchase.\nRefund & Subscription\nSend Automated Notifications whenever a refund is processed or Subscription is halted.\nBroadcasting & Live Chat\nAll messages are driven from your official Whatsapp Business API Account. Broadcast Messages & Solve for Queries via Live Chat/Chatbots using AiSensy\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nConnecting Razorpay with AiSensy\nStep-by-Step Guide\nSignup on AiSensy\nTo integrate Razorpay with WhatsApp, You need to Signup on AiSensy & Create a Project.\nOne Project basically represents on Business or one Whatsapp Business Number.\nSignup for FREE\nGo to the Integrations Tab\nAfter Creating the Project, Enter the Project and Click on the Integrations tab in the Left Menu bar.\nOnce on Integrations, In the Discover tab, you'll find Razorpay App. Please Click on the Razorpay App.\nApply for the WhatsApp Business API\nYou now need to Apply for the Whatsapp Business API to get your Official Whatsapp Profile through which you will be automating all the notifications.\n• Go to the Get Started tab on the Razorpay\n• Click on the First Menu -> Get WhatsApp Business API\n• Click on \"Apply Now\"\n• Fill the 4 Step form.\n• WhatsApp API might take 1-3 Days to get Approval\nApply for WhatsApp Business API\nTemplate Message Approval\nOnce your Whatsapp Business API is approved, you'll need to get the Template Messages approved that you wish to trigger on various Razorpay Events.\n• In the Get Started Tab, Click on Submit Template Messages\n• You'll see Sample Template messages, Review and Submit.\n• Template Messages take 1 minute for Approval.\nNote: In certain cases, the approval process can extend to up to 24 hours.\nInstall Razorpay App\n• You can also go to the Settings tab for this Step or do it from the third step on Get Started tab.\n• Click on \"Install App\" and your App will go Live\nConnect Your Razorpay Account\n• In the Settings section, Click on Connect Razorpay\n• It'll take you to a new tab, Authorize the permission\n• Now your Razorpay account is Connected to AiSensy\nSetup Activity - I\nAn Activity simply means a connection between any Razorpay Event and AiSensy's WhatsApp Campaign.\n• Go to Setup Activities Tab,Click on \" + Activity \" within this tab\n• Give the Activity any name for reference For Eg. Payment Link\n• Choose the Razorpay Event for which you wish to trigger the campaign\n• Choose the API Campaign you wish to connect above Razorpay event\n(You can also create an API campaign by Clicking on Create)\nSetup Activity - II\nMap the Parameters for the Campaign you've Chosen\n• You can use Razorpay Parameters by typing $RPAY_Email, $RPAY_Amount, $RPAY_PaymentLinkId, $RPAY_Description, $RPAY_GrossAmount\n• Also You can use AiSensy Parameters by typing $Name, $MobileNumber, $FirstName, $LastName\nNote: AiSensy Parameters $Name and $RPAY_Name are the same when you send a user campaign for the First time. If the user already exists $Name is updated to the name user has setup on their WhatsApp.\n• Hence, it is suggested to use RPAY_NAME for personalisation.\n• Also, It is suggestable to only use RPAY_NAME if all your Invoices, Payment Links etc on Razorpay are given a name.\nYou're Good to go! 🎉\nIn the same manner, you can set up multiple Activities and Automate Campaigns for your Razorpay Events.\nFor Now, there are four Active Ev",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/integrations/woocommerce",
+      "title": "WooCommerce WhatsApp Integration - AiSensy",
+      "page_type": "product",
+      "summary": "Connect WooCommerce to AiSensy for order updates and abandoned-cart recovery on WhatsApp.",
+      "content": "Hassle-free One-Click Integration\nLearn More\nRecover Abandoned Carts\nAutomate personalized WhatsApp reminders to customers who left items in their cart to complete their purchase.\nOrder Confirmation & Updates\nProvide instant order confirmations, shipping updates, and delivery notifications via WhatsApp\nReduce RTO (Return to Origin)\nConfirm COD orders and cut down on returns with WhatsApp notifications.\nFeedback Collection & Reviews\nGather valuable insights to improve your products and services.\nTimely Reorder Reminders\nBoost repeat purchases by proactively reminding customers to restock their favorite products.\nPromotional Campaigns & Offers\nLaunch promotions, send offers, and drive engagement directly through WhatsApp.\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nConnecting WooCommerce with AiSensy\nStep-by-Step Guide\nGenerate API Keys from your WooCommerce store\nThe first step to connect your WooCommerce store with AiSensy is generating secret API keys from your WooCommerce dashboard.\nFollow the steps mentioned in the below doc to generate these keys.\nGenerate WooCommerce Secret API Keys\nIn AiSensy Dashboard, go to Ecomm+\nGo to Ecomm+. Under WooCommerce click Store setup.\nLearn More\nEnter credentials of your WooCommerce Store\nNext, copy-paste your WooCommerce Shop Name, Shop URL, Consumer Key & Consumer Secret Key generated through WooCommerce & click Connect .\nKindly ensure that you enter the Shop name & shop URL in the below mentioned format only:\n✅ WooCommerce Shop Name format: Your Shop Name (e.g. Flipkart)\n✅ WooCommerce Shop URL format: https://yourshopname.com (e.g. https://flipkart.com)\nWooCommerce store is successfully connected\nIf the details you entered are correct, you'll see the WooCommerce store status as Connected.\nMagic Done! 🎉\nYour WooCommerce Store is now successfully connected to AiSensy!\nDrive 3x Revenue with AiSensy\nGet Started for FREE 🚀 . No Credit Card needed.\n⚡️Powered by Official WhatsApp Business API\nStart for FREE Book a Demo\n© 2026 AiSensy Communications Private Limited\nMade with ♥️ in India\nPlatform\nFeatures\nIndustries\nPricing\nBook a Demo\nBecome a Partner\nWhatsApp Marketing\nWhatsApp Business API\nResources\nHelp Center\nBlog\nAbout AiSensy\nCareers\nFREE Tools\nWhatsApp Button\nGenerate WhatsApp Link\nDownload Android app\nDownload iOS app\nLegal",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/industries/education",
+      "title": "WhatsApp for Education & Coaching - AiSensy",
+      "page_type": "product",
+      "summary": "WhatsApp use cases for education, coaching and edtech: lead capture, admissions, reminders and engagement (e.g. PhysicsWallah).",
+      "content": "Founders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nMain Features\nAiSensy is the smartest WhatsApp Engagement Platform. With AiSensy you can:\nBuild no-code Chatbot in minutes\nBuild your Own Chatbot Flows your Way! Easy-to-use Chatbot & Catalog Flow builder to build your conversational journeys.\nBroadcast Offers to Unlimited Contacts\nBroadcast personalized offers to unlimited users in one go - without getting your Number blocked!\nImport, Broadcast, Track Results and Retarget\n3x your conversions by sending Retargeting Campaigns to the most relevant audience group.\nAnswer customer queries with 1:1 Live Chat\nEnable Chatbot Flows or have multiple team members to provide seamless Live Chat support on a single WhatsApp Business number.\nWhatsApp Education Use Cases\nKey Features of WhatsApp Business API for Education\nCapture more leads with automated WhatsApp messages\nSeamlessly generate and qualify leads through AiSensy's AI-driven WhatsApp Chatbot.\nCollect key details and automate follow-ups to ensure you capture high-quality prospects without the manual effort.\nReduce application drop-offs by 60%\nRecover up to 60% of incomplete applications by sending timely, personalized WhatsApp reminders.\nAiSensy helps you guide students through the application process, ensuring more enrollments and fewer abandoned forms.\nExplore Template\nBoost event attendance with automated reminders\nColleges and universities can boost participation in webinars, open houses, and events by sending automated WhatsApp reminders.\nPersonalized event invites and follow-up messages help ensure high attendance and engagement with prospective and current students.\nExplore Template\n24/7 Student Support with WhatsApp Chatbot\nEnable 24/7 support for students with AiSensy's smart WhatsApp Chatbot.\nWhether it's admissions queries or course details, students receive instant responses, reducing the reliance on human support by up to 83%.\nSeamless Human Support\nWith AiSensy’s Shared Team Inbox, agents can respond to students queries seamlessly.\nTeam members can also assign messages to specific individuals or departments, ensuring each inquiry is handled efficiently - all of it using a single WhatsApp phone number.\nWhether it's course selection, counseling, or scheduling appointments with advisors, WhatsApp provides an efficient channel for real-time assistance.\nFee Reminders & Payment Confirmations\nAutomate reminders for tuition fees, registration, and other payments through WhatsApp.\nInstitutions can also send payment confirmations and receipts instantly, ensuring transparency and reducing missed deadlines.\nExam & Result Notifications\nInstitutions can use WhatsApp to send students personalized notifications about exam schedules, results, and deadlines.\nThis provides students with an instant and reliable communication channel to stay updated on their academic progress.\nEducation Case Studies\nPhysicsWallah Check out how PhysicsWallah, an Edtech giant used AiSensy to drive 3x more Leads through WhatsApp via AiSensy.\nExplore Case Study\nNMIMS Discover how NMIMS, a leading university with over 17,000 students, were able to recover 45-60% of Dropoff applications with AiSensy.\nExplore Case Study\nLiveLong Wealth Explore how LiveLong saw a 10x increase in lead generation and improved customer engagement with AiSensy.\nExplore Case Study\nWhy WhatsApp Marketing in 2025?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support!\n98 % Op",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/industries/healthcare",
+      "title": "WhatsApp for Healthcare & Clinics - AiSensy",
+      "page_type": "product",
+      "summary": "WhatsApp use cases for healthcare: appointment booking, reminders and patient support — great fit for clinics on the Basic plan plus a chatbot.",
+      "content": "Founders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nMain Features\nAiSensy is the smartest WhatsApp Engagement Platform. With AiSensy you can:\nBuild no-code Chatbot in minutes\nBuild your Own Chatbot Flows your Way! Easy-to-use Chatbot & Catalog Flow builder to build your conversational journeys.\nBroadcast Offers to Unlimited Contacts\nBroadcast personalized offers to unlimited users in one go - without getting your Number blocked!\nImport, Broadcast, Track Results and Retarget\n3x your conversions by sending Retargeting Campaigns to the most relevant audience group.\nAnswer customer queries with 1:1 Live Chat\nEnable Chatbot Flows or have multiple team members to provide seamless Live Chat support on a single WhatsApp Business number.\nWhatsApp Healthcare Use Cases\nKey Features of WhatsApp Business API for Healthcare and Medical Services\nAppointment Booking & Reminders\nHealthcare providers can automate appointment scheduling and send reminders to patients via WhatsApp.\nPatients can easily book, reschedule, or cancel appointments, and receive reminders to reduce no-shows and missed consultations.\nPrescription Refills & Medication Reminders\nPharmacies and healthcare providers can send automated WhatsApp messages to remind patients when it’s time to refill their prescriptions or take their medication.\nThis ensures adherence to prescribed treatment plans, improving patient outcomes.\nLab Results & Medical Reports Delivery\nWhatsApp can be used to securely send lab results, medical reports, and diagnostic updates directly to patients.\nThis ensures patients receive timely information about their health without needing to visit the clinic, improving convenience and satisfaction.\nTelemedicine & Virtual Consultations\nEnable patients to schedule and attend virtual consultations through WhatsApp.\nDoctors can use the platform to send links to virtual meetings, follow-up instructions, and even provide basic medical advice, streamlining telemedicine services.\nHealth Tips & Preventive Care Campaigns\nHealthcare providers can send personalized health tips, preventive care advice, and wellness updates via WhatsApp.\nThis can include content related to fitness, diet, vaccinations, and disease prevention to encourage healthy living among patients.\nPatient Support & Query Resolution\nWhatsApp Chatbots can be used to provide 24/7 patient support, answering common queries related to symptoms, treatments, or services.\nMore complex questions can be escalated to live agents or healthcare professionals, ensuring timely patient support.\nEmergency Notifications & Critical Alerts\nHospitals and medical centers can send critical health alerts, such as disease outbreak notifications or emergency guidelines, directly to patients via WhatsApp.\nThe platform’s high open rate ensures that patients receive and act on urgent medical information promptly.\nWhy WhatsApp Marketing in 2025?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support!\n98 % Open Rates\n45- 60 % Click Rates\n2.6 Bn+ Active Users\n7 % Engagement Rate\nExplore more Industry-wise WhatsApp Use Cases\nEducation & Edtech\nEngage students, automate inquiries, and simplify admissions. Explore how WhatsApp can revolutionize your edtech communication.\nExplore Use Case\nBanking & Fintech\nEnhance customer service, streamline KYC, and much more. Discover how WhatsApp can revolutionize your banking and fintech operations.\nExplore Use Case\nEvents & Webinar\nBoost registra",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/industries/ecommerce",
+      "title": "WhatsApp for E-commerce / Ecommerce & D2C - AiSensy",
+      "page_type": "product",
+      "summary": "WhatsApp use cases for e-commerce and D2C brands: abandoned-cart recovery, order updates and catalog selling.",
+      "content": "3x Your Ecommerce Store Sales with WhatsApp\nEcommerce, simplified with AiSensy - Boost repeat sales, Recover abandoned carts, Drive 5x Conversions & Grow your ecommerce store sales with Smartest WhatsApp Engagement Platform\n⚡Powered by Official WhatsApp Business API\nGet FREE Ecommerce Playbook Book a Demo\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nFeatures\nTailored for Ecommerce Businesses\nBroadcast Offers to Unlimited Contacts\n2x your conversions by sending beautiful carousel cards, limited time offers & multi-button messages\nShowcase Your Catalogues, Sell on WhatsApp\nDrive Orders via WhatsApp with WhatsApp Catalogs and Cart. Seamlessly build your Catalog in 10 minutes and get going!\nNative WhatsApp Payments\nCollect Payments directly within WhatsApp via UPI, Netbanking & Cards & grow your Revenue\nBuild no-code Chatbot in minutes\nBuild your Own Chatbot Flows your Way! Easy-to-use Chatbot & Catalog Flow builder to build your conversational journeys\nWhy WhatsApp Marketing in 2025?\nWhatsApp is the One Platform that brings together Actionable Notifications & Customer Support!\n98 % Open Rates\n45- 60 % Click Rates\n2.6 Bn+ Active Users\n7 % Engagement Rate\nWhatsApp Ecommerce Use Cases\nThe Ultimate WhatsApp Funnel for End-to-End Engagement\n5X your Lead Generation with Click to WhatsApp Ads\nAds that show on Facebook and Instagram and Land on WhatsApp\nDrive Instant Lead generation. Get the name and number of the user without asking them.\nGrow Revenue with Conversions API integrated Ad Setup for optimised delivery and better conversions\nCreate, Run & Analyse Ads within AiSensy\nStart for FREE\nEngage and Qualify Leads with AI Chatbots\nAutomate 85% of common customer queries using a drag-and-drop WhatsApp Chatbot.\n• Answer frequently asked questions.\n• Qualify leads automatically.\n• Showcase product catalogs.\n• Keep your business running 24/7 ..\nBook a Demo\nBroadcast Offers & Promotional Messages seamlessly\nBroadcast Offers and Promotional messages without getting blocked.\nUpload Unlimited Contacts,\nCreate templates with our AI & Broadcast Seamlessly.\nSmart Broadcast Retry mechanism for high delivery and conversions.\nStart for FREE\nBuild Chatbots Seamlessly with Drag & Drop Chatbot Builder\nBuild personalised chatbots to solve for customer support and engagement\nConnect your APIs for smarter automations and agentic workflows\nBuild Catalogs & Sell products seamlessly with your Chatbot\nSolve Customer Queries 24 x 7 and guide the user with effective buttons and list options\nBook a Demo\nBehaviour based Retargeting Campaigns\nRetarget users based on their actions and behavior patterns\nTrack user interactions and engagement automatically\nCreate smart segments based on user behavior and preferences\nSend personalized follow-ups at the right time for maximum impact\nStart for FREE\nAutomate Abandoned Cart Notifications & Payment Reminders\nAutomate Notifications for Abandoned Cart, Order Confirmations, Reorder, Feedback and more seamlessly with our pre-built automations. Automate Notifications for Payment Reminders , Order Updates & more.\nBook a Demo\nCollect Payments with Native WhatsApp Pay\nCollect payments via UPI (Paytm, Phonepe, Gpay) Card, Netbanking and more all within WhatsApp\nDrive more sales and revenue with native payment flow to collect payment\nStart for FREE\nIntegrations with Shopify, Woocommerce, Razorpay, MoEngage, WebEngage & more\nSend Invoice reminders, Order Confirmation and delivery notifications and much more",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/industries",
-      "title": "Industry-wise WhatsApp Use Cases",
+      "title": "Industries: WhatsApp Use Cases by Industry - AiSensy",
       "page_type": "product",
-      "summary": "Industries — how AiSensy is used across education, e-commerce, finance & insurance, healthcare, automobile, real estate, IT and events.",
-      "content": "Industry-wise WhatsApp Use Cases New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner Start for",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "WhatsApp use cases across education, e-commerce, finance, healthcare, automobile, real estate, IT and events.",
+      "content": "Industry-wise WhatsApp Use Cases\nGet an in-depth look at how businesses across multiple industries are using AiSensy to acquire, engage, and drive 180x ROI with WhatsApp Marketing.\nExplore Use Cases\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nExplore more Industry-wise WhatsApp Use Cases\nEducation & Edtech\nEngage students, automate inquiries, and simplify admissions. Explore how WhatsApp can revolutionize your edtech communication.\nExplore Use Case\nBanking & Fintech\nEnhance customer service, streamline KYC, and much more. Discover how WhatsApp can revolutionize your banking and fintech operations.\nExplore Use Case\nHealthcare\nSchedule appointments, share health tips, and provide personalized patient care. Explore how WhatsApp can elevate your healthcare communication\nExplore Use Case\nEvents & Webinar\nBoost registrations, send reminders, and gather feedback effortlessly. Discover how WhatsApp can supercharge your event and webinar engagement.\nExplore Use Case\nEcommerce\nRecover abandoned carts, send product updates, and boost repeat purchases through personalized WhatsApp campaigns.\nExplore Use Case\nReal Estate\nShowcase properties, schedule viewings, and close deals faster. Discover how WhatsApp can streamline your real estate communication and boost lead generation.\nExplore Use Case\nIT Services & Internet\nEnhance lead generation, automate onboarding flows, and provide 24/7 support. Perfect for startups, IT providers, SaaS, and software companies.\nExplore Use Case\nOffline & Retail\nStreamline your retail operations with WhatsApp. Share catalogs, send personalized promotions, offer real-time customer support, and more.\nExplore Use Case\nHR & Recruitment\nAutomate candidate screening, schedule interviews, send reminders, and keep applicants engaged throughout the hiring process. Use WhatsApp to simplify recruitment workflows and improve candidate experience.\nExplore Use Case\nRestaurants & Food Delivery\nAccept orders, share menus, send real-time updates, and drive repeat orders with personalized offers. Leverage WhatsApp to enhance customer engagement and streamline food delivery operations.\nExplore Use Case\nGym & Fitness Centers\nOnboard new members, send workout plans, share class schedules, and automate renewal reminders. Use WhatsApp to boost retention and keep your fitness community engaged.\nExplore Use Case\nSpas & Salons\nConfirm bookings, send appointment reminders, promote seasonal offers, and collect customer feedback. Elevate your client experience with personalized WhatsApp communication.\nExplore Use Case\nAutomobile\nCapture test drive bookings, share vehicle catalogs, send service reminders, and automate lead follow-ups. Use WhatsApp to accelerate sales cycles, improve customer experience, and boost after-sales engagement.\nExplore Use Case\nTravel & Tourism\nShare travel packages, confirm bookings, send itinerary updates, and provide real-time support to travelers. Use WhatsApp to enhance customer experience, increase bookings, and build long-term loyalty.\nExplore Use Case\nGovernment\nStreamline citizen services with automated updates, appointment scheduling, document notifications, and public announcements. Leverage WhatsApp to improve transparency, reduce response time, and enhance community engagement.\nExplore Use Case\nMarketing Agencies\nAiSensy for Marketing Agencies helps your clients generate leads, automate follow-ups, and improve campaign ROI with WhatsApp. Discover how AiSensy helps marketing a",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/aisensy-vs-wati",
+      "title": "AiSensy vs Wati - comparison",
+      "page_type": "comparison",
+      "summary": "AiSensy vs Wati: AiSensy starts lower (Basic ₹1,500/mo vs Wati's higher entry) and includes broader automation and Click-to-WhatsApp Ads tracking at lower tiers.",
+      "content": "Feature-by-Feature Comparison\nHere's a comprehensive comparison between AiSensy and Wati\nFeature\nFree Forever Plan\n✔\n✖\nFree Trial\n14-Day FREE Trial\n7-Day FREE Trial\nStarting Paid Plan\n₹1,500/month\n₹2,499/month\nCustomer Support\nSmooth onboarding, Call, Email, Zoom & Chat support\nChat, Email (2-4 days)\nUI/UX\n⭐️⭐️⭐️⭐️⭐️\n⭐️⭐️\nBlue Tick Verification\nFREE\nFREE\nWhatsApp Payments\n✔\nLimited integrations\nUptime\n99.9% smooth\nHangs for 1-2 Days when new updates\nFirst Message Tag\n✔\n✖\nClick-to-WhatsApp Ads Manager\n✔\n✖\nAI Ad creative generator\n✔\n✖\nAI Template message generator\n✔\n✖\nAI Chatbot flow generator\nComing Soon\n✖\nDynamic Chatbot builder\nDrag & Drop Chatbot Builder (Unlimited Chat Sessions)\nDrag & Drop Chatbot Builder (Limited sessions)\nLive Chat dashboard\nIntuitive\nNon-intuitive\nTime taken for 10,000 Messages Broadcast\n18 minutes (approx)\n1.5+ Hours\nIntegration Services\nFREE Unlimited Integrations\nFew integrations are chargeable (e.g. Shopify - $5/ month)\nChatbot Services\nService Provided & Assisted\nSelf Serve\nNumber of Agents\n5 Agents + 1 Owner\n3 Agents with Growth Plan\n5 Agents with Pro & Business Plan\nFeature-by-Feature Comparison\nHere's a comprehensive comparison between AiSensy and Wati\nFeature\nFree Forever Plan\n✔\n✖\nFree Trial\n14-Day FREE Trial\n7-Day FREE Trial\nStarting Paid Plan\n₹1,500/month\n₹2,499/month\nCustomer Support\nSmooth onboarding, Call, Email, Zoom & Chat support\nChat, Email (2-4 days)\nUI/UX\n⭐️⭐️⭐️⭐️⭐️\n⭐️⭐️\nBlue Tick Verification\nFREE\nFREE\nWhatsApp Payments\n✔\nLimited integrations\nUptime\n99.9% smooth\nHangs for 1-2 Days when new updates\nFirst Message Tag\n✔\n✖\nClick-to-WhatsApp Ads Manager\n✔\n✖\nAI Ad creative generator\n✔\n✖\nAI Template message generator\n✔\n✖\nAI Chatbot flow generator\n✔\n✖\nDynamic Chatbot builder\nDrag & Drop Chatbot Builder (Unlimited Chat Sessions)\nDrag & Drop Chatbot Builder (Limited sessions)\nLive Chat dashboard\nIntuitive\nNon-intuitive\nTime taken for 10,000 Messages Broadcast\n18 minutes (approx)\n1.5+ Hours\nIntegration Services\nFREE Unlimited Integrations\nFew integrations are chargeable (e.g. Shopify - $5/ month)\nChatbot Services\nService Provided & Assisted\nSelf Serve\nNumber of Agents\n5 Agents + 1 Owner\n3 Agents with Growth Plan\n5 Agents with Pro & Business Plan\nFeature-by-Feature Comparison\nHere's a comprehensive comparison between AiSensy and Wati\nFeature AiSensy Wati\nFree Forever Plan\n✔\n✖\nFree Trial\n14-Day FREE Trial\n7-Day FREE Trial\nStarting Paid Plan\n₹1500/month\n₹2499/month\nCustomer Support\nSmooth onboarding, Call, Email, Zoom & Chat support\nChat, Email (2-4 days)\nUI/UX\n⭐️⭐️⭐️⭐️⭐️\n⭐️⭐️\nBlue Tick Verification\nFREE\nFREE\nWhatsApp Payments\n✔\nLimited integrations\nUptime\n99.9% smooth\nHangs for 1-2 Days when new updates\nFirst Message Tag\n✔\n✖\nClick-to-WhatsApp Ads Manager\n✔\n✖\nAI Ad creative generator\n✔\n✖\nAI Template message generator\n✔\n✖\nAI Chatbot flow generator\nComing Soon\n✖\nDynamic Chatbot builder\nDrag & Drop Chatbot Builder (Unlimited Chat Sessions)\nDrag & Drop Chatbot Builder (Limited sessions)\nLive Chat dashboard\nIntuitive\nNon-intuitive\nTime taken for 10,000 Messages Broadcast\n18 minutes (approx)\n1.5+ Hours\nIntegration Services\nFREE Unlimited Integrations\nFew integrations are chargeable (e.g. Shopify - $5/ month)\nChatbot Services\nService Provided & Assisted\nSelf Serve\nNumber of Agents\nUnlimited from Basic Plan\n3 Agents with Growth Plan\n5 Agents with Pro & Business Plan\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nDetailed Comparison\nComparison between the two WhatsApp Marketing pla",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/aisensy-vs-interakt",
+      "title": "AiSensy vs Interakt - comparison",
+      "page_type": "comparison",
+      "summary": "AiSensy vs Interakt: AiSensy offers a lower entry price and deeper Click-to-WhatsApp Ads tracking and automation.",
+      "content": "Feature-by-Feature Comparison\nHere's a comprehensive comparison between AiSensy and Interakt\nFeature\nFree Forever Plan\n✔\n✖\nFree Trial\n14-day free trial\n14-day free trial\nPricing\nStarts at ₹1500/month\nStarts at ₹2,499/month\nAgent logins\n5 Agents + 1 Owner\nUnlimited\nCustomer Support\nSmooth onboarding, Call, Email, Zoom & Chat support\nChat, Email (2-4 days)\nUI/UX\n⭐️⭐️⭐️⭐️⭐️\n⭐️⭐️\nThird-Party Integrations\nFREE Unlimited Integrations\nLimited integrations in starter plan; more in higher tiers\nWhatsApp Payments\n✔\n✔\nAPI Calls\n1200 m/s (12x faster)\n100 m/s\nCustomer Journey\n✔\n✖\nCampaign Analytics\nReal-time analytics with click tracking\nBasic analytics; advanced in higher-tier plans\nFirst Message Tag\n✔\n✖\nClick-to-WhatsApp Ads Manager\n✔\nYes, but lack advanced segmentation features\nAI Ad creative generator\n✔\n✖\nAI Template message generator\n✔\n✔\nAI Chatbot Flow Generator\n✔\n✔\nChatbot builder\nAI-powered chatbot builder\nGPT-powered chatbots in higher-tier plans\nLive Chat dashboard\nIntuitive\nNon-intuitive\nTime taken for 10,000 Messages Broadcast\n18 minutes (approx)\n1.5+ Hours\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nDetailed Comparison\nComparison between the two WhatsApp Marketing platforms\nUser Experience & Support\nAiSensy provides multiple support channels, including email, WhatsApp, phone, and online meetings, ensuring accessible assistance for users . However, some users have reported issues with customer service responsiveness\nInterakt offers email support across all plans, with WhatsApp support available in selected tiers. Users have noted a steep learning curve and limited support responsiveness in some cases.\nClick-to-WhatsApp Ads\nClick-to-WhatsApp Ads are crucial for driving high-intent traffic directly into WhatsApp chats. AiSensy offers a seamless Click-to-WhatsApp Ads integration, with real-time analytics, AI-powered tools, and native chatbot flows to handle incoming leads.\nInterakt supports these ads but lacks deeper automation and granular tracking unless you subscribe to higher-tier plans or integrate third-party tools.\nMarketing & Campaign Management\nEffective WhatsApp marketing requires more than just sending messages—it demands smart segmentation, automation, and real-time performance tracking.\nAiSensy shines here with powerful tools like campaign scheduling, contact filtering, and real-time delivery insights . Its user-friendly interface makes it easy to create, manage, and optimize campaigns on the fly.\nInterakt , while offering basic campaign features, places more advanced options such as segmentation and automation behind higher-tier plans or requires manual configurations.\nPricing & Value\nAiSensy starts at a competitive price of ₹1,500/month, offering essential features ideal for small to medium-sized businesses. The Pro plan , priced at ₹3,200/month, includes advanced capabilities such as broadcast scheduling and campaign analytics.\nIn contrast, Interakt only provides a monthly starter plan at ₹2,499. Key features such as advanced analytics and multiple integrations are restricted to higher-tier plans—leading to higher overall costs for businesses that require them.\nWhy AiSensy is the Superior Choice 🚀\nAiSensy offers better features, sturdy and friendly customer support & more user-friendly pricing in comparison to Interakt. Want to switch from Interakt to AiSensy? Get started for Free 👇\nStart for FREE Book a Demo\nCustomers love us!\nPriya Ostwal\nMarketing Manager, PhysicsWallah\nAiSensy team ha",
+      "key_links": [],
+      "forms": []
+    },
+    {
+      "url": "https://aisensy.com/aisensy-vs-doubletick",
+      "title": "AiSensy vs DoubleTick - comparison",
+      "page_type": "comparison",
+      "summary": "AiSensy vs DoubleTick: see how AiSensy compares on price, broadcasting, automation and ads; migration help is available.",
+      "content": "Feature-by-Feature Comparison\nHere's a comprehensive comparison between AiSensy and DoubleTick\nFeature\nFree Forever Plan\n✔\n✖\nFree Trial\n14-Day FREE Trial\n✖\nStarting Paid Plan\n₹1,500/month\n₹2,500/month\nCustomer Support\nSmooth onboarding, Call, Email, Zoom & Chat support\nChat, Email (2-4 days)\nUI/UX\n⭐️⭐️⭐️⭐️⭐️\n⭐️⭐️\nBlue Tick Verification\nFREE\nFREE\nWhatsApp Payments\n✔\nLimited integrations\nFirst Message Tag\n✔\n✖\nClick-to-WhatsApp Ads Manager\n✔\n✖\nAI Ad Creative Generator\n✔\n✖\nAI Template Message Generator\n✔\n✖\nAI Chatbot Flow Generator\n✔\n✖\nNo-code Chatbot builder\nYes\nYes, limited features\nLive Chat dashboard\nIntuitive\nNon-intuitive\nTime taken for 10,000 Messages Broadcast\n18 minutes (approx)\n1.5+ Hours\nIntegration Services\nYes, from the Basic Plan\nHigher Plans Only\nChatbot Services\nService Provided & Assisted\nSelf Serve\nNumber of Agents\n5 Agents on the Starter Plan\n5 Agents on the Starter Plan\nFeature-by-Feature Comparison\nHere's a comprehensive comparison between AiSensy and DoubleTick\nFeature AiSensy DoubleTick\nFree Forever Plan\n✔\n✖\nFree Trial\n14-Day FREE Trial\n✖\nStarting Paid Plan\n₹1,500/month\n₹2,500/month\nCustomer Support\nSmooth onboarding, Call, Email, Zoom & Chat support\nChat, Email (2-4 days)\nUI/UX\n⭐️⭐️⭐️⭐️⭐️\n⭐️⭐️\nBlue Tick Verification\nFREE\nFREE\nWhatsApp Payments\n✔\nLimited integrations\nFirst Message Tag\n✔\n✖\nClick-to-WhatsApp Ads Manager\n✔\n✖\nAI Ad Creative Generator\n✔\n✖\nAI Template Message Generator\n✔\n✖\nAI Chatbot Flow Generator\n✔\n✖\nNo-code Chatbot builder\nYes\nYes, limited features\nLive Chat dashboard\nIntuitive\nNon-intuitive\nTime taken for 10,000 Messages Broadcast\n18 minutes (approx)\n1.5+ Hours\nIntegration Services\nYes, from the Basic Plan\nHigher Plans Only\nChatbot Services\nService Provided & Assisted\nSelf Serve\nNumber of Agents\n5 Agents on the Starter Plan\n5 Agents on the Starter Plan\nFounders & Marketers Love us\nTrusted by 210,000+ Businesses across 68+ Countries\nDetailed Comparison\nComparison between the two WhatsApp Marketing platforms\nAI-Powered Tools & Innovation\nAiSensy:\nAI Ads Manager: Optimize Click-to-WhatsApp campaigns\nAI Ad Creative Generator: Generate creatives instantly\nAI Template Message Generator: Writes Meta-approved templates\nAI Chatbot Flow Builder: Builds smart bots trained on business data.\nDoubleTick:\nNo advanced AI tools for ads or automation\nBasic chatbot capabilities\nVerdict: AiSensy clearly leads with AI-driven automation and campaign optimization tools.\nCustomer Support\nAiSensy : Offers personalized onboarding with support via calls, Zoom, email, and live chat. Known for faster support and handholding through setup.\nDoubleTick : Provides support primarily via chat and email, often with a 2–4 day response window.\nVerdict : AiSensy delivers superior support, especially for businesses new to WhatsApp marketing.\nMarketing & Campaign Management\nAiSensy:\nBulk broadcasts with high speed\nClick-to-WhatsApp Ads Manager\nRetargeting (cart recovery, drip campaigns)\nReal-time analytics & tracking\nDoubleTick:\nBulk messaging available\nLimited campaign automation\nBasic analytics\nVerdict: AiSensy provides a more complete marketing suite.\nPlans & Pricing\nAiSensy offers a more affordable and transparent pricing structure compared to DoubleTick , making it an ideal choice for businesses looking to scale their WhatsApp marketing without overspending.\nDoubleTick’s plans start at ₹2,500 per month, which is significantly higher than AiSensy’s starting price of ₹1,500 per month. When it comes to conversation charges, AiSensy remains m",
+      "key_links": [],
       "forms": []
     },
     {
       "url": "https://aisensy.com/case-studies",
-      "title": "WhatsApp Marketing Case Studies | AiSensy",
+      "title": "WhatsApp Marketing Case Studies - AiSensy",
       "page_type": "blog",
-      "summary": "Case studies — real businesses growing revenue and engagement with AiSensy on WhatsApp.",
-      "content": "WhatsApp Marketing Case Studies | AiSensy New Launch | Build AI Agents on WhatsApp that qualify & convert 24/7 · Explore More Pricing Product ▾ WhatsApp Business API Get FREE WhatsApp API WhatsApp Marketing Broadcast, Automate & Grow AI Ads Manager 5X your Leads right away WhatsApp Chatbots Automate your messaging with AI AI WhatsApp Chatbot Automate everything with AI WhatsApp Payments Collect Payments within WhatsApp WhatsApp Forms Native Forms within WhatsApp WhatsApp Link & QR Free WhatsApp Link & QR generator WhatsApp Blue Tick Get a Verified Badge Showroom Kit QR stand for your offline store AiPersy Hire 10X Faster with AI Features ▾ Features Explore all Powerful AiSensy features WhatsApp Broadcasting Retargeting, CRM & more WhatsApp AI Agents Build AI Agents on WhatsApp AI WhatsApp Chatbot Automate anything with AI Ads Manager 3X Your Leads WhatsApp Chatbots Drag & Drop Flow Builder WhatsApp Catalog Sell Products on WhatsAp WhatsApp Payments Collect Payments via UPI & Card WhatsApp Forms Native Data Collection WhatsApp Webviews Web within WhatsApp Click Tracking Import, Broadcast & Track Industries ▾ All Industries Industry-wise Use Cases Education Edtech, Coaches, Institutes E-commerce Brands & D2C Finance & Insurance Fintech, Banking & more Healthcare Appointment Booking, Hostpitals Automobile Book Test Drive, Sell Faster Real Estate Developers, Brokers, Coworking IT Services & Internet Showcase your services Events & Webinar Boost Attendance Resources ▾ Help Center FAQs, How-to's & more Tutorials Learn how to use the platform Youtube Tutorials, Podcasts, Events & more Template Library Explore the right templates Blog Latest Updates & Stories Developer APIs Send Templates via API Case Studies Business Growth stories Android App Download on Mobile iOS App Download on Mobile Integrations ▾ Explore all Integrations Automate Notifications Shopify Abandoned Cart, Order Status & more Razorpay Send Payment Notifications Shopify Checkouts Simple, Magic Checkout & more WebEngage Automate your Journeys LeadSquared Connect your CRM Integrately Build Automations Webhook APIs Receive incoming data from AiSensy to your backend Partner Eng Português Start for FREE Login Eng Português Pricing Product ▾ WhatsApp Business API WhatsApp Marketing AI Ads Manager WhatsApp Chatbots AI WhatsApp Chatbot WhatsApp Payments WhatsApp Forms WhatsApp Link & QR WhatsApp Blue Tick Showroom Kit AiPersy Features ▾ Features WhatsApp Broadcasting WhatsApp AI Agents AI WhatsApp Chatbot Ads Manager WhatsApp Chatbots WhatsApp Catalog WhatsApp Payments WhatsApp Forms WhatsApp Webviews Click Tracking Industries ▾ All Industries Education E-commerce Finance & Insurance Healthcare Automobile Real Estate IT Services & Internet Events & Webinar Resources ▾ Help Center Tutorials Youtube Template Library Blog Developer APIs Case Studies Android App iOS App Integrations ▾ Explore all Integrations Shopify Razorpay Shopify Checkouts WebEngage LeadSquared Integrately Webhook APIs Partner ",
-      "key_links": [
-        {
-          "label": "Pricing",
-          "url": "https://aisensy.com/pricing"
-        },
-        {
-          "label": "WhatsApp Business API Get FREE WhatsApp API",
-          "url": "https://aisensy.com/whatsapp-business-api"
-        },
-        {
-          "label": "WhatsApp Marketing Broadcast, Automate & Grow",
-          "url": "https://aisensy.com/products/whatsapp-marketing"
-        },
-        {
-          "label": "AI Ads Manager 5X your Leads right away",
-          "url": "https://aisensy.com/features/aisensy-meta-ads-manager"
-        },
-        {
-          "label": "WhatsApp Chatbots Automate your messaging with AI",
-          "url": "https://aisensy.com/features/chatbot-flow-builder"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate everything with AI",
-          "url": "https://aisensy.com/features/ai-whatsapp-chatbot"
-        },
-        {
-          "label": "WhatsApp Payments Collect Payments within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-payments"
-        },
-        {
-          "label": "WhatsApp Forms Native Forms within WhatsApp",
-          "url": "https://aisensy.com/features/whatsapp-forms"
-        },
-        {
-          "label": "WhatsApp Link & QR Free WhatsApp Link & QR generator",
-          "url": "https://create.aisensy.com/generate-whatsapp-link"
-        },
-        {
-          "label": "WhatsApp Blue Tick Get a Verified Badge",
-          "url": "https://aisensy.com/products/whatsapp-blue-tick"
-        },
-        {
-          "label": "Showroom Kit QR stand for your offline store",
-          "url": "https://shop.aisensy.com"
-        },
-        {
-          "label": "Features Explore all Powerful AiSensy features",
-          "url": "https://aisensy.com/features"
-        },
-        {
-          "label": "WhatsApp Broadcasting Retargeting, CRM & more",
-          "url": "https://aisensy.com/features/whatsapp-broadcasting"
-        },
-        {
-          "label": "WhatsApp AI Agents Build AI Agents on WhatsApp",
-          "url": "https://aisensy.com/features/ai-agents-on-whatsapp"
-        },
-        {
-          "label": "AI WhatsApp Chatbot Automate anything with AI",
-          "url": "https://m.aisensy.com/blog/ai-whatsapp-chatbot-guide"
-        }
-      ],
+      "summary": "Customer success stories from brands like PhysicsWallah (3X leads), IndiaMART and Delhi Transport Corporation using AiSensy.",
+      "content": "Real Results from Real WhatsApp Campaigns\nAdani Realty\nAdani Realty reduced CPL by 30% and increased high-intent enquiries by running Click-to-WhatsApp Ads with AiSensy. Explore Case Study\nDelhi Transport Corp.\nSee how Delhi Transport Corporation enabled Bus Ticket booking on WhatsApp Explore Case Study\nSports Equipment Brand\nHow Cosco, one of the most renowned Sporting equipment companies used AiSensy to drive 3x more conversions. Explore Case Study\nDonation Collection Platform\nDiscover how Give, India's most trusted donations collection platform used WhatsApp to achieve a 90% Payment success rate & 15X ROI Explore Case Study\nYakult India\nLearn how Yakult elevated customer engagement through WhatsApp with AiSensy. Explore Case Study\nThe 1% Club\nExplore how The 1%Club Saw 3x Conversion with WhatsApp Marketing Explore Case Study\nPhysicswallah\nCheck out how PhysicsWallah, an Edtech giant used AiSensy to drive 3x more Leads through WhatsApp via AiSensy. Explore Case Study\nFliQi Education\nLearn how FliQi Education has grown their business by 80% with WhatsApp Automation Explore Case Study\nMysuru Zoo\nSee how Mysuru Zoo enabled ticket booking on WhatsApp Explore Case Study\nIndiaMart\nIndiaMART reduced their team's workload & achieve 33% more conversions - all via AiSensy. Explore Case Study\nPeople Matters\nDiscover how People Matters increased conversions by 25% and reduced manual ops by 35% using AiSensy’s WhatsApp automation across multiple campaigns. Explore Case Study\nSkullcandy\nFind out how Skullcandy reduced their abandoned carts by 45-60% with AiSensy. Explore Case Study\nHummingbird Digital\nHummingbird transformed its hotel booking experience and enhanced customer engagement using WhatsApp. Explore Case Study\nGromo\nExplore how Gromo improve service efficiency by 70% via AiSensy. Explore Case Study\nKeeros Superfoods\nHow Keeros Superfoods drives 40% of it's Revenue with WhatsApp Marketing via AiSensy. Explore Case Study\nRefrens\nHow Refrens, a marketplace of 1,50,000+ Freelancers uses AiSensy to drive more paid users on the platform. Explore Case Study\nThe Hatke\nHatke uses the WhatsApp engagement platform AiSensy to boost 21x ROI from WhatsApp. Find out how. Explore Case Study\nAdnec Group\nHow ADNEC enhanced attendee engagement, streamline operations, and achieve 4x revenue growth with AiSensy. Explore Case Study\nHomelane\nFind out how HomeLane unlocked a smoother booking journey and booked 300+ extra design consultations every month with AiSensy. Explore Case Study\nAjmera Tyres\nAjmera Tyres collected 23% more payments using AiSensy's WhasApp solutions. Explore Case Study\nLiveLong Wealth\nExplore how LiveLong wealth is building Strong Customer Relations with AiSensy. Explore Case Study\nYDS Creative Studio\nHow YDS Studio grew its Business 3x with AiSensy by powering Sales & Lead generation on WhatsApp. Explore Case Study\nDatta Tule Digital Agency\nHow Tule Interactive reached 1000s of users instantly on WhatsApp via AiSensy. Explore Case Study\nNMIMS University\nHow NMIMS generated 5x more Leads & Application Signups via AiSensy. Explore Case Study\nJaipuria Schools\nFind out how Jaipuria Schools increased engagement efficiency by 2.5x with AiSensy. Explore Case Study\nLearntube\nFind out how Learntube boosted admissions and saved hours of manual work automating WhatsApp workflows with AiSensy. Explore Case Study\nChoice Connect\nDiscover how Choice Connect scaled engagement on WhatsApp, reduced lead churn by 45%, and streamlined team collaboration. Exp",
+      "key_links": [],
       "forms": []
     }
   ]
