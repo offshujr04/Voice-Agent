@@ -10,14 +10,18 @@ import type { AppConfig } from './types';
 export function getStyles(appConfig: AppConfig): string {
   const accent = appConfig.accent || undefined;
   const accentDark = appConfig.accentDark || undefined;
+  const bg = appConfig.widgetBackground || undefined;
+  const bgDark = appConfig.widgetBackgroundDark || undefined;
 
   return [
     accent
       ? `:root { --primary: ${accent}; --primary-hover: color-mix(in srgb, ${accent} 80%, #000); --fgAccent: ${accent}; }`
       : '',
+    bg ? `:root { --background: ${bg}; }` : '',
     accentDark
       ? `.dark { --primary: ${accentDark}; --primary-hover: color-mix(in srgb, ${accentDark} 80%, #000); --fgAccent: ${accentDark}; }`
       : '',
+    bgDark ? `.dark { --background: ${bgDark}; }` : '',
   ]
     .filter(Boolean)
     .join('\n');
@@ -31,14 +35,18 @@ export function getStyles(appConfig: AppConfig): string {
 export function getShadowStyles(appConfig: AppConfig): string {
   const accent = appConfig.accent || undefined;
   const accentDark = appConfig.accentDark || undefined;
+  const bg = appConfig.widgetBackground || undefined;
+  const bgDark = appConfig.widgetBackgroundDark || undefined;
 
   return [
     accent
       ? `:host { --primary: ${accent}; --primary-hover: color-mix(in srgb, ${accent} 80%, #000); --fgAccent: ${accent}; }`
       : '',
+    bg ? `:host { --background: ${bg}; }` : '',
     accentDark
       ? `:host(.dark) { --primary: ${accentDark}; --primary-hover: color-mix(in srgb, ${accentDark} 80%, #000); --fgAccent: ${accentDark}; }`
       : '',
+    bgDark ? `:host(.dark) { --background: ${bgDark}; }` : '',
   ]
     .filter(Boolean)
     .join('\n');

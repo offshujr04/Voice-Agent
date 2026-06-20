@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build-embed-popup-script": "webpack",
+    "build-extension": "webpack --config webpack.extension.config.js",
     "build": "next build && pnpm build-embed-popup-script",
     "start": "next start",
     "lint": "next lint",

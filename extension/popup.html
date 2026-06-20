@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <style>
+    :root { color-scheme: light dark; }
+    body { width: 300px; margin: 0; padding: 16px; font: 13px/1.5 system-ui, sans-serif; }
+    h1 { font-size: 14px; margin: 0 0 4px; }
+    p.sub { margin: 0 0 14px; color: #888; font-size: 12px; }
+    label { display: block; margin: 10px 0 4px; font-weight: 600; }
+    input[type="text"] { width: 100%; box-sizing: border-box; padding: 7px 9px; border: 1px solid #ccc; border-radius: 7px; font: inherit; }
+    .row { display: flex; align-items: center; gap: 8px; }
+    .row input[type="color"] { width: 36px; height: 28px; border: 1px solid #ccc; border-radius: 6px; padding: 0; background: none; }
+    .row input[type="text"] { flex: 1; }
+    button { margin-top: 16px; width: 100%; padding: 9px; border: 0; border-radius: 8px; background: #16a34a; color: #fff; font-weight: 700; cursor: pointer; }
+    button:hover { background: #22c55e; }
+    .status { margin-top: 10px; font-size: 12px; color: #16a34a; min-height: 16px; }
+    .hint { font-size: 11px; color: #999; margin-top: 2px; }
+  </style>
+</head>
+<body>
+  <h1>Voice Assistant settings</h1>
+  <p class="sub">Per-install config. Reload the page after saving.</p>
+
+  <label for="apiBase">LiveKit app URL</label>
+  <input type="text" id="apiBase" placeholder="http://localhost:3000" />
+  <div class="hint">Where the token API + bundle are served.</div>
+
+  <label for="sandboxId">Sandbox ID</label>
+  <input type="text" id="sandboxId" placeholder="assistant-2473" />
+
+  <label for="agentName">Agent name</label>
+  <input type="text" id="agentName" placeholder="assistant-2473" />
+
+  <label>Accent color</label>
+  <div class="row">
+    <input type="color" id="accentColor" />
+    <input type="text" id="accent" placeholder="#16a34a" />
+  </div>
+
+  <label>Pill background</label>
+  <div class="row">
+    <input type="color" id="bgColor" />
+    <input type="text" id="widgetBackground" placeholder="(theme default)" />
+  </div>
+  <div class="hint">Leave blank to use the default light/dark background.</div>
+
+  <button id="save">Save</button>
+  <div class="status" id="status"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

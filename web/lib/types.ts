@@ -20,6 +20,10 @@ export interface AppConfig {
   companyName?: string;
   accent?: string;
   accentDark?: string;
+  /** Background color of the pill/widget (light mode). Overrides the theme bg. */
+  widgetBackground?: string;
+  /** Background color of the pill/widget (dark mode). */
+  widgetBackgroundDark?: string;
   logo?: string;
   logoDark?: string;
 }
