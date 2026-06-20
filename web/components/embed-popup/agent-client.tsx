@@ -137,7 +137,7 @@ function AgentClient({ appConfig }: EmbedFixedAgentClientProps) {
         }}
         onAnimationStart={handlePanelAnimationStart}
         onAnimationComplete={handlePanelAnimationComplete}
-        className="fixed right-0 bottom-4 left-0 z-50 mx-auto w-fit max-w-[calc(100vw-2rem)]"
+        className="fixed right-0 bottom-[20px] left-0 z-50 mx-auto w-fit max-w-[calc(100vw-2rem)]"
       >
         <div
           className={cn(

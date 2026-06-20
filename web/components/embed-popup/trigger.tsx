@@ -35,7 +35,7 @@ export function Trigger({ appConfig, popupOpen, onToggle }: TriggerProps) {
           whileTap={{ scale: 0.98 }}
           transition={{ type: 'spring', duration: 0.4, bounce: 0.2 }}
           className={cn(
-            'bg-background border-separator1 fixed right-0 bottom-4 left-0 z-50 mx-auto flex w-fit cursor-pointer items-center gap-2 rounded-full border py-2 pr-4 pl-3 drop-shadow-md'
+            'bg-background border-separator1 fixed right-0 bottom-[20px] left-0 z-50 mx-auto flex w-fit cursor-pointer items-center gap-2 rounded-full border py-2 pr-4 pl-3 drop-shadow-md'
           )}
         >
           <BorderLine />

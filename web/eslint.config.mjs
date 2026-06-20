@@ -17,6 +17,14 @@ const eslintConfig = [
     'prettier',
     'plugin:prettier/recommended'
   ),
+  {
+    // Accept either LF or CRLF so Windows checkouts (autocrlf) don't fail the
+    // build's lint step. eslint-plugin-prettier only honors endOfLine when it's
+    // passed as a rule option (it ignores it from .prettierrc).
+    rules: {
+      'prettier/prettier': ['error', { endOfLine: 'auto' }],
+    },
+  },
 ];
 
 export default eslintConfig;
