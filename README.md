@@ -1,4 +1,4 @@
-# assistant-2473
+# Voice Agent
 
 A voice AI assistant built with [LiveKit Agents](https://docs.livekit.io/agents) (Python) plus an
 embeddable web widget (Next.js) that can be dropped onto any website via a `<script>` tag or Google
