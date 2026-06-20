@@ -16,18 +16,32 @@
       "startButtonText": "Start the demo"
     },
     {
-      "id": "salesforce.com/in/",
-      "match": "salesforce.com/in/",
+      "id": "salesforce.com/",
+      "match": "salesforce.com/",
       "enabled": true,
       "label": "Salesforce",
       "sandboxId": "salesforce.com",
       "agentName": "assistant-2473",
       "template": "salesforce",
-      "accent": "#00a1e0",
-      "accentDark": "#1ab0f0",
+      "accent": "#0176D3",
+      "accentDark": "#1B96FF",
       "widgetBackground": "",
       "widgetBackgroundDark": "",
       "startButtonText": "Ask the Salesforce assistant"
+    },
+    {
+      "id": "aisensy.com",
+      "match": "aisensy.com",
+      "enabled": true,
+      "label": "AiSensy",
+      "sandboxId": "aisensy.com",
+      "agentName": "assistant-2473",
+      "template": "aisensy",
+      "accent": "#00A884",
+      "accentDark": "#25D9AD",
+      "widgetBackground": "",
+      "widgetBackgroundDark": "",
+      "startButtonText": "Ask the AiSensy assistant"
     }
   ]
 }

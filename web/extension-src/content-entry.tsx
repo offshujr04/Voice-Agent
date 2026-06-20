@@ -50,9 +50,12 @@ async function readRegistry(): Promise<Registry> {
   }
 }
 
-/** Does `host` match the client's pattern (exact host or a subdomain of it)? */
+/** Does `host` match the client's pattern (exact host or a subdomain of it)?
+ * Tolerant of patterns that include a scheme, leading "*.", or a trailing path
+ * (e.g. "https://salesforce.com/in/" → matches the salesforce.com host). */
 function hostMatches(host: string, pattern: string): boolean {
-  const p = (pattern || '').trim().toLowerCase().replace(/^\*\./, '').replace(/^https?:\/\//, '');
+  let p = (pattern || '').trim().toLowerCase().replace(/^https?:\/\//, '').replace(/^\*\./, '');
+  p = p.split('/')[0]; // drop any path/trailing slash — we match on hostname
   if (!p) return false;
   return host === p || host.endsWith('.' + p);
 }

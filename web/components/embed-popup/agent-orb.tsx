@@ -8,46 +8,54 @@ interface AgentOrbProps {
 }
 
 /**
- * The animated green orb shown on the left of the session bar.
- * - connecting / initializing -> dashed ring slowly spinning
- * - listening                 -> filled organic blob gently morphing
- * - speaking / thinking        -> outlined ring pulsing
+ * A soft "smoke mesh" orb: a few blurred, translucent loops in the accent color
+ * (--agent-green) slowly counter-rotating, so they weave into an organic, glowing
+ * blob with a bright center. Animation speed reflects the agent state.
  */
 export function AgentOrb({ state }: AgentOrbProps) {
   const isConnecting = state === 'connecting' || state === 'initializing';
-  const isListening = state === 'listening';
   const isSpeaking = state === 'speaking';
+  const isListening = state === 'listening';
+
+  // Base lap time — faster when speaking, slower when idle.
+  const base = isSpeaking ? 4 : isListening ? 7 : isConnecting ? 3 : 9;
+
+  // Each loop: size (% of the orb), tilt, opacity, spin direction, speed factor.
+  // Crisp thin strokes with a soft glow so the overlapping loops read as a mesh.
+  const loops = [
+    { w: 94, h: 78, rot: 0, op: 0.9, dir: 1, mul: 1 },
+    { w: 76, h: 96, rot: 55, op: 0.8, dir: -1, mul: 1.35 },
+    { w: 98, h: 68, rot: -40, op: 0.7, dir: 1, mul: 1.7 },
+  ];
 
   return (
     <div className="relative grid size-8 shrink-0 place-items-center">
-      {/* soft green halo */}
-      <div className="absolute inset-0 rounded-full bg-[radial-gradient(circle_at_50%_45%,var(--agent-green-soft),transparent_70%)]" />
-
-      {isConnecting ? (
-        <motion.div
+      {/* faint glow so the mesh sits on a soft halo (kept subtle, not blurry) */}
+      <div
+        aria-hidden
+        className="absolute inset-0 rounded-full blur-[2px] opacity-50"
+        style={{
+          background: 'radial-gradient(circle at 50% 50%, var(--agent-green-soft) 0%, transparent 70%)',
+        }}
+      />
+      {loops.map((l, i) => (
+        <motion.span
+          key={i}
           aria-hidden
-          className="size-7 rounded-full border-2 border-dashed border-[var(--agent-green)] opacity-70"
-          animate={{ rotate: 360 }}
-          transition={{ repeat: Infinity, ease: 'linear', duration: 3 }}
-        />
-      ) : isListening ? (
-        <motion.div
-          aria-hidden
-          className="size-7 bg-[var(--agent-green)]"
-          animate={{
-            scale: [1, 1.12, 0.97, 1.08, 1],
-            borderRadius: ['50%', '58% 42% 55% 45%', '45% 55% 42% 58%', '55% 45% 58% 42%', '50%'],
+          className="absolute rounded-full"
+          style={{
+            width: `${l.w}%`,
+            height: `${l.h}%`,
+            border: '1.25px solid var(--agent-green)',
+            opacity: l.op,
+            // Middle ground: defined strokes, slightly soft edge + a faint glow.
+            filter: 'blur(0.5px) drop-shadow(0 0 1.5px var(--agent-green-soft))',
           }}
-          transition={{ repeat: Infinity, ease: 'easeInOut', duration: 3.2 }}
+          initial={{ rotate: l.rot }}
+          animate={{ rotate: l.rot + l.dir * 360 }}
+          transition={{ repeat: Infinity, ease: 'linear', duration: base * l.mul }}
         />
-      ) : (
-        <motion.div
-          aria-hidden
-          className="size-7 rounded-full border-2 border-[var(--agent-green)]"
-          animate={isSpeaking ? { scale: [1, 1.16, 1] } : { scale: [1, 1.06, 1] }}
-          transition={{ repeat: Infinity, ease: 'easeInOut', duration: isSpeaking ? 0.9 : 2 }}
-        />
-      )}
+      ))}
     </div>
   );
 }
