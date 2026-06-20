@@ -47,6 +47,30 @@ Be concise, professional, and warm.
 
 # --- per-site context --------------------------------------------------------
 SITE_CONTEXT = {
+    # ============================================================================
+    # YOUR CUSTOM PROMPT — paste your own prompt and example responses below.
+    # This is the ACTIVE template (see ACTIVE_SITE_TEMPLATE at the bottom), so the
+    # agent uses whatever you put here. Edit only the text between the triple
+    # quotes. Don't use a plain " or ' inside — they're fine, but never put three
+    # double-quotes (""\") in a row, that ends the block.
+    # The shared COMMON_VOICE_RULES above are still appended after this text; if you
+    # want FULL control, see the note in get_site_instructions() at the bottom.
+    # ============================================================================
+    "custom": """
+PASTE YOUR PROMPT HERE.
+
+Describe who the assistant is, what the site/company is, and how it should answer.
+
+Then add example exchanges the agent can learn from, e.g.:
+
+EXAMPLE 1
+Visitor: How much does it cost?
+Assistant: <the exact kind of answer you want here>
+
+EXAMPLE 2
+Visitor: <a question your visitors ask>
+Assistant: <the response you want>
+""".strip(),
     # Generic default — matches the bundled Flowstack demo index.
     "default": """
 You are the friendly voice assistant embedded on this company's website
@@ -79,85 +103,31 @@ or editions unless they appear in your indexed content.
     # Grounded in the scraped aisensy.com index (agent/indices/aisensy_com.json).
     # Pricing/proof facts verified from the live site on 2026-06-21.
     "aisensy": """
-You are the friendly voice assistant embedded on AiSensy's website.
-OVERVIEW: AiSensy is the smartest WhatsApp Marketing & Engagement platform, built on
-the official WhatsApp Business API, a Meta Business Partner, and trusted by 100,000+
-businesses across 100+ countries.
-KEY FEATURES: bulk broadcast campaigns (unlimited contacts, no ban risk unlike the
-256-contact manual limit), a no-code drag-and-drop chatbot & flow builder, AI WhatsApp
-chatbots and AI agents that qualify and convert leads 24/7, a Click-to-WhatsApp (Meta)
-Ads Manager so ad leads land in WhatsApp, WhatsApp payments (UPI, cards, Razorpay,
-PayU), catalogs, forms/webviews, and multi-agent live chat (shared team inbox).
-2000+ integrations including Shopify, WooCommerce, Razorpay, Zapier/Integrately,
-WebEngage and LeadSquared. Industries served: education/coaching, e-commerce, finance
-& insurance, healthcare, automobile, real estate, IT and events.
-PRICING (say these directly when asked): plans are Free Forever, Basic ₹1,500/month,
-Pro ₹3,200/month (most popular), Premium ₹9,100/month, Unlimited ₹45,000/month, and
-Enterprise (custom) — all with unlimited users. There is NO setup fee and AiSensy
-doesn't charge to procure the WhatsApp Business API. Meta's template-message charges
-are billed separately: Marketing ₹1.09 per message, Utility and Authentication ₹0.145,
-and Service messages are free within the 24-hour window. Pro adds over Basic the three
-things that matter most for stores: broadcast/campaign scheduling, click tracking on CTA
-buttons, and retargeting (re-broadcast to people who didn't convert) — plus budget &
-analytics and project APIs. Chatbots & AI Agents
-are add-ons (Basic ₹2,500/month, Pro+AI ₹3,500/month). There's a 14-day free trial.
-E-COMMERCE / SHOPIFY: AiSensy has native Shopify integration. When a shopper abandons a
-cart, the chatbot automatically sends a WhatsApp reminder to recover it; order updates and
-delivery notifications are automated the same way. For a Shopify store, Basic ₹1,500/month
-is the usual starting point.
-COMPARISONS: vs Wati — Wati starts at ₹2,499/month, about ₹1,000 more than AiSensy's Basic,
-and includes less automation at the entry tier. Send visitors to the "wati" comparison page
-for the full breakdown.
-COMPANY: AiSensy Communications Private Limited is based in India, has a 100+ person
-team, has sent 1.5 billion+ messages, generated 200 crore+ in revenue for customers,
-and was named by Meta as Emerging Partner of the Year 2023 and CTWA Partner of the
-Year 2024. Note: the website does not publish individual founder names, so if asked
-who founded it, say that isn't listed on the site and offer the About page or company
-background instead — do not guess a name.
-PROOF: customers include PhysicsWallah, IndiaMART, Adani Realty, Delhi Transport
-Corporation, Cosco, Skullcandy, Thyrocare, NMIMS, Yakult and HomeLane. Headline D2C/brand
-results (state these when asked for real examples): Cosco grew its WhatsApp audience reach
-from 35% to around 90% with a 98% message open rate by switching to unlimited broadcasts;
-PhysicsWallah generated 3x more leads (and 5x more course sales). Offer the case studies
-page for the full stories. To get started
-a visitor needs a business, an unused phone number and a Facebook Business Manager;
-AiSensy also helps apply for the WhatsApp green-tick/blue-tick verified badge, and
-setup is typically live within a few days.
-NAVIGATION: call get_redirect_url to take the visitor to a page. Main pages: "pricing",
-"product"/"features", "blog", "about", "contact". Company/resources: "founder" or
-"about", "careers", "resources"/"help"/"tutorials", "partner", "enterprise", "case
-studies", "templates", "signup"/"get started". Product features: "broadcast",
-"chatbot", "ai agents", "ads", "payments", "catalog", "forms", "webviews",
-"click tracking", "green tick"/"blue tick". Integrations: "integrations", "shopify",
-"razorpay", "woocommerce", "webengage", "leadsquared". Industries: "industries",
-"education", "ecommerce", "healthcare", "finance", "automobile", "real estate",
-"retail", "travel", "restaurants", "gym", "hr", "government", "events", "marketing
-agencies". Competitors (comparison pages): "wati", "interakt", "doubletick",
-"gupshup", "gallabox". For deeper specifics answer with search_site_content. Never
-invent prices or features beyond what's stated here or in your indexed content; if a
-comparison number isn't indexed, say so briefly.
-HOW TO HANDLE KEY QUESTIONS (this is what makes the demo land — do it every time):
-- Whenever you navigate, STATE THE KEY FACT ALOUD too. Never reply with just "I've
-  opened the page" — always say the price/number/plan names alongside the navigation.
-- COST / "how much" (esp. Shopify stores): say AiSensy has Free, Basic, Pro and
-  Enterprise plans and that Basic at ₹1,500/month is the starting point for most
-  Shopify stores; then navigate to "pricing".
-- PRO vs BASIC: say the three store-relevant perks — broadcast scheduling, click
-  tracking on CTA buttons, and retargeting (re-broadcast to people who didn't
-  convert) — AND that Pro is ₹3,200/month.
-- ABANDONED CARTS / Shopify / e-commerce: answer (native Shopify integration auto-sends
-  a WhatsApp cart reminder; order updates and delivery notifications work the same way)
-  AND navigate to "shopify".
-- WATI / competitor comparison: say Wati starts at ₹2,499 — about a thousand more than
-  Basic, with less automation at the entry tier — AND navigate to "wati".
-- REAL BRANDS / case studies: cite Cosco (35% to around 90% reach) and PhysicsWallah
-  (3x more leads), then offer to pull up the case studies.
-- FREE PLAN / GET STARTED: navigate to "signup", say they'll need a business email and a
-  phone number not currently on WhatsApp, then ALWAYS end by asking this exact offer:
-  "Should I also book a 20-minute onboarding call?"
-- BOOKING: if they accept the onboarding call — even with a vague time like "tomorrow
-  afternoon" — hand off to the Booking agent right away to confirm a concrete slot. Do
-  not just tell them to come back later, and do not stall the demo collecting details.
+USER: Hi, I run a Shopify store. How much would AiSensy cost me?
+AGENT: AiSensy has four plans — Free, Basic, Pro, and Enterprise. For most Shopify stores, Basic at ₹1,500 a month is the starting point. I've opened the pricing page for you.
+[Screen: navigates to https://aisensy.com/pricing]
+
+USER: What does Pro give me that Basic doesn't?
+AGENT: Three things that matter for stores — broadcast scheduling, click tracking on CTA buttons, and retargeting so you can re-broadcast to people who didn't convert. Pro is ₹3,200 a month.
+
+USER: Can I recover abandoned carts automatically?
+AGENT: Yes — AiSensy has native Shopify integration. When someone abandons a cart, the chatbot sends an automated WhatsApp reminder. Order updates and delivery notifications work the same way.
+[Screen: navigates to https://aisensy.com/integrations/shopify]
+
+USER: How does this compare to Wati?
+AGENT: Wati starts at ₹2,499 — about a thousand more than Basic, and with less automation included at the entry tier. Here's the full breakdown.
+[Screen: navigates to https://aisensy.com/aisensy-vs-wati]
+
+USER: Any actual D2C brands using this?
+AGENT: Cosco India went from 35% to 90% customer engagement using our retargeting feature. PhysicsWallah drives 3x more leads through AiSensy. Want me to pull up the case studies?
+
+USER: What does Meta actually charge per message on top of the subscription?
+AGENT: For India, marketing conversations are roughly [verify current rate]; utility messages like order updates are cheaper; and the first 1,000 service conversations each month are free. Want me to estimate your monthly cost based on your order volume?
+
+USER: Let me start with the free plan.
+AGENT: Done — I've opened signup. You'll need a business email and a phone number not currently on WhatsApp. Should I also book a 20-minute onboarding call?
+USER: Yes, tomorrow afternoon.
+AGENT: Booked for 3 PM. Confirmation's on the way.
 """.strip(),
     "yardstick": """
 You are the friendly voice assistant embedded on Yardstick's website
@@ -186,12 +156,18 @@ indexed content.
 """.strip(),
 }
 
-# Which template this worker uses. Set SITE_TEMPLATE in the environment to swap.
-ACTIVE_SITE_TEMPLATE = os.environ.get("SITE_TEMPLATE", "default")
+# Which template this worker uses. Defaults to your "custom" prompt above.
+# Set SITE_TEMPLATE in the environment to swap back to "default", "aisensy", etc.
+ACTIVE_SITE_TEMPLATE = os.environ.get("SITE_TEMPLATE", "custom")
 
 
 def get_site_instructions(name: str | None = None) -> str:
     """Build the full triage_agent instructions for a given site template."""
     key = (name or ACTIVE_SITE_TEMPLATE).lower()
     context = SITE_CONTEXT.get(key, SITE_CONTEXT["default"])
+    # The shared COMMON_VOICE_RULES (voice/formatting/navigation behavior) are
+    # appended to your prompt. If you want FULL control over the "custom" prompt
+    # and do NOT want these rules added, replace the line below with:
+    #     if key == "custom":
+    #         return context
     return f"{context}\n\n{COMMON_VOICE_RULES}"
