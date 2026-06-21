@@ -126,4 +126,4 @@ VoiceFlow is currently in private beta — a public live demo isn't hosted yet. 
 
 ---
 
-*Submitted to [Hackathon Name].*
+*Submitted to AIBoomi Startup Weekend | Bengaluru.*
