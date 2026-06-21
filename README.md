@@ -35,7 +35,7 @@ The agent is **grounded in your own website content** — it never hallucinates 
 
 ### Sample queries the prototype handles
 
-Our prototype is built on top of [AiSensy](https://aisensy.com) — a WhatsApp Business platform — to showcase real-world performance on a real customer-facing site:
+As an example, we deployed VoiceFlow on [AiSensy](https://aisensy.com)'s live website — a real WhatsApp Business platform — to show how it handles real visitor questions on a production, customer-facing site:
 
 - *"How much does AiSensy cost for a Shopify store?"* → opens `/pricing`, explains tiers
 - *"How is this different from Wati?"* → opens comparison page, gives verdict
@@ -95,7 +95,7 @@ VoiceFlow is currently in private beta — a public live demo isn't hosted yet. 
 
 - **Demo video** — 2-minute walkthrough: [your-demo-video-link](https://your-demo-video-link)
 - **Pitch deck on Gamma** — [view the deck](https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi)
-- **Reference deployment** — built on [aisensy.com](https://aisensy.com) to showcase real visitor query handling
+- **Example deployment** — VoiceFlow embedded on [aisensy.com](https://aisensy.com) (as an example site) to showcase real visitor query handling
 
 > *Live customer-facing demo available on request — reach out at the email below.*
 
