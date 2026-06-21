@@ -4,8 +4,8 @@
 
 **Team — Yardstick**
 
-- **Demo video** — [watch the prototype in action](https://your-demo-video-link)
-- **Pitch deck (Gamma)** — [view the deck](https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi)
+- **Demo video** — <a href="https://your-demo-video-link" target="_blank" rel="noopener noreferrer">watch the prototype in action</a>
+- **Pitch deck (Gamma)** — <a href="https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi" target="_blank" rel="noopener noreferrer">view the deck</a>
 
 ---
 
@@ -35,7 +35,7 @@ The agent is **grounded in your own website content** — it never hallucinates 
 
 ### Sample queries the prototype handles
 
-As an example, we built the demo on [AiSensy](https://aisensy.com)'s website — a real WhatsApp Business platform — to show how it handles real, customer-facing visitor questions:
+As an example, we built the demo on <a href="https://aisensy.com" target="_blank" rel="noopener noreferrer">AiSensy</a>'s website — a real WhatsApp Business platform — to show how it handles real, customer-facing visitor questions:
 
 - *"How much does AiSensy cost for a Shopify store?"* → opens `/pricing`, explains tiers
 - *"How is this different from Wati?"* → opens comparison page, gives verdict
@@ -51,10 +51,10 @@ What makes VoiceFlow different is the bidirectional sync between voice and visua
 ## Tech Stack
 
 ### Voice Pipeline
-- **[LiveKit Cloud](https://livekit.io)** — real-time audio transport over WebRTC
-- **[Deepgram](https://deepgram.com)** — streaming speech-to-text
-- **[OpenAI Agents SDK](https://platform.openai.com/docs/guides/agents)** with **GPT-5.5** — reasoning, tool calling, conversation state
-- **[ElevenLabs](https://elevenlabs.io)** — natural-sounding text-to-speech
+- **<a href="https://livekit.io" target="_blank" rel="noopener noreferrer">LiveKit Cloud</a>** — real-time audio transport over WebRTC
+- **<a href="https://deepgram.com" target="_blank" rel="noopener noreferrer">Deepgram</a>** — streaming speech-to-text
+- **<a href="https://platform.openai.com/docs/guides/agents" target="_blank" rel="noopener noreferrer">OpenAI Agents SDK</a>** with **GPT-5.5** — reasoning, tool calling, conversation state
+- **<a href="https://elevenlabs.io" target="_blank" rel="noopener noreferrer">ElevenLabs</a>** — natural-sounding text-to-speech
 
 ### Interaction Layer *(our IP)*
 - Custom DOM tools for navigation, scrolling, and element highlighting
@@ -93,8 +93,8 @@ What makes VoiceFlow different is the bidirectional sync between voice and visua
 
 VoiceFlow is currently in private beta — a public live demo isn't hosted yet. To see the prototype in action:
 
-- **Demo video** — 2-minute walkthrough: [your-demo-video-link](https://your-demo-video-link)
-- **Pitch deck on Gamma** — [view the deck](https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi)
+- **Demo video** — 2-minute walkthrough: <a href="https://your-demo-video-link" target="_blank" rel="noopener noreferrer">your-demo-video-link</a>
+- **Pitch deck on Gamma** — <a href="https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi" target="_blank" rel="noopener noreferrer">view the deck</a>
 
 > *Live customer-facing demo available on request — reach out at the email below.*
 
@@ -112,16 +112,16 @@ VoiceFlow is currently in private beta — a public live demo isn't hosted yet. 
 | Shipped | Now | Demo prototype on AiSensy · Interaction layer in production |
 | Next | 30 days | Self-serve onboarding · 10 design partners installed · Lead scoring |
 | Next | 60 days | CRM integrations (HubSpot, Salesforce) · Calendar bookings · Public launch |
-| Next | 90 days | Paid tier · Cross-sell into [gingerlabs.ai](https://gingerlabs.ai) |
+| Next | 90 days | Paid tier · Cross-sell into <a href="https://gingerlabs.ai" target="_blank" rel="noopener noreferrer">gingerlabs.ai</a> |
 
 ## Team
 
-**Yardstick** — part of the team at **[gingerlabs.ai](https://gingerlabs.ai)**, where we build browser agents.
+**Yardstick** — part of the team at **<a href="https://gingerlabs.ai" target="_blank" rel="noopener noreferrer">gingerlabs.ai</a>**, where we build browser agents.
 
 ## Contact
 
-- **Demo video:** [your-demo-video-link](https://your-demo-video-link)
-- **Pitch deck (Gamma):** [view the deck](https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi)
+- **Demo video:** <a href="https://your-demo-video-link" target="_blank" rel="noopener noreferrer">your-demo-video-link</a>
+- **Pitch deck (Gamma):** <a href="https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi" target="_blank" rel="noopener noreferrer">view the deck</a>
 - **Email:** `ishrajesh@gingerlabs.ai`
 
 ---
