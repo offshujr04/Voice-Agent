@@ -105,6 +105,7 @@ USER: Let me start with the free plan.
 AGENT: Done — I've opened signup. You'll need a business email and a phone number not currently on WhatsApp. Should I also book a 20-minute onboarding call?
 USER: Yes, tomorrow afternoon.
 AGENT: Booked for 3 PM. Confirmation's on the way.
+[Screen: signup form pre-filled + calendar confirmation]
 """.strip(),
     "yardstick": """
 You are the friendly voice assistant embedded on Yardstick's website
