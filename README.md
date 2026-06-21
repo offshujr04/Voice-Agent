@@ -4,7 +4,7 @@
 
 **Team — Yardstick**
 
-- **Demo video** — <a href="https://your-demo-video-link" target="_blank" rel="noopener noreferrer">watch the prototype in action</a>
+- **Demo video** — <a href="https://youtu.be/O3Pzj1XH4os" target="_blank" rel="noopener noreferrer">watch the prototype in action</a>
 - **Pitch deck (Gamma)** — <a href="https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi" target="_blank" rel="noopener noreferrer">view the deck</a>
 
 ---
@@ -93,7 +93,7 @@ What makes VoiceFlow different is the bidirectional sync between voice and visua
 
 VoiceFlow is currently in private beta — a public live demo isn't hosted yet. To see the prototype in action:
 
-- **Demo video** — 2-minute walkthrough: <a href="https://your-demo-video-link" target="_blank" rel="noopener noreferrer">your-demo-video-link</a>
+- **Demo video** — 2-minute walkthrough: <a href="https://youtu.be/O3Pzj1XH4os" target="_blank" rel="noopener noreferrer">watch the demo</a>
 - **Pitch deck on Gamma** — <a href="https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi" target="_blank" rel="noopener noreferrer">view the deck</a>
 
 > *Live customer-facing demo available on request — reach out at the email below.*
@@ -120,7 +120,7 @@ VoiceFlow is currently in private beta — a public live demo isn't hosted yet. 
 
 ## Contact
 
-- **Demo video:** <a href="https://your-demo-video-link" target="_blank" rel="noopener noreferrer">your-demo-video-link</a>
+- **Demo video:** <a href="https://youtu.be/O3Pzj1XH4os" target="_blank" rel="noopener noreferrer">watch the demo</a>
 - **Pitch deck (Gamma):** <a href="https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi" target="_blank" rel="noopener noreferrer">view the deck</a>
 - **Email:** `ishrajesh@gingerlabs.ai`
 
