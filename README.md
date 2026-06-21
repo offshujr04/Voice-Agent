@@ -122,8 +122,7 @@ VoiceFlow is currently in private beta — a public live demo isn't hosted yet. 
 
 - **Demo video:** [your-demo-video-link](https://your-demo-video-link)
 - **Pitch deck (Gamma):** [view the deck](https://gamma.app/docs/VoiceFlow-np85y8zxgt7mmxi)
-- **Email:** `team@yardstick.ai`
-- **Website:** [gingerlabs.ai](https://gingerlabs.ai)
+- **Email:** `ishrajesh@gingerlabs.ai`
 
 ---
 
